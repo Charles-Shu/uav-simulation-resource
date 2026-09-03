@@ -1,0 +1,2113 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <world name="default">
+    <include><uri>model://sun</uri></include>
+    <include>
+      <name>test05_forest_mountain_vrc_driving_terrain_override</name>
+      <uri>model://test05_forest_mountain_vrc_driving_terrain_override</uri>
+      <static>true</static>
+    </include>
+    <!-- MODELS_BEGIN -->
+    <include>
+      <name>oak_tree_0</name>
+      <uri>model://oak_tree_scale_1_467_1_467_1_467</uri>
+      <pose>40.437 -80.733 7.866 0.000 0.000 2.218</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_1</name>
+      <uri>model://pine_tree_scale_1_963_1_963_1_963</uri>
+      <pose>76.950 -62.279 8.755 0.000 0.000 6.259</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_2</name>
+      <uri>model://oak_tree_scale_1_735_1_735_1_735</uri>
+      <pose>36.756 -60.496 6.336 0.000 0.000 0.819</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_3</name>
+      <uri>model://pine_tree_scale_1_586_1_586_1_586</uri>
+      <pose>-69.506 -65.182 6.650 0.000 0.000 5.129</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_4</name>
+      <uri>model://oak_tree_scale_1_958_1_958_1_958</uri>
+      <pose>27.340 -65.908 6.192 0.000 0.000 1.276</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_5</name>
+      <uri>model://pine_tree_scale_1_846_1_846_1_846</uri>
+      <pose>-70.348 -28.802 7.339 0.000 0.000 1.041</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_6</name>
+      <uri>model://oak_tree_scale_1_323_1_323_1_323</uri>
+      <pose>59.220 17.043 0.000 0.000 0.000 0.256</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_7</name>
+      <uri>model://pine_tree_scale_1_463_1_463_1_463</uri>
+      <pose>73.408 13.386 4.776 0.000 0.000 5.268</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_8</name>
+      <uri>model://oak_tree_scale_1_396_1_396_1_396</uri>
+      <pose>-48.308 -49.779 8.415 0.000 0.000 4.487</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_9</name>
+      <uri>model://pine_tree_scale_1_861_1_861_1_861</uri>
+      <pose>-31.531 38.776 4.296 0.000 0.000 3.100</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_10</name>
+      <uri>model://oak_tree_scale_1_889_1_889_1_889</uri>
+      <pose>-31.411 19.055 4.601 0.000 0.000 5.237</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_11</name>
+      <uri>model://pine_tree_scale_1_846_1_846_1_846</uri>
+      <pose>92.172 36.885 3.156 0.000 0.000 5.859</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_12</name>
+      <uri>model://oak_tree_scale_1_472_1_472_1_472</uri>
+      <pose>-16.891 -48.703 5.532 0.000 0.000 6.177</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_13</name>
+      <uri>model://pine_tree_scale_1_266_1_266_1_266</uri>
+      <pose>70.115 -51.582 9.440 0.000 0.000 1.022</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_14</name>
+      <uri>model://oak_tree_scale_1_070_1_070_1_070</uri>
+      <pose>55.670 -80.854 9.528 0.000 0.000 1.007</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_15</name>
+      <uri>model://pine_tree_scale_1_343_1_343_1_343</uri>
+      <pose>49.501 -48.728 4.928 0.000 0.000 0.256</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_16</name>
+      <uri>model://oak_tree_scale_1_682_1_682_1_682</uri>
+      <pose>72.354 -77.161 9.181 0.000 0.000 5.366</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_17</name>
+      <uri>model://pine_tree_scale_1_965_1_965_1_965</uri>
+      <pose>-44.467 -41.836 5.665 0.000 0.000 3.276</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_18</name>
+      <uri>model://oak_tree_scale_1_605_1_605_1_605</uri>
+      <pose>-61.459 -58.635 7.833 0.000 0.000 1.221</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_19</name>
+      <uri>model://pine_tree_scale_1_692_1_692_1_692</uri>
+      <pose>-27.885 -18.350 1.030 0.000 0.000 5.535</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_20</name>
+      <uri>model://oak_tree_scale_1_110_1_110_1_110</uri>
+      <pose>-9.686 48.142 3.265 0.000 0.000 1.455</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_21</name>
+      <uri>model://pine_tree_scale_1_736_1_736_1_736</uri>
+      <pose>-13.521 -34.471 1.556 0.000 0.000 1.342</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_22</name>
+      <uri>model://oak_tree_scale_1_570_1_570_1_570</uri>
+      <pose>-28.325 5.189 2.743 0.000 0.000 1.846</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_23</name>
+      <uri>model://pine_tree_scale_1_739_1_739_1_739</uri>
+      <pose>-27.949 -51.371 7.079 0.000 0.000 0.106</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_24</name>
+      <uri>model://oak_tree_scale_1_002_1_002_1_002</uri>
+      <pose>-52.161 -32.772 4.838 0.000 0.000 2.067</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_25</name>
+      <uri>model://pine_tree_scale_1_287_1_287_1_287</uri>
+      <pose>30.223 -50.379 4.182 0.000 0.000 0.400</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_26</name>
+      <uri>model://oak_tree_scale_1_694_1_694_1_694</uri>
+      <pose>-78.450 -35.449 6.597 0.000 0.000 4.096</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_27</name>
+      <uri>model://pine_tree_scale_1_429_1_429_1_429</uri>
+      <pose>-92.278 -54.798 7.663 0.000 0.000 3.382</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_28</name>
+      <uri>model://oak_tree_scale_1_932_1_932_1_932</uri>
+      <pose>53.641 31.649 0.000 0.000 0.000 5.728</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_29</name>
+      <uri>model://pine_tree_scale_1_830_1_830_1_830</uri>
+      <pose>55.614 -62.193 7.417 0.000 0.000 2.531</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_30</name>
+      <uri>model://oak_tree_scale_1_832_1_832_1_832</uri>
+      <pose>-17.930 9.636 0.212 0.000 0.000 3.975</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_31</name>
+      <uri>model://pine_tree_scale_1_782_1_782_1_782</uri>
+      <pose>2.819 19.482 1.610 0.000 0.000 2.958</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_32</name>
+      <uri>model://oak_tree_scale_1_540_1_540_1_540</uri>
+      <pose>-39.634 -15.331 4.704 0.000 0.000 1.837</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_33</name>
+      <uri>model://pine_tree_scale_1_257_1_257_1_257</uri>
+      <pose>54.193 -95.061 9.355 0.000 0.000 5.419</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_34</name>
+      <uri>model://oak_tree_scale_1_722_1_722_1_722</uri>
+      <pose>-88.043 -30.541 7.003 0.000 0.000 5.476</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_35</name>
+      <uri>model://pine_tree_scale_1_209_1_209_1_209</uri>
+      <pose>57.808 50.555 0.000 0.000 0.000 6.228</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_36</name>
+      <uri>model://oak_tree_scale_1_108_1_108_1_108</uri>
+      <pose>-6.271 -54.166 4.937 0.000 0.000 1.519</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_37</name>
+      <uri>model://pine_tree_scale_1_617_1_617_1_617</uri>
+      <pose>-2.561 30.578 1.032 0.000 0.000 3.535</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_38</name>
+      <uri>model://oak_tree_scale_1_261_1_261_1_261</uri>
+      <pose>56.356 7.936 0.279 0.000 0.000 2.034</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_39</name>
+      <uri>model://pine_tree_scale_1_073_1_073_1_073</uri>
+      <pose>43.871 -71.783 6.719 0.000 0.000 1.307</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_40</name>
+      <uri>model://oak_tree_scale_1_290_1_290_1_290</uri>
+      <pose>-81.655 -60.452 7.101 0.000 0.000 3.055</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_41</name>
+      <uri>model://pine_tree_scale_1_879_1_879_1_879</uri>
+      <pose>-36.784 27.667 5.961 0.000 0.000 4.061</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_42</name>
+      <uri>model://oak_tree_scale_1_980_1_980_1_980</uri>
+      <pose>-46.807 22.938 4.520 0.000 0.000 5.773</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_43</name>
+      <uri>model://pine_tree_scale_1_345_1_345_1_345</uri>
+      <pose>-8.479 -23.980 0.674 0.000 0.000 5.392</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_44</name>
+      <uri>model://oak_tree_scale_1_520_1_520_1_520</uri>
+      <pose>2.592 38.956 1.296 0.000 0.000 5.406</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_45</name>
+      <uri>model://pine_tree_scale_1_115_1_115_1_115</uri>
+      <pose>96.519 49.841 5.493 0.000 0.000 4.819</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_46</name>
+      <uri>model://oak_tree_scale_1_538_1_538_1_538</uri>
+      <pose>-100.000 -36.360 8.203 0.000 0.000 0.618</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_47</name>
+      <uri>model://pine_tree_scale_1_354_1_354_1_354</uri>
+      <pose>66.910 -69.536 9.956 0.000 0.000 3.730</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_48</name>
+      <uri>model://oak_tree_scale_1_052_1_052_1_052</uri>
+      <pose>59.404 -41.903 5.119 0.000 0.000 2.140</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_49</name>
+      <uri>model://pine_tree_scale_1_903_1_903_1_903</uri>
+      <pose>85.281 52.381 1.164 0.000 0.000 6.266</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_50</name>
+      <uri>model://oak_tree_scale_1_379_1_379_1_379</uri>
+      <pose>83.625 30.733 2.679 0.000 0.000 4.814</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_51</name>
+      <uri>model://pine_tree_scale_1_324_1_324_1_324</uri>
+      <pose>-58.770 -40.989 7.521 0.000 0.000 0.887</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_52</name>
+      <uri>model://oak_tree_scale_1_570_1_570_1_570</uri>
+      <pose>-29.273 -60.522 6.609 0.000 0.000 3.071</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_53</name>
+      <uri>model://pine_tree_scale_1_028_1_028_1_028</uri>
+      <pose>-33.062 -43.970 6.782 0.000 0.000 5.581</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_54</name>
+      <uri>model://oak_tree_scale_1_351_1_351_1_351</uri>
+      <pose>74.787 -41.510 9.527 0.000 0.000 3.898</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_55</name>
+      <uri>model://pine_tree_scale_1_658_1_658_1_658</uri>
+      <pose>-83.209 -15.989 7.008 0.000 0.000 0.364</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_56</name>
+      <uri>model://oak_tree_scale_1_439_1_439_1_439</uri>
+      <pose>-67.029 -49.060 7.263 0.000 0.000 3.334</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_57</name>
+      <uri>model://pine_tree_scale_1_861_1_861_1_861</uri>
+      <pose>-40.520 -26.053 4.559 0.000 0.000 2.627</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_58</name>
+      <uri>model://oak_tree_scale_1_515_1_515_1_515</uri>
+      <pose>-55.760 -22.175 5.094 0.000 0.000 5.258</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_59</name>
+      <uri>model://pine_tree_scale_1_287_1_287_1_287</uri>
+      <pose>-7.338 10.636 0.000 0.000 0.000 3.377</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_60</name>
+      <uri>model://oak_tree_scale_1_491_1_491_1_491</uri>
+      <pose>-79.796 -73.800 7.364 0.000 0.000 5.508</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_61</name>
+      <uri>model://pine_tree_scale_1_297_1_297_1_297</uri>
+      <pose>-95.202 -74.677 8.030 0.000 0.000 4.256</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_62</name>
+      <uri>model://oak_tree_scale_1_882_1_882_1_882</uri>
+      <pose>48.208 -88.486 8.889 0.000 0.000 3.808</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_63</name>
+      <uri>model://pine_tree_scale_1_582_1_582_1_582</uri>
+      <pose>-20.008 -66.546 5.817 0.000 0.000 3.243</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_64</name>
+      <uri>model://oak_tree_scale_1_301_1_301_1_301</uri>
+      <pose>-59.754 -68.172 7.047 0.000 0.000 4.400</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_65</name>
+      <uri>model://pine_tree_scale_1_800_1_800_1_800</uri>
+      <pose>70.291 30.830 0.000 0.000 0.000 2.334</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_66</name>
+      <uri>model://oak_tree_scale_1_937_1_937_1_937</uri>
+      <pose>45.262 24.378 0.000 0.000 0.000 2.652</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_67</name>
+      <uri>model://pine_tree_scale_1_544_1_544_1_544</uri>
+      <pose>-95.679 -46.679 7.848 0.000 0.000 0.769</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_68</name>
+      <uri>model://oak_tree_scale_1_864_1_864_1_864</uri>
+      <pose>-19.126 55.312 3.648 0.000 0.000 5.156</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_69</name>
+      <uri>model://pine_tree_scale_1_985_1_985_1_985</uri>
+      <pose>-48.601 -58.467 10.205 0.000 0.000 2.921</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_70</name>
+      <uri>model://oak_tree_scale_1_301_1_301_1_301</uri>
+      <pose>-99.098 -61.578 8.113 0.000 0.000 3.660</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_71</name>
+      <uri>model://pine_tree_scale_1_936_1_936_1_936</uri>
+      <pose>64.424 -85.806 10.062 0.000 0.000 2.053</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_72</name>
+      <uri>model://oak_tree_scale_1_223_1_223_1_223</uri>
+      <pose>66.453 56.163 1.349 0.000 0.000 5.803</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_73</name>
+      <uri>model://pine_tree_scale_1_280_1_280_1_280</uri>
+      <pose>72.581 -90.539 8.560 0.000 0.000 3.010</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_74</name>
+      <uri>model://oak_tree_scale_1_794_1_794_1_794</uri>
+      <pose>93.796 59.050 6.764 0.000 0.000 4.556</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_75</name>
+      <uri>model://pine_tree_scale_1_758_1_758_1_758</uri>
+      <pose>65.112 -29.544 4.824 0.000 0.000 3.893</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_76</name>
+      <uri>model://oak_tree_scale_1_719_1_719_1_719</uri>
+      <pose>-82.827 -45.441 6.799 0.000 0.000 3.787</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_77</name>
+      <uri>model://pine_tree_scale_1_507_1_507_1_507</uri>
+      <pose>-69.739 -37.911 7.142 0.000 0.000 1.364</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_78</name>
+      <uri>model://oak_tree_scale_1_528_1_528_1_528</uri>
+      <pose>32.334 -41.896 2.817 0.000 0.000 5.717</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_79</name>
+      <uri>model://pine_tree_scale_1_229_1_229_1_229</uri>
+      <pose>76.759 23.795 4.295 0.000 0.000 5.559</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_80</name>
+      <uri>model://oak_tree_scale_1_048_1_048_1_048</uri>
+      <pose>82.860 71.439 8.018 0.000 0.000 1.138</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_81</name>
+      <uri>model://pine_tree_scale_1_113_1_113_1_113</uri>
+      <pose>90.607 15.693 6.950 0.000 0.000 3.226</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_82</name>
+      <uri>model://oak_tree_scale_1_313_1_313_1_313</uri>
+      <pose>-79.454 -26.007 6.753 0.000 0.000 4.807</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_83</name>
+      <uri>model://pine_tree_scale_1_003_1_003_1_003</uri>
+      <pose>53.433 42.439 0.000 0.000 0.000 1.884</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_84</name>
+      <uri>model://oak_tree_scale_1_954_1_954_1_954</uri>
+      <pose>-34.056 -75.663 9.834 0.000 0.000 1.066</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_85</name>
+      <uri>model://pine_tree_scale_1_950_1_950_1_950</uri>
+      <pose>-69.482 -12.437 7.012 0.000 0.000 1.492</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_86</name>
+      <uri>model://oak_tree_scale_1_097_1_097_1_097</uri>
+      <pose>67.697 45.523 0.000 0.000 0.000 0.476</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_87</name>
+      <uri>model://pine_tree_scale_1_870_1_870_1_870</uri>
+      <pose>99.583 21.525 7.865 0.000 0.000 2.522</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_88</name>
+      <uri>model://oak_tree_scale_1_421_1_421_1_421</uri>
+      <pose>29.688 -75.421 8.194 0.000 0.000 4.744</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_89</name>
+      <uri>model://pine_tree_scale_1_884_1_884_1_884</uri>
+      <pose>-90.865 -21.613 7.221 0.000 0.000 5.452</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_90</name>
+      <uri>model://oak_tree_scale_1_641_1_641_1_641</uri>
+      <pose>-17.714 -4.481 0.784 0.000 0.000 3.190</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_91</name>
+      <uri>model://pine_tree_scale_1_438_1_438_1_438</uri>
+      <pose>82.989 41.016 0.000 0.000 0.000 4.688</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_92</name>
+      <uri>model://oak_tree_scale_1_681_1_681_1_681</uri>
+      <pose>14.675 21.674 1.458 0.000 0.000 5.935</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_93</name>
+      <uri>model://pine_tree_scale_1_937_1_937_1_937</uri>
+      <pose>65.455 8.474 2.141 0.000 0.000 5.986</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_94</name>
+      <uri>model://oak_tree_scale_1_509_1_509_1_509</uri>
+      <pose>-52.540 -5.415 4.740 0.000 0.000 5.237</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_95</name>
+      <uri>model://pine_tree_scale_1_546_1_546_1_546</uri>
+      <pose>63.463 24.797 0.000 0.000 0.000 4.503</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_96</name>
+      <uri>model://oak_tree_scale_1_003_1_003_1_003</uri>
+      <pose>-37.932 -54.109 8.438 0.000 0.000 4.164</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_97</name>
+      <uri>model://pine_tree_scale_1_624_1_624_1_624</uri>
+      <pose>21.606 41.370 0.000 0.000 0.000 0.756</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_98</name>
+      <uri>model://oak_tree_scale_1_464_1_464_1_464</uri>
+      <pose>-24.518 -35.926 3.185 0.000 0.000 4.896</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_99</name>
+      <uri>model://pine_tree_scale_1_097_1_097_1_097</uri>
+      <pose>-21.843 41.996 3.259 0.000 0.000 0.462</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_100</name>
+      <uri>model://oak_tree_scale_1_288_1_288_1_288</uri>
+      <pose>39.411 -93.064 9.614 0.000 0.000 4.657</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_101</name>
+      <uri>model://pine_tree_scale_1_255_1_255_1_255</uri>
+      <pose>13.792 33.972 1.223 0.000 0.000 5.231</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_102</name>
+      <uri>model://oak_tree_scale_1_210_1_210_1_210</uri>
+      <pose>-2.821 -34.909 1.590 0.000 0.000 1.188</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_103</name>
+      <uri>model://pine_tree_scale_1_455_1_455_1_455</uri>
+      <pose>-82.556 -85.468 7.798 0.000 0.000 2.962</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_104</name>
+      <uri>model://oak_tree_scale_1_059_1_059_1_059</uri>
+      <pose>-30.164 51.101 3.545 0.000 0.000 5.041</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_105</name>
+      <uri>model://pine_tree_scale_1_446_1_446_1_446</uri>
+      <pose>81.197 -82.404 8.125 0.000 0.000 4.139</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_106</name>
+      <uri>model://oak_tree_scale_1_233_1_233_1_233</uri>
+      <pose>63.949 -99.684 8.852 0.000 0.000 4.778</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_107</name>
+      <uri>model://pine_tree_scale_1_547_1_547_1_547</uri>
+      <pose>0.081 3.389 0.000 0.000 0.000 5.408</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_108</name>
+      <uri>model://oak_tree_scale_1_150_1_150_1_150</uri>
+      <pose>100.000 30.141 7.262 0.000 0.000 6.138</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_109</name>
+      <uri>model://pine_tree_scale_1_040_1_040_1_040</uri>
+      <pose>-30.985 -29.729 3.269 0.000 0.000 3.079</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_110</name>
+      <uri>model://oak_tree_scale_1_695_1_695_1_695</uri>
+      <pose>-41.737 39.620 5.552 0.000 0.000 6.068</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_111</name>
+      <uri>model://pine_tree_scale_1_295_1_295_1_295</uri>
+      <pose>-0.057 56.738 4.082 0.000 0.000 5.663</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_112</name>
+      <uri>model://oak_tree_scale_1_632_1_632_1_632</uri>
+      <pose>100.000 69.782 8.752 0.000 0.000 2.741</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_113</name>
+      <uri>model://pine_tree_scale_1_924_1_924_1_924</uri>
+      <pose>-46.478 -75.346 8.468 0.000 0.000 0.083</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_114</name>
+      <uri>model://oak_tree_scale_1_201_1_201_1_201</uri>
+      <pose>-40.882 -64.090 10.580 0.000 0.000 1.305</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_115</name>
+      <uri>model://pine_tree_scale_1_585_1_585_1_585</uri>
+      <pose>14.715 -72.062 11.383 0.000 0.000 3.797</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_116</name>
+      <uri>model://oak_tree_scale_1_007_1_007_1_007</uri>
+      <pose>49.636 -38.590 3.884 0.000 0.000 4.132</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_117</name>
+      <uri>model://pine_tree_scale_1_962_1_962_1_962</uri>
+      <pose>9.019 -42.554 3.022 0.000 0.000 2.247</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_118</name>
+      <uri>model://oak_tree_scale_1_554_1_554_1_554</uri>
+      <pose>-97.576 -87.708 8.203 0.000 0.000 2.732</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_119</name>
+      <uri>model://pine_tree_scale_1_645_1_645_1_645</uri>
+      <pose>84.487 -51.568 8.897 0.000 0.000 2.594</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_120</name>
+      <uri>model://oak_tree_scale_1_454_1_454_1_454</uri>
+      <pose>10.998 56.281 1.051 0.000 0.000 6.009</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_121</name>
+      <uri>model://pine_tree_scale_1_540_1_540_1_540</uri>
+      <pose>39.689 38.580 1.630 0.000 0.000 2.404</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_122</name>
+      <uri>model://oak_tree_scale_1_535_1_535_1_535</uri>
+      <pose>81.658 -1.962 6.992 0.000 0.000 2.885</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_123</name>
+      <uri>model://pine_tree_scale_1_290_1_290_1_290</uri>
+      <pose>-88.037 -2.703 7.763 0.000 0.000 5.563</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_124</name>
+      <uri>model://oak_tree_scale_1_571_1_571_1_571</uri>
+      <pose>-7.624 -6.214 0.000 0.000 0.000 2.797</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_125</name>
+      <uri>model://pine_tree_scale_1_473_1_473_1_473</uri>
+      <pose>61.543 36.740 0.000 0.000 0.000 6.018</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_126</name>
+      <uri>model://oak_tree_scale_1_519_1_519_1_519</uri>
+      <pose>-15.236 24.443 2.111 0.000 0.000 5.729</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_127</name>
+      <uri>model://pine_tree_scale_1_811_1_811_1_811</uri>
+      <pose>-41.286 51.836 4.930 0.000 0.000 4.869</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_128</name>
+      <uri>model://oak_tree_scale_1_404_1_404_1_404</uri>
+      <pose>42.035 50.839 1.558 0.000 0.000 3.243</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_129</name>
+      <uri>model://pine_tree_scale_1_572_1_572_1_572</uri>
+      <pose>28.684 29.229 0.181 0.000 0.000 3.726</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_130</name>
+      <uri>model://oak_tree_scale_1_276_1_276_1_276</uri>
+      <pose>43.883 60.318 2.528 0.000 0.000 4.509</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_131</name>
+      <uri>model://pine_tree_scale_1_800_1_800_1_800</uri>
+      <pose>-54.832 -80.146 6.893 0.000 0.000 4.762</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_132</name>
+      <uri>model://oak_tree_scale_1_244_1_244_1_244</uri>
+      <pose>84.636 -69.260 9.616 0.000 0.000 0.597</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_133</name>
+      <uri>model://pine_tree_scale_1_017_1_017_1_017</uri>
+      <pose>8.335 7.811 0.000 0.000 0.000 0.260</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_134</name>
+      <uri>model://oak_tree_scale_1_601_1_601_1_601</uri>
+      <pose>-6.247 -64.112 6.101 0.000 0.000 4.874</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_135</name>
+      <uri>model://pine_tree_scale_1_490_1_490_1_490</uri>
+      <pose>-100.000 -20.645 8.125 0.000 0.000 5.445</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_136</name>
+      <uri>model://oak_tree_scale_1_762_1_762_1_762</uri>
+      <pose>50.729 -26.537 3.176 0.000 0.000 2.862</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_137</name>
+      <uri>model://pine_tree_scale_1_826_1_826_1_826</uri>
+      <pose>-47.799 14.110 4.637 0.000 0.000 1.543</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_138</name>
+      <uri>model://oak_tree_scale_1_409_1_409_1_409</uri>
+      <pose>82.238 -100.000 8.517 0.000 0.000 4.560</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_139</name>
+      <uri>model://pine_tree_scale_1_567_1_567_1_567</uri>
+      <pose>76.290 62.029 5.239 0.000 0.000 1.495</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_140</name>
+      <uri>model://oak_tree_scale_1_536_1_536_1_536</uri>
+      <pose>-100.000 -8.580 8.125 0.000 0.000 3.924</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_141</name>
+      <uri>model://pine_tree_scale_1_813_1_813_1_813</uri>
+      <pose>-75.192 -52.577 6.515 0.000 0.000 5.622</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_142</name>
+      <uri>model://oak_tree_scale_1_721_1_721_1_721</uri>
+      <pose>60.574 -52.526 7.346 0.000 0.000 2.225</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_143</name>
+      <uri>model://pine_tree_scale_1_898_1_898_1_898</uri>
+      <pose>27.131 -94.069 10.460 0.000 0.000 1.830</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_144</name>
+      <uri>model://oak_tree_scale_1_315_1_315_1_315</uri>
+      <pose>-70.202 -0.843 5.719 0.000 0.000 4.050</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_145</name>
+      <uri>model://pine_tree_scale_1_716_1_716_1_716</uri>
+      <pose>73.654 72.115 9.527 0.000 0.000 0.753</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_146</name>
+      <uri>model://oak_tree_scale_1_843_1_843_1_843</uri>
+      <pose>30.347 -31.304 1.494 0.000 0.000 2.998</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_147</name>
+      <uri>model://pine_tree_scale_1_684_1_684_1_684</uri>
+      <pose>-39.069 15.028 4.155 0.000 0.000 1.346</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_148</name>
+      <uri>model://oak_tree_scale_1_388_1_388_1_388</uri>
+      <pose>-43.257 0.684 4.958 0.000 0.000 4.599</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_149</name>
+      <uri>model://pine_tree_scale_1_546_1_546_1_546</uri>
+      <pose>-13.518 -14.333 0.000 0.000 0.000 0.724</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_150</name>
+      <uri>model://oak_tree_scale_1_892_1_892_1_892</uri>
+      <pose>46.408 8.095 0.000 0.000 0.000 5.108</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_151</name>
+      <uri>model://pine_tree_scale_1_316_1_316_1_316</uri>
+      <pose>45.354 -100.000 9.066 0.000 0.000 4.297</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_152</name>
+      <uri>model://oak_tree_scale_1_190_1_190_1_190</uri>
+      <pose>100.000 4.455 8.831 0.000 0.000 5.384</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_153</name>
+      <uri>model://pine_tree_scale_1_005_1_005_1_005</uri>
+      <pose>89.919 -11.738 8.679 0.000 0.000 4.176</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_154</name>
+      <uri>model://oak_tree_scale_1_543_1_543_1_543</uri>
+      <pose>-6.038 -43.551 3.054 0.000 0.000 6.260</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_155</name>
+      <uri>model://pine_tree_scale_1_999_1_999_1_999</uri>
+      <pose>60.407 79.435 5.952 0.000 0.000 1.446</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_156</name>
+      <uri>model://oak_tree_scale_1_350_1_350_1_350</uri>
+      <pose>-71.280 -77.451 7.198 0.000 0.000 2.331</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_157</name>
+      <uri>model://pine_tree_scale_1_156_1_156_1_156</uri>
+      <pose>-61.338 5.753 5.457 0.000 0.000 3.693</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_158</name>
+      <uri>model://oak_tree_scale_1_341_1_341_1_341</uri>
+      <pose>-5.865 19.592 1.526 0.000 0.000 3.259</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_159</name>
+      <uri>model://pine_tree_scale_1_553_1_553_1_553</uri>
+      <pose>60.649 -21.818 3.530 0.000 0.000 1.799</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_160</name>
+      <uri>model://oak_tree_scale_1_113_1_113_1_113</uri>
+      <pose>11.190 -6.592 0.000 0.000 0.000 5.193</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_161</name>
+      <uri>model://pine_tree_scale_1_000_1_000_1_000</uri>
+      <pose>33.624 -100.000 9.458 0.000 0.000 1.646</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_162</name>
+      <uri>model://oak_tree_scale_1_487_1_487_1_487</uri>
+      <pose>-75.477 11.822 7.835 0.000 0.000 5.670</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_163</name>
+      <uri>model://pine_tree_scale_1_973_1_973_1_973</uri>
+      <pose>-17.285 -25.183 0.692 0.000 0.000 5.232</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_164</name>
+      <uri>model://oak_tree_scale_1_826_1_826_1_826</uri>
+      <pose>-100.000 5.976 8.125 0.000 0.000 3.227</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_165</name>
+      <uri>model://pine_tree_scale_1_695_1_695_1_695</uri>
+      <pose>14.718 -62.038 6.209 0.000 0.000 3.641</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_166</name>
+      <uri>model://oak_tree_scale_1_635_1_635_1_635</uri>
+      <pose>14.323 -87.819 12.537 0.000 0.000 0.613</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_167</name>
+      <uri>model://pine_tree_scale_1_966_1_966_1_966</uri>
+      <pose>40.702 -35.574 2.841 0.000 0.000 2.070</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_168</name>
+      <uri>model://oak_tree_scale_1_596_1_596_1_596</uri>
+      <pose>-23.837 27.127 3.768 0.000 0.000 1.432</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_169</name>
+      <uri>model://pine_tree_scale_1_554_1_554_1_554</uri>
+      <pose>1.905 -20.572 0.295 0.000 0.000 3.741</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_170</name>
+      <uri>model://oak_tree_scale_1_398_1_398_1_398</uri>
+      <pose>-53.548 -89.156 7.428 0.000 0.000 1.212</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_171</name>
+      <uri>model://pine_tree_scale_1_567_1_567_1_567</uri>
+      <pose>-79.028 -6.433 7.702 0.000 0.000 3.128</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_172</name>
+      <uri>model://oak_tree_scale_1_802_1_802_1_802</uri>
+      <pose>-67.531 16.367 6.352 0.000 0.000 1.144</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_173</name>
+      <uri>model://pine_tree_scale_1_671_1_671_1_671</uri>
+      <pose>-48.742 -14.249 5.533 0.000 0.000 0.601</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_174</name>
+      <uri>model://oak_tree_scale_1_357_1_357_1_357</uri>
+      <pose>93.110 -64.184 11.916 0.000 0.000 5.132</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_175</name>
+      <uri>model://pine_tree_scale_1_276_1_276_1_276</uri>
+      <pose>91.129 78.439 10.395 0.000 0.000 3.977</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_176</name>
+      <uri>model://oak_tree_scale_1_878_1_878_1_878</uri>
+      <pose>58.712 65.266 3.763 0.000 0.000 5.143</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_177</name>
+      <uri>model://pine_tree_scale_1_812_1_812_1_812</uri>
+      <pose>23.301 14.040 0.000 0.000 0.000 1.333</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_178</name>
+      <uri>model://oak_tree_scale_1_603_1_603_1_603</uri>
+      <pose>-14.306 36.480 1.992 0.000 0.000 2.519</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_179</name>
+      <uri>model://pine_tree_scale_1_623_1_623_1_623</uri>
+      <pose>-70.853 -91.324 7.795 0.000 0.000 0.039</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_180</name>
+      <uri>model://oak_tree_scale_1_724_1_724_1_724</uri>
+      <pose>-30.391 -8.356 1.658 0.000 0.000 5.636</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_181</name>
+      <uri>model://pine_tree_scale_1_669_1_669_1_669</uri>
+      <pose>31.472 17.579 0.377 0.000 0.000 2.959</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_182</name>
+      <uri>model://oak_tree_scale_1_669_1_669_1_669</uri>
+      <pose>-51.183 36.960 6.691 0.000 0.000 0.288</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_183</name>
+      <uri>model://pine_tree_scale_1_723_1_723_1_723</uri>
+      <pose>-88.488 -94.706 8.125 0.000 0.000 3.380</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_184</name>
+      <uri>model://oak_tree_scale_1_858_1_858_1_858</uri>
+      <pose>-10.208 60.918 4.593 0.000 0.000 0.689</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_185</name>
+      <uri>model://pine_tree_scale_1_301_1_301_1_301</uri>
+      <pose>69.792 80.847 7.831 0.000 0.000 5.361</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_186</name>
+      <uri>model://oak_tree_scale_1_915_1_915_1_915</uri>
+      <pose>72.185 1.178 4.872 0.000 0.000 5.693</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_187</name>
+      <uri>model://pine_tree_scale_1_280_1_280_1_280</uri>
+      <pose>-63.957 -85.732 7.403 0.000 0.000 1.720</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_188</name>
+      <uri>model://oak_tree_scale_1_884_1_884_1_884</uri>
+      <pose>45.685 -60.677 6.608 0.000 0.000 2.914</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_189</name>
+      <uri>model://pine_tree_scale_1_200_1_200_1_200</uri>
+      <pose>-91.460 -11.572 7.461 0.000 0.000 1.209</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_190</name>
+      <uri>model://oak_tree_scale_1_787_1_787_1_787</uri>
+      <pose>-90.737 -65.578 7.736 0.000 0.000 4.595</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_191</name>
+      <uri>model://pine_tree_scale_1_877_1_877_1_877</uri>
+      <pose>100.000 82.959 8.517 0.000 0.000 2.464</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_192</name>
+      <uri>model://oak_tree_scale_1_476_1_476_1_476</uri>
+      <pose>-32.242 -85.834 8.903 0.000 0.000 3.367</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_193</name>
+      <uri>model://pine_tree_scale_1_445_1_445_1_445</uri>
+      <pose>-63.320 -98.941 8.097 0.000 0.000 1.676</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_194</name>
+      <uri>model://oak_tree_scale_1_321_1_321_1_321</uri>
+      <pose>53.608 72.977 4.198 0.000 0.000 3.076</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_195</name>
+      <uri>model://pine_tree_scale_1_058_1_058_1_058</uri>
+      <pose>-81.058 -100.000 8.203 0.000 0.000 3.193</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_196</name>
+      <uri>model://oak_tree_scale_1_088_1_088_1_088</uri>
+      <pose>-61.995 -3.807 4.927 0.000 0.000 1.205</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_197</name>
+      <uri>model://pine_tree_scale_1_486_1_486_1_486</uri>
+      <pose>12.882 -100.000 8.360 0.000 0.000 4.518</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_198</name>
+      <uri>model://oak_tree_scale_1_592_1_592_1_592</uri>
+      <pose>-93.997 17.194 8.137 0.000 0.000 4.602</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_199</name>
+      <uri>model://pine_tree_scale_1_961_1_961_1_961</uri>
+      <pose>-71.504 24.852 7.161 0.000 0.000 5.336</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_200</name>
+      <uri>model://oak_tree_scale_1_906_1_906_1_906</uri>
+      <pose>93.246 -46.233 8.819 0.000 0.000 0.447</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_201</name>
+      <uri>model://pine_tree_scale_1_627_1_627_1_627</uri>
+      <pose>11.186 67.698 0.230 0.000 0.000 1.008</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_202</name>
+      <uri>model://oak_tree_scale_1_709_1_709_1_709</uri>
+      <pose>14.808 -34.093 1.416 0.000 0.000 1.949</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_203</name>
+      <uri>model://pine_tree_scale_1_733_1_733_1_733</uri>
+      <pose>1.582 -10.921 0.000 0.000 0.000 5.173</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_204</name>
+      <uri>model://oak_tree_scale_1_719_1_719_1_719</uri>
+      <pose>10.026 -24.665 0.451 0.000 0.000 2.891</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_205</name>
+      <uri>model://pine_tree_scale_1_239_1_239_1_239</uri>
+      <pose>-20.601 -77.928 8.153 0.000 0.000 0.621</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_206</name>
+      <uri>model://oak_tree_scale_1_023_1_023_1_023</uri>
+      <pose>32.306 49.327 1.827 0.000 0.000 2.774</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_207</name>
+      <uri>model://pine_tree_scale_1_617_1_617_1_617</uri>
+      <pose>-18.800 -87.604 8.587 0.000 0.000 4.530</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_208</name>
+      <uri>model://oak_tree_scale_1_805_1_805_1_805</uri>
+      <pose>99.028 -85.371 9.515 0.000 0.000 4.760</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_209</name>
+      <uri>model://pine_tree_scale_1_851_1_851_1_851</uri>
+      <pose>100.000 -96.692 8.909 0.000 0.000 3.061</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_210</name>
+      <uri>model://oak_tree_scale_1_449_1_449_1_449</uri>
+      <pose>91.323 69.725 9.166 0.000 0.000 0.243</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_211</name>
+      <uri>model://pine_tree_scale_1_306_1_306_1_306</uri>
+      <pose>-56.917 16.789 5.119 0.000 0.000 4.159</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_212</name>
+      <uri>model://oak_tree_scale_1_251_1_251_1_251</uri>
+      <pose>-42.784 -85.853 7.681 0.000 0.000 0.604</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_213</name>
+      <uri>model://pine_tree_scale_1_481_1_481_1_481</uri>
+      <pose>25.379 61.413 4.211 0.000 0.000 2.463</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_214</name>
+      <uri>model://oak_tree_scale_1_200_1_200_1_200</uri>
+      <pose>4.273 -58.340 5.831 0.000 0.000 0.782</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_215</name>
+      <uri>model://pine_tree_scale_1_286_1_286_1_286</uri>
+      <pose>22.594 -39.485 2.170 0.000 0.000 4.528</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_216</name>
+      <uri>model://oak_tree_scale_1_740_1_740_1_740</uri>
+      <pose>79.128 87.749 7.745 0.000 0.000 5.398</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_217</name>
+      <uri>model://pine_tree_scale_1_415_1_415_1_415</uri>
+      <pose>41.007 73.215 3.195 0.000 0.000 3.229</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_218</name>
+      <uri>model://oak_tree_scale_1_152_1_152_1_152</uri>
+      <pose>-0.026 -70.743 11.484 0.000 0.000 5.436</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_219</name>
+      <uri>model://pine_tree_scale_1_438_1_438_1_438</uri>
+      <pose>-16.348 73.540 1.840 0.000 0.000 1.595</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_220</name>
+      <uri>model://oak_tree_scale_1_822_1_822_1_822</uri>
+      <pose>-2.112 69.385 1.998 0.000 0.000 5.738</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_221</name>
+      <uri>model://pine_tree_scale_1_740_1_740_1_740</uri>
+      <pose>-20.389 -57.085 5.965 0.000 0.000 3.087</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_222</name>
+      <uri>model://oak_tree_scale_1_422_1_422_1_422</uri>
+      <pose>39.128 -20.227 1.852 0.000 0.000 3.213</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_223</name>
+      <uri>model://pine_tree_scale_1_202_1_202_1_202</uri>
+      <pose>19.343 -2.569 0.000 0.000 0.000 1.642</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_224</name>
+      <uri>model://oak_tree_scale_1_607_1_607_1_607</uri>
+      <pose>-26.724 60.646 3.134 0.000 0.000 1.813</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_225</name>
+      <uri>model://pine_tree_scale_1_769_1_769_1_769</uri>
+      <pose>-39.803 -100.000 8.125 0.000 0.000 5.735</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_226</name>
+      <uri>model://oak_tree_scale_1_544_1_544_1_544</uri>
+      <pose>-40.170 60.660 4.605 0.000 0.000 5.029</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_227</name>
+      <uri>model://pine_tree_scale_1_286_1_286_1_286</uri>
+      <pose>-0.057 -82.067 13.055 0.000 0.000 2.538</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_228</name>
+      <uri>model://oak_tree_scale_1_513_1_513_1_513</uri>
+      <pose>46.298 -2.921 0.370 0.000 0.000 1.857</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_229</name>
+      <uri>model://pine_tree_scale_1_933_1_933_1_933</uri>
+      <pose>-57.245 46.778 8.141 0.000 0.000 0.478</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_230</name>
+      <uri>model://oak_tree_scale_1_805_1_805_1_805</uri>
+      <pose>-17.401 -100.000 8.203 0.000 0.000 2.878</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_231</name>
+      <uri>model://pine_tree_scale_1_651_1_651_1_651</uri>
+      <pose>-100.000 -100.000 8.203 0.000 0.000 0.910</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_232</name>
+      <uri>model://oak_tree_scale_1_518_1_518_1_518</uri>
+      <pose>81.821 -30.948 9.499 0.000 0.000 0.024</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_233</name>
+      <uri>model://pine_tree_scale_1_532_1_532_1_532</uri>
+      <pose>100.000 -9.927 9.301 0.000 0.000 1.121</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_234</name>
+      <uri>model://oak_tree_scale_1_578_1_578_1_578</uri>
+      <pose>61.320 -8.240 3.823 0.000 0.000 4.286</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_235</name>
+      <uri>model://pine_tree_scale_1_384_1_384_1_384</uri>
+      <pose>30.820 -4.466 0.000 0.000 0.000 3.863</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_236</name>
+      <uri>model://oak_tree_scale_1_456_1_456_1_456</uri>
+      <pose>12.223 -52.288 5.299 0.000 0.000 4.865</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_237</name>
+      <uri>model://pine_tree_scale_1_876_1_876_1_876</uri>
+      <pose>91.946 -78.224 10.348 0.000 0.000 4.677</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_238</name>
+      <uri>model://oak_tree_scale_1_428_1_428_1_428</uri>
+      <pose>27.258 77.382 1.840 0.000 0.000 0.867</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_239</name>
+      <uri>model://pine_tree_scale_1_585_1_585_1_585</uri>
+      <pose>19.605 52.211 1.087 0.000 0.000 1.778</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_240</name>
+      <uri>model://oak_tree_scale_1_768_1_768_1_768</uri>
+      <pose>8.348 46.643 1.314 0.000 0.000 5.416</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_241</name>
+      <uri>model://pine_tree_scale_1_323_1_323_1_323</uri>
+      <pose>0.060 -100.000 8.282 0.000 0.000 1.963</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_242</name>
+      <uri>model://oak_tree_scale_1_781_1_781_1_781</uri>
+      <pose>78.367 -14.846 6.487 0.000 0.000 2.090</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_243</name>
+      <uri>model://pine_tree_scale_1_326_1_326_1_326</uri>
+      <pose>20.465 -25.284 0.539 0.000 0.000 5.083</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_244</name>
+      <uri>model://oak_tree_scale_1_390_1_390_1_390</uri>
+      <pose>-37.904 68.979 4.508 0.000 0.000 6.191</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_245</name>
+      <uri>model://pine_tree_scale_1_018_1_018_1_018</uri>
+      <pose>-54.755 -100.000 8.203 0.000 0.000 6.263</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_246</name>
+      <uri>model://oak_tree_scale_1_802_1_802_1_802</uri>
+      <pose>97.008 -54.084 9.838 0.000 0.000 3.326</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_247</name>
+      <uri>model://pine_tree_scale_1_778_1_778_1_778</uri>
+      <pose>-65.614 -20.884 7.154 0.000 0.000 2.782</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_248</name>
+      <uri>model://oak_tree_scale_1_144_1_144_1_144</uri>
+      <pose>35.315 5.725 0.000 0.000 0.000 4.978</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_249</name>
+      <uri>model://pine_tree_scale_1_272_1_272_1_272</uri>
+      <pose>-71.957 -100.000 8.203 0.000 0.000 2.309</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_250</name>
+      <uri>model://oak_tree_scale_1_603_1_603_1_603</uri>
+      <pose>-9.502 -82.380 7.905 0.000 0.000 3.023</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_251</name>
+      <uri>model://pine_tree_scale_1_726_1_726_1_726</uri>
+      <pose>5.845 -32.840 1.324 0.000 0.000 0.873</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_252</name>
+      <uri>model://oak_tree_scale_1_308_1_308_1_308</uri>
+      <pose>39.102 -49.926 4.582 0.000 0.000 5.128</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_253</name>
+      <uri>model://pine_tree_scale_1_529_1_529_1_529</uri>
+      <pose>-57.827 28.277 5.788 0.000 0.000 0.965</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_254</name>
+      <uri>model://oak_tree_scale_1_247_1_247_1_247</uri>
+      <pose>-86.245 22.207 7.889 0.000 0.000 1.112</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_255</name>
+      <uri>model://pine_tree_scale_1_877_1_877_1_877</uri>
+      <pose>-91.080 -38.892 7.386 0.000 0.000 2.656</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_256</name>
+      <uri>model://oak_tree_scale_1_541_1_541_1_541</uri>
+      <pose>70.558 93.653 6.809 0.000 0.000 1.721</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_257</name>
+      <uri>model://pine_tree_scale_1_152_1_152_1_152</uri>
+      <pose>-51.973 5.885 5.246 0.000 0.000 2.501</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_258</name>
+      <uri>model://oak_tree_scale_1_179_1_179_1_179</uri>
+      <pose>-27.294 70.171 2.595 0.000 0.000 4.800</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_259</name>
+      <uri>model://pine_tree_scale_1_358_1_358_1_358</uri>
+      <pose>-70.263 36.410 8.366 0.000 0.000 4.770</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_260</name>
+      <uri>model://oak_tree_scale_1_659_1_659_1_659</uri>
+      <pose>-92.756 29.916 8.008 0.000 0.000 4.574</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_261</name>
+      <uri>model://pine_tree_scale_1_760_1_760_1_760</uri>
+      <pose>91.020 -100.000 8.752 0.000 0.000 3.243</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_262</name>
+      <uri>model://oak_tree_scale_1_788_1_788_1_788</uri>
+      <pose>-81.893 4.096 7.730 0.000 0.000 3.076</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_263</name>
+      <uri>model://pine_tree_scale_1_597_1_597_1_597</uri>
+      <pose>89.743 -37.591 9.474 0.000 0.000 2.254</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_264</name>
+      <uri>model://oak_tree_scale_1_304_1_304_1_304</uri>
+      <pose>17.980 -14.924 0.051 0.000 0.000 2.705</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_265</name>
+      <uri>model://pine_tree_scale_1_418_1_418_1_418</uri>
+      <pose>-67.277 -36.211 7.345 0.000 0.000 4.468</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_266</name>
+      <uri>model://oak_tree_scale_1_404_1_404_1_404</uri>
+      <pose>-30.572 -96.083 8.008 0.000 0.000 3.536</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_267</name>
+      <uri>model://pine_tree_scale_1_412_1_412_1_412</uri>
+      <pose>-10.333 2.550 0.000 0.000 0.000 4.741</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_268</name>
+      <uri>model://oak_tree_scale_1_303_1_303_1_303</uri>
+      <pose>-22.279 -20.850 0.701 0.000 0.000 4.336</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_269</name>
+      <uri>model://pine_tree_scale_1_818_1_818_1_818</uri>
+      <pose>92.567 -22.368 8.306 0.000 0.000 2.451</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_270</name>
+      <uri>model://oak_tree_scale_1_758_1_758_1_758</uri>
+      <pose>-42.908 -54.402 9.288 0.000 0.000 3.320</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_271</name>
+      <uri>model://pine_tree_scale_1_385_1_385_1_385</uri>
+      <pose>-61.875 39.497 7.265 0.000 0.000 4.336</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_272</name>
+      <uri>model://oak_tree_scale_1_147_1_147_1_147</uri>
+      <pose>-91.319 -61.183 7.689 0.000 0.000 0.804</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_273</name>
+      <uri>model://pine_tree_scale_1_303_1_303_1_303</uri>
+      <pose>-50.374 -28.076 4.360 0.000 0.000 6.240</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_274</name>
+      <uri>model://oak_tree_scale_1_538_1_538_1_538</uri>
+      <pose>96.189 91.842 7.951 0.000 0.000 3.598</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_275</name>
+      <uri>model://pine_tree_scale_1_599_1_599_1_599</uri>
+      <pose>100.000 -29.795 8.282 0.000 0.000 3.596</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_276</name>
+      <uri>model://oak_tree_scale_1_187_1_187_1_187</uri>
+      <pose>-53.953 63.139 7.428 0.000 0.000 5.316</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_277</name>
+      <uri>model://pine_tree_scale_1_720_1_720_1_720</uri>
+      <pose>-66.331 -63.411 6.710 0.000 0.000 4.793</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_278</name>
+      <uri>model://oak_tree_scale_1_208_1_208_1_208</uri>
+      <pose>100.000 -74.413 11.654 0.000 0.000 0.105</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_279</name>
+      <uri>model://pine_tree_scale_1_189_1_189_1_189</uri>
+      <pose>-74.054 53.789 11.231 0.000 0.000 6.102</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_280</name>
+      <uri>model://oak_tree_scale_1_568_1_568_1_568</uri>
+      <pose>-28.469 -56.542 6.593 0.000 0.000 1.764</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_281</name>
+      <uri>model://pine_tree_scale_1_493_1_493_1_493</uri>
+      <pose>1.990 -47.767 3.933 0.000 0.000 5.120</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_282</name>
+      <uri>model://oak_tree_scale_1_044_1_044_1_044</uri>
+      <pose>21.327 -47.993 4.012 0.000 0.000 1.364</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_283</name>
+      <uri>model://pine_tree_scale_1_252_1_252_1_252</uri>
+      <pose>-6.050 -92.484 8.277 0.000 0.000 5.712</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_284</name>
+      <uri>model://oak_tree_scale_1_779_1_779_1_779</uri>
+      <pose>-90.291 6.249 7.419 0.000 0.000 0.207</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_285</name>
+      <uri>model://pine_tree_scale_1_552_1_552_1_552</uri>
+      <pose>70.010 -20.644 4.738 0.000 0.000 0.830</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_286</name>
+      <uri>model://oak_tree_scale_1_484_1_484_1_484</uri>
+      <pose>51.052 -12.996 1.290 0.000 0.000 1.152</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_287</name>
+      <uri>model://pine_tree_scale_1_088_1_088_1_088</uri>
+      <pose>-100.000 -55.484 8.203 0.000 0.000 1.083</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_288</name>
+      <uri>model://oak_tree_scale_1_967_1_967_1_967</uri>
+      <pose>-48.034 71.190 7.013 0.000 0.000 3.381</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_289</name>
+      <uri>model://pine_tree_scale_1_202_1_202_1_202</uri>
+      <pose>91.622 25.707 6.585 0.000 0.000 5.068</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_290</name>
+      <uri>model://oak_tree_scale_1_153_1_153_1_153</uri>
+      <pose>89.074 4.688 7.969 0.000 0.000 1.361</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_291</name>
+      <uri>model://pine_tree_scale_1_672_1_672_1_672</uri>
+      <pose>37.538 30.099 1.423 0.000 0.000 2.460</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_292</name>
+      <uri>model://oak_tree_scale_1_821_1_821_1_821</uri>
+      <pose>38.786 82.310 2.108 0.000 0.000 2.398</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_293</name>
+      <uri>model://pine_tree_scale_1_699_1_699_1_699</uri>
+      <pose>-88.303 37.481 8.163 0.000 0.000 2.379</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_294</name>
+      <uri>model://oak_tree_scale_1_688_1_688_1_688</uri>
+      <pose>-27.959 -18.331 1.041 0.000 0.000 5.707</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_295</name>
+      <uri>model://pine_tree_scale_1_289_1_289_1_289</uri>
+      <pose>24.180 -82.068 11.554 0.000 0.000 5.475</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_296</name>
+      <uri>model://oak_tree_scale_1_990_1_990_1_990</uri>
+      <pose>100.000 40.612 7.654 0.000 0.000 6.159</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_297</name>
+      <uri>model://pine_tree_scale_1_266_1_266_1_266</uri>
+      <pose>3.698 76.495 1.169 0.000 0.000 5.236</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>oak_tree_298</name>
+      <uri>model://oak_tree_scale_1_155_1_155_1_155</uri>
+      <pose>-43.756 -53.880 9.215 0.000 0.000 0.468</pose>
+
+      <static>true</static>
+    </include>
+    <include>
+      <name>pine_tree_299</name>
+      <uri>model://pine_tree_scale_1_011_1_011_1_011</uri>
+      <pose>29.927 37.823 0.977 0.000 0.000 0.543</pose>
+
+      <static>true</static>
+    </include>
+    <!-- MODELS_END -->
+  </world>
+</sdf>

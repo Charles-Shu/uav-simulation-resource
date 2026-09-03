@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <model name='iris_mid360_D435i'>
+    <include>
+      <uri>model://iris</uri>
+    </include>
+
+    <include>
+      <uri>model://D435i</uri>
+      <pose>0.12 0 0 1.5708 0 1.5708</pose>
+    </include>
+
+    <joint name="realsense_camera_joint" type="fixed">
+      <child>D435i::camera_link</child>
+      <parent>iris::base_link</parent>
+      <axis>
+        <xyz>0 0 1</xyz>
+        <limit>
+          <upper>0</upper>
+          <lower>0</lower>
+        </limit>
+      </axis>
+    </joint>
+    
+    <include>
+      <uri>model://Mid360</uri>
+      <!-- 【核心修改点】 
+           Z: -0.05 表示移到无人机机腹下方 5cm 处（避免遮挡）
+           Roll: 3.14159 表示将雷达倒置，让扫描区域对地 
+      -->
+      <pose>0 0 -0.05 3.14159 0 0</pose>
+    </include>
+
+    <joint name="livox_joint" type="fixed">
+      <child>Mid360::livox_base</child>
+      <parent>iris::base_link</parent>
+      <axis>
+        <xyz>0 0 1</xyz>
+        <limit>
+          <upper>0</upper>
+          <lower>0</lower>
+        </limit>
+      </axis>
+    </joint>
+
+  </model>
+</sdf>

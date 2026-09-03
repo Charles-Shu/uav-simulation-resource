@@ -1,0 +1,29 @@
+// Water02 material definition
+// Applies a water texture with semi-transparency for realistic look.
+// Uses the water02.jpg image as base texture.
+
+material Water02/Water
+{
+  technique
+  {
+    pass
+    {
+      // Water-like coloring with slight transparency
+      ambient  0.6 0.7 0.9 1.0
+      diffuse  0.7 0.8 1.0 1.0
+      specular 0.3 0.3 0.3 1.0 10
+
+      // Transparency: 30% transparent for water effect
+      // (comment out if you want fully opaque)
+      scene_blend alpha_blend
+
+      texture_unit
+      {
+        texture water02.jpg
+        scale 1.0 1.0
+        filtering anisotropic
+        max_anisotropy 8
+      }
+    }
+  }
+}

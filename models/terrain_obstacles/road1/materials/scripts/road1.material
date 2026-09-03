@@ -1,0 +1,32 @@
+# 沥青路面材质
+material Road1/Concrete
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture __Concrete-rough_3.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 路肩草地材质
+material Road1/Grass
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture __Grass__.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+

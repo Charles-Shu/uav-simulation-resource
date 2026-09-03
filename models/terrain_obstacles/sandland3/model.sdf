@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<sdf version="1.7">
+  <model name="sandland3">
+    <static>true</static>
+
+    <link name="sand_link">
+      <collision name="surface">
+        <pose>0 0 0.05 0 0 0</pose>
+        <geometry>
+          <cylinder>
+            <radius>5.0</radius>
+            <length>0.1</length>
+          </cylinder>
+        </geometry>
+        <surface>
+          <contact>
+            <soft_cfm>0.01</soft_cfm>
+            <soft_erp>0.15</soft_erp>
+          </contact>
+          <friction>
+            <ode>
+              <mu>1.8</mu>
+              <mu2>1.8</mu2>
+              <fdir1>0 0 0</fdir1>
+              <slip1>0.0</slip1>
+              <slip2>0.0</slip2>
+            </ode>
+          </friction>
+          <bounce>
+            <restitution_coefficient>0.03</restitution_coefficient>
+            <threshold>0.1</threshold>
+          </bounce>
+        </surface>
+      </collision>
+
+      <visual name="surface_visual">
+        <pose>0 0 0.005 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://sandland3/meshes/disk.obj</uri>
+            <scale>1.0 1.0 1.0</scale>
+          </mesh>
+        </geometry>
+        <material>
+          <script>
+            <uri>model://sandland3/materials/scripts</uri>
+            <uri>model://sandland3/materials/textures</uri>
+            <name>Sandland3/Sand</name>
+          </script>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>

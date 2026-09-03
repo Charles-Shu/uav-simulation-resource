@@ -1,0 +1,54 @@
+<?xml version='1.0'?>
+<sdf version="1.5">
+  <model name="highbuilding">
+    <!-- 固定模型，不参与动力学计算 -->
+    <static>true</static>
+    <!-- 自动禁用物理计算，提升多建筑场景性能 -->
+    <allow_auto_disable>true</allow_auto_disable>
+    <!-- 默认初始位置（z=0表示底部贴地） -->
+    <pose>0 0 0 0 0 0</pose>
+
+    <link name="building_main_link">
+      <!-- 碰撞体：使用完整mesh，添加基础摩擦力 -->
+      <collision name="building_collision">
+        <geometry>
+          <mesh>
+            <uri>model://highbuilding/meshes/model.dae</uri>
+            <!-- 原生单位为米，不需要缩放 -->
+            <scale>1 1 1</scale>
+          </mesh>
+        </geometry>
+        <surface>
+          <friction>
+            <ode>
+              <mu>0.8</mu>
+              <mu2>0.8</mu2>
+              <slip1>0.0</slip1>
+              <slip2>0.0</slip2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+
+      <!-- 可视化：关联材质纹理 -->
+      <visual name="building_visual">
+        <geometry>
+          <mesh>
+            <uri>model://highbuilding/meshes/model.dae</uri>
+            <scale>1 1 1</scale>
+          </mesh>
+        </geometry>
+        <!-- 材质配置：关联下面的.material文件 -->
+        <material>
+          <script>
+            <uri>model://highbuilding/materials/scripts</uri>
+            <uri>model://highbuilding/materials/textures</uri>
+            <!-- 默认使用玻璃幕墙材质，可根据实际效果调整 -->
+            <name>HighBuilding/Glass</name>
+          </script>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>
+

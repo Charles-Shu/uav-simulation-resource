@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<sdf version="1.7">
+  <model name="sandland5">
+    <static>true</static>
+
+    <link name="sand_link">
+      <!-- Collision: use STL mesh for realistic terrain contact -->
+      <collision name="terrain">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://sandland5/meshes/sandland5.stl</uri>
+            <scale>1.0 1.0 1.0</scale>
+          </mesh>
+        </geometry>
+        <surface>
+          <!-- Soft contact: simulates yielding sand surface -->
+          <contact>
+            <soft_cfm>0.02</soft_cfm>
+            <soft_erp>0.08</soft_erp>
+          </contact>
+          <!-- High friction: sand grip -->
+          <friction>
+            <ode>
+              <mu>1.2</mu>
+              <mu2>1.2</mu2>
+              <fdir1>0 0 0</fdir1>
+              <slip1>0.0</slip1>
+              <slip2>0.0</slip2>
+            </ode>
+          </friction>
+          <!-- Low restitution: absorbs impact -->
+          <bounce>
+            <restitution_coefficient>0.02</restitution_coefficient>
+            <threshold>0.1</threshold>
+          </bounce>
+        </surface>
+      </collision>
+
+      <!-- Visual: same STL mesh with sand5 texture -->
+      <visual name="terrain_visual">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://sandland5/meshes/sandland5.stl</uri>
+            <scale>1.0 1.0 1.0</scale>
+          </mesh>
+        </geometry>
+        <material>
+          <script>
+            <uri>model://sandland5/materials/scripts</uri>
+            <uri>model://sandland5/materials/textures</uri>
+            <name>Sandland5/Sand</name>
+          </script>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>

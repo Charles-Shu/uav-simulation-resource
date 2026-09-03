@@ -1,0 +1,80 @@
+# 玻璃幕墙材质（蓝色玻璃）
+material HighBuilding/Glass
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_9.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 外墙棕色挂板材质
+material HighBuilding/Cladding
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Cladding_Siding_Tan.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 混凝土基座材质
+material HighBuilding/Concrete
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Concrete_Aggregate_Smoke.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 屋顶材质
+material HighBuilding/Roof
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Rev_tement_bardage_havane.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 地面草地材质
+material HighBuilding/Grass
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Vegetation_Grass1.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+

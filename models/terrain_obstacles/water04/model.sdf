@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<sdf version="1.7">
+  <model name="water02">
+    <!-- Static model: stays in place when inserted -->
+    <static>true</static>
+
+    <link name="water_link">
+      <!--
+        NO COLLISION BODY:
+        Without <collision>, this model has no physical presence.
+        - UAV and objects pass through it
+        - Lidar / radar rays are not reflected (no detection)
+        - No physics interaction at all
+        - Perfect for visual-only water bodies
+      -->
+
+      <!-- Visual body: thick disk mesh with planar UV (no tree-ring effect) -->
+      <visual name="surface_visual">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://water04/meshes/disk_cylinder.obj</uri>
+            <scale>1.0 1.0 10.0</scale>
+          </mesh>
+        </geometry>
+        <material>
+          <script>
+            <uri>model://water04/materials/scripts</uri>
+            <uri>model://water04/materials/textures</uri>
+            <name>Water02/Water</name>
+          </script>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>

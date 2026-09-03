@@ -1,0 +1,15 @@
+material HighBuilding3/Glass
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_1.png
+        filtering trilinear
+      }
+    }
+  }
+}
+

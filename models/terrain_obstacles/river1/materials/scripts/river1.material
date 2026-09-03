@@ -1,0 +1,272 @@
+# material_0：河流水面
+material material_0
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Water_Pool_Light.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_1：草地
+material material_1
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Vegetation_Grass1.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_2：浅草地
+material material_2
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_2.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_3：草地
+material material_3
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_3.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_4：草地
+material material_4
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_4.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_5：草地
+material material_5
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_5.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_6：草地
+material material_6
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_6.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_7：草地
+material material_7
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_7.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_8：草地
+material material_8
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_8.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_9：草地
+material material_9
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_9.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_10：草地
+material material_10
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_10.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_11：草地
+material material_11
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_11.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_12：浅沙滩
+material material_12
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_12.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_13：沙滩
+material material_13
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_13.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_14：岩石
+material material_14
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_14.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_15：细沙
+material material_15
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Groundcover_Sand_Smooth.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_16：鹅卵石
+material material_16
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Groundcover_RiverRock_4inch.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+

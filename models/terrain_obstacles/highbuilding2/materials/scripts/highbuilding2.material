@@ -1,0 +1,240 @@
+# 沥青地面材质
+material highbuilding2/Asphalt
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Asphalt_New.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 砖墙材质
+material highbuilding2/Brick
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Brick_Basket_Two.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 混凝土骨料材质
+material highbuilding2/ConcreteAggregate
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Concrete_Aggregate_Smoke.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 混凝土砌块材质
+material highbuilding2/ConcreteBlock
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Concrete_Block_8x8_Gray.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 金属围栏材质
+material highbuilding2/Fencing
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Fencing_Metal_Straight.png
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 蓝色金属面板材质1
+material highbuilding2/MetalPanelBlue
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture __Metal_Panel_2.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 蓝色金属面板材质2
+material highbuilding2/MetalPanelBlue2
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Metal_Panel.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 砂岩材质
+material highbuilding2/StoneSandstone
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Stone_Sandstone_Ashlar_Light.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 陶瓷瓷砖材质1
+material highbuilding2/TileCeramic
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Tile_Ceramic_Natural.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 陶瓷瓷砖材质2
+material highbuilding2/TileCeramic2
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Tile_Ceramic_Natural_1.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 树皮材质
+material highbuilding2/Bark
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Vegetation_Bark_Ponderosa.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 人工草地材质
+material highbuilding2/GrassArtificial
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Vegetation_Grass_Artificial.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 天然草地材质
+material highbuilding2/GrassNatural
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Vegetation_Honeylocust.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 水池水面材质1
+material highbuilding2/WaterPool
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Water_Pool_Light.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 水池水面材质2
+material highbuilding2/WaterPool2
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Water_Pool_Light_0.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+

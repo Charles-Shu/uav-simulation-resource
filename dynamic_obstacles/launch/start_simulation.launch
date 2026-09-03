@@ -1,0 +1,27 @@
+<launch>
+    <!-- 障碍物配置参数 -->
+    <arg name="num_drones" default="6" />
+    <arg name="num_birds" default="6" />
+    
+    <!-- 核心模式参数（甲方新需求）：
+         1. control_mode: 
+            - "interactive" (默认值): 交互模式。障碍物静态加载，你在 RViz 中点击 "2D Nav Goal"
+              即可控制最近的障碍物（或你选中的障碍物）以设定速度飞往任意地点。
+            - "trajectory": 轨迹模式。障碍物按照预设的数学航线（圆周、八字、直线）自动飞行。
+         2. target_speed: 
+            - 障碍物的飞行速度（默认 6.0 m/s，满足甲方 5~10 m/s 的高速避障测试需求）。
+    -->
+    <arg name="control_mode" default="interactive" />
+    <arg name="target_speed" default="6.0" />
+
+    <!-- 1. 包含你默认的 PX4 MAVROS SITL 启动文件 -->
+    <include file="$(find px4)/launch/mavros_posix_sitl.launch" />
+
+    <!-- 2. 启动动态障碍物控制器节点 -->
+    <node name="dynamic_obstacles_controller" pkg="dynamic_obstacles" type="obstacle_controller.py" output="screen">
+        <param name="num_drones" value="$(arg num_drones)" />
+        <param name="num_birds" value="$(arg num_birds)" />
+        <param name="control_mode" value="$(arg control_mode)" />
+        <param name="target_speed" value="$(arg target_speed)" />
+    </node>
+</launch>

@@ -1,0 +1,15 @@
+material GrassLand/Artificial
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Vegetation_Grass_Artificial.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+

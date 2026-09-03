@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<sdf version="1.7">
+  <model name="sandland2">
+    <!-- Static model: stays in place when inserted -->
+    <static>true</static>
+
+    <link name="sand_link">
+      <!-- Collision body: flat cylinder for sand contact physics -->
+      <collision name="surface">
+        <pose>0 0 0.05 0 0 0</pose>
+        <geometry>
+          <cylinder>
+            <radius>5.0</radius>
+            <length>0.1</length>
+          </cylinder>
+        </geometry>
+        <surface>
+          <!-- Even softer contact than Sandland: more sinking feel -->
+          <contact>
+            <soft_cfm>0.02</soft_cfm>
+            <soft_erp>0.08</soft_erp>
+          </contact>
+          <!-- Lower friction: looser sand, more slippery -->
+          <friction>
+            <ode>
+              <mu>1.2</mu>
+              <mu2>1.2</mu2>
+              <fdir1>0 0 0</fdir1>
+              <slip1>0.0</slip1>
+              <slip2>0.0</slip2>
+            </ode>
+          </friction>
+          <!-- Even lower restitution: very soft landing -->
+          <bounce>
+            <restitution_coefficient>0.02</restitution_coefficient>
+            <threshold>0.05</threshold>
+          </bounce>
+        </surface>
+      </collision>
+
+      <!-- Visual body: flat circular mesh with sand texture -->
+      <visual name="surface_visual">
+        <pose>0 0 0.005 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://sandland2/meshes/disk.obj</uri>
+            <scale>1.0 1.0 1.0</scale>
+          </mesh>
+        </geometry>
+        <material>
+          <script>
+            <uri>model://sandland2/materials/scripts</uri>
+            <uri>model://sandland2/materials/textures</uri>
+            <name>Sandland2/Sand</name>
+          </script>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>

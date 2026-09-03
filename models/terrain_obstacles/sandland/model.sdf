@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<sdf version="1.7">
+  <model name="sandland">
+    <!-- Static model: stays in place when inserted -->
+    <static>true</static>
+
+    <link name="sand_link">
+      <!-- Collision body: flat cylinder for sand contact physics -->
+      <collision name="surface">
+        <pose>0 0 0.05 0 0 0</pose>
+        <geometry>
+          <cylinder>
+            <radius>5.0</radius>
+            <length>0.5</length>
+          </cylinder>
+        </geometry>
+        <surface>
+          <!-- Soft contact: simulates yielding sand surface -->
+          <contact>
+            <soft_cfm>0.05</soft_cfm>
+            <soft_erp>0.05</soft_erp>
+          </contact>
+          <!-- High friction: sand provides good grip -->
+          <friction>
+            <ode>
+              <mu>0.5</mu>
+              <mu2>0.5</mu2>
+              <fdir1>0 0 0</fdir1>
+              <slip1>0.0</slip1>
+              <slip2>0.0</slip2>
+            </ode>
+          </friction>
+          <!-- Very low restitution: sand absorbs impact -->
+          <bounce>
+            <restitution_coefficient>0.01</restitution_coefficient>
+            <threshold>0.1</threshold>
+          </bounce>
+        </surface>
+      </collision>
+
+      <!-- Visual body: flat circular mesh with sand texture -->
+      <visual name="surface_visual">
+        <!-- Slightly above ground to avoid z-fighting -->
+        <pose>0 0 0.005 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://sandland/meshes/disk.obj</uri>
+            <!-- Scale: 1.0 so the 5m-radius mesh stays 10m diameter -->
+            <scale>1.0 1.0 1.0</scale>
+          </mesh>
+        </geometry>
+        <material>
+          <script>
+            <uri>model://sandland/materials/scripts</uri>
+            <uri>model://sandland/materials/textures</uri>
+            <name>Sandland/Sand</name>
+          </script>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>

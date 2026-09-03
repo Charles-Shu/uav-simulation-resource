@@ -1,0 +1,44 @@
+material HighVoltTower/Metal
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Metal_Corrogated_Shiny.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+material HighVoltTower/Concrete
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Concrete_Form_4x8.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+material HighVoltTower/Insulator
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Translucent_Class_Safety.jpg
+        filtering trilinear
+      }
+    }
+  }
+}

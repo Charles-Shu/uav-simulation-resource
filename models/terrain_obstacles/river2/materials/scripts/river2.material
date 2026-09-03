@@ -1,0 +1,16 @@
+# material_0：河流水面材质
+material material_0
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Water_Pool_Light.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+

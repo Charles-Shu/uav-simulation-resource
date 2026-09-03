@@ -1,0 +1,49 @@
+# material_0：草地地形（对应地面部分）
+material material_0
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Vegetation_Grass_Artificial.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# material_1：屋顶瓦片（对应屋顶部分）
+material material_1
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture material_1.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+
+# 备用：玻璃材质（如果后续发现窗户有单独的材质ID可以使用）
+material material_glass
+{
+  technique
+  {
+    pass
+    {
+      diffuse 0.8 0.9 1.0 0.7
+      texture_unit
+      {
+        texture Translucent_Glass_Sky_Reflection.jpg
+        filtering trilinear
+      }
+    }
+  }
+}
+

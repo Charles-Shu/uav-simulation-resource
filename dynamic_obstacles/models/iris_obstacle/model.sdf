@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <model name="iris_obstacle">
+    <!-- 关键改动 1：必须为 static = false 且 link 为 kinematic = true -->
+    <!-- 这样 Gazebo 会将其视为运动学障碍物，而不会每次移动时都去重构静态碰撞树，从而彻底消除卡顿、瞬移现象 -->
+    <static>false</static>
+    
+    <link name="link">
+      <kinematic>true</kinematic>
+      
+      <inertial>
+        <mass>1.5</mass>
+        <inertia>
+          <ixx>0.015</ixx>
+          <ixy>0</ixy>
+          <ixz>0</ixz>
+          <iyy>0.015</iyy>
+          <iyz>0</iyz>
+          <izz>0.02</izz>
+        </inertia>
+      </inertial>
+
+      <!-- 关键改动 2：完美匹配你本地的 STL 无人机模型，100% 还原外观 -->
+      <visual name="base_link_inertia_visual">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <scale>1 1 1</scale>
+            <uri>model://iris/meshes/iris.stl</uri>
+          </mesh>
+        </geometry>
+        <material>
+          <script>
+            <name>Gazebo/DarkGrey</name>
+            <uri>file://media/materials/scripts/gazebo.material</uri>
+          </script>
+        </material>
+      </visual>
+
+      <!-- 碰撞体（Cylinder，保护半径 0.3m，完美用于雷达和深度相机检测避障） -->
+      <collision name="collision">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <cylinder>
+            <radius>0.3</radius>
+            <height>0.15</height>
+          </cylinder>
+        </geometry>
+        <max_contacts>10</max_contacts>
+        <surface>
+          <contact>
+            <ode/>
+          </contact>
+          <bounce/>
+          <friction>
+            <ode/>
+          </friction>
+        </surface>
+      </collision>
+    </link>
+  </model>
+</sdf>

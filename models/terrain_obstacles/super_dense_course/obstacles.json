@@ -1,0 +1,1689 @@
+{
+ "source_sdf": "/home/sf/PX4-Autopilot/Tools/sitl_gazebo/models/super_dense_course/model.sdf",
+ "model_name": "super_dense_course",
+ "count": 118,
+ "extent": {
+  "x_min": 14.43,
+  "x_max": 213.05,
+  "y_min": -20.0,
+  "y_max": 20.0
+ },
+ "obstacles": [
+  {
+   "type": "box",
+   "name": "wall_left_col",
+   "pose": [
+    115.0,
+    20.0,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    230.0,
+    0.4,
+    12.0
+   ]
+  },
+  {
+   "type": "box",
+   "name": "wall_right_col",
+   "pose": [
+    115.0,
+    -20.0,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    230.0,
+    0.4,
+    12.0
+   ]
+  },
+  {
+   "type": "cylinder",
+   "name": "p2_col",
+   "pose": [
+    14.43,
+    -7.492,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.474,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p3_col",
+   "pose": [
+    15.328,
+    10.558,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.593,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p4_col",
+   "pose": [
+    33.208,
+    -2.771,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.549,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p5_col",
+   "pose": [
+    32.908,
+    10.49,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.642,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p6_col",
+   "pose": [
+    38.452,
+    -8.928,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.53,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p7_col",
+   "pose": [
+    38.851,
+    9.566,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.462,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p8_col",
+   "pose": [
+    57.313,
+    -10.376,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.532,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p9_col",
+   "pose": [
+    56.412,
+    4.82,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.366,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p10_col",
+   "pose": [
+    63.588,
+    -4.48,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.443,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p11_col",
+   "pose": [
+    62.605,
+    2.365,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.676,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p12_col",
+   "pose": [
+    65.24,
+    -9.881,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.508,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p13_col",
+   "pose": [
+    64.934,
+    1.997,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.435,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p14_col",
+   "pose": [
+    64.609,
+    12.071,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.463,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p15_col",
+   "pose": [
+    77.413,
+    -7.875,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.457,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p16_col",
+   "pose": [
+    76.841,
+    -2.68,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.699,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p17_col",
+   "pose": [
+    76.957,
+    9.701,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.661,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p18_col",
+   "pose": [
+    80.597,
+    -9.831,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.556,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p19_col",
+   "pose": [
+    80.493,
+    -1.368,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.436,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p20_col",
+   "pose": [
+    81.436,
+    11.238,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.476,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p21_col",
+   "pose": [
+    92.404,
+    -10.073,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.437,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p22_col",
+   "pose": [
+    92.57,
+    -1.259,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.544,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p23_col",
+   "pose": [
+    93.027,
+    11.069,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.692,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p24_col",
+   "pose": [
+    96.735,
+    -8.56,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.501,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p25_col",
+   "pose": [
+    96.789,
+    1.159,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.359,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p26_col",
+   "pose": [
+    97.177,
+    8.271,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.678,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p27_col",
+   "pose": [
+    108.783,
+    -10.823,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.675,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p28_col",
+   "pose": [
+    109.141,
+    -1.078,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.532,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p29_col",
+   "pose": [
+    109.384,
+    8.629,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.399,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p30_col",
+   "pose": [
+    113.097,
+    -8.263,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.53,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p31_col",
+   "pose": [
+    113.161,
+    -0.845,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.474,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p32_col",
+   "pose": [
+    113.066,
+    11.541,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.518,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p33_col",
+   "pose": [
+    124.777,
+    -11.789,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.519,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p34_col",
+   "pose": [
+    125.44,
+    2.609,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.625,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p35_col",
+   "pose": [
+    125.416,
+    6.734,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.37,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p36_col",
+   "pose": [
+    124.818,
+    -10.886,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.71,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p37_col",
+   "pose": [
+    125.31,
+    -1.978,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.47,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p38_col",
+   "pose": [
+    125.559,
+    5.81,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.604,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p39_col",
+   "pose": [
+    125.555,
+    12.588,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.656,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p40_col",
+   "pose": [
+    133.968,
+    -13.808,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.758,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p41_col",
+   "pose": [
+    134.457,
+    -5.53,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.368,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p42_col",
+   "pose": [
+    134.198,
+    5.753,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.828,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p43_col",
+   "pose": [
+    133.58,
+    10.989,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.5,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p44_col",
+   "pose": [
+    137.093,
+    -12.007,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.737,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p45_col",
+   "pose": [
+    137.39,
+    -4.82,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.783,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p46_col",
+   "pose": [
+    136.584,
+    3.216,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.739,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p47_col",
+   "pose": [
+    137.394,
+    13.078,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.449,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p48_col",
+   "pose": [
+    146.53,
+    -13.021,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.617,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p49_col",
+   "pose": [
+    145.661,
+    -5.979,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.624,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p50_col",
+   "pose": [
+    146.27,
+    3.755,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.686,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p51_col",
+   "pose": [
+    145.893,
+    11.826,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.352,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p52_col",
+   "pose": [
+    148.657,
+    -10.478,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.737,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p53_col",
+   "pose": [
+    149.388,
+    -4.49,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.518,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p54_col",
+   "pose": [
+    148.672,
+    1.883,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.518,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p55_col",
+   "pose": [
+    149.054,
+    13.18,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.387,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p56_col",
+   "pose": [
+    157.605,
+    -10.252,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.586,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p57_col",
+   "pose": [
+    158.295,
+    -3.111,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.776,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p58_col",
+   "pose": [
+    157.667,
+    4.743,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.587,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p59_col",
+   "pose": [
+    158.073,
+    11.447,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.482,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p60_col",
+   "pose": [
+    161.125,
+    -12.945,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.82,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p61_col",
+   "pose": [
+    161.138,
+    -3.767,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.776,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p62_col",
+   "pose": [
+    160.961,
+    5.245,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.508,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p63_col",
+   "pose": [
+    161.589,
+    13.336,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.666,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p64_col",
+   "pose": [
+    169.472,
+    -12.975,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.456,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p65_col",
+   "pose": [
+    169.579,
+    -3.267,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.545,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p66_col",
+   "pose": [
+    169.602,
+    6.016,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.38,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p67_col",
+   "pose": [
+    169.904,
+    10.585,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.758,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p68_col",
+   "pose": [
+    172.675,
+    -11.733,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.591,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p69_col",
+   "pose": [
+    172.992,
+    -3.064,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.398,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p70_col",
+   "pose": [
+    173.175,
+    2.249,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.457,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p71_col",
+   "pose": [
+    172.861,
+    12.109,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.636,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p72_col",
+   "pose": [
+    174.552,
+    -13.082,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.678,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p73_col",
+   "pose": [
+    174.558,
+    -5.844,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.833,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p74_col",
+   "pose": [
+    174.963,
+    0.947,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.763,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p75_col",
+   "pose": [
+    174.818,
+    5.163,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.426,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p76_col",
+   "pose": [
+    175.565,
+    12.606,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.896,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p77_col",
+   "pose": [
+    182.245,
+    -14.141,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.749,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p78_col",
+   "pose": [
+    183.035,
+    -6.694,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.411,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p79_col",
+   "pose": [
+    183.06,
+    -1.006,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.862,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p80_col",
+   "pose": [
+    182.785,
+    5.423,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.481,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p81_col",
+   "pose": [
+    182.846,
+    14.015,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.527,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p82_col",
+   "pose": [
+    184.501,
+    -14.542,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.734,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p83_col",
+   "pose": [
+    184.521,
+    -5.927,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.705,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p84_col",
+   "pose": [
+    184.992,
+    0.435,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.697,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p85_col",
+   "pose": [
+    185.42,
+    6.659,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.648,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p86_col",
+   "pose": [
+    185.573,
+    12.323,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.48,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p87_col",
+   "pose": [
+    192.704,
+    -14.678,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.636,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p88_col",
+   "pose": [
+    192.942,
+    -8.034,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.437,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p89_col",
+   "pose": [
+    192.16,
+    -0.638,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.697,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p90_col",
+   "pose": [
+    193.077,
+    6.51,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.394,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p91_col",
+   "pose": [
+    192.526,
+    14.1,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.685,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p92_col",
+   "pose": [
+    195.49,
+    -14.193,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.639,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p93_col",
+   "pose": [
+    195.185,
+    -5.691,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.819,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p94_col",
+   "pose": [
+    194.879,
+    -0.816,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.528,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p95_col",
+   "pose": [
+    195.232,
+    5.983,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.607,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p96_col",
+   "pose": [
+    194.749,
+    13.963,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.455,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p97_col",
+   "pose": [
+    201.982,
+    -13.64,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.715,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p98_col",
+   "pose": [
+    202.772,
+    -5.097,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.368,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p99_col",
+   "pose": [
+    202.839,
+    0.987,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.398,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p100_col",
+   "pose": [
+    201.949,
+    6.269,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.758,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p101_col",
+   "pose": [
+    202.653,
+    14.832,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.362,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p102_col",
+   "pose": [
+    204.447,
+    -13.394,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.542,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p103_col",
+   "pose": [
+    204.799,
+    -5.74,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.699,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p104_col",
+   "pose": [
+    205.444,
+    1.232,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.468,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p105_col",
+   "pose": [
+    205.401,
+    5.569,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.426,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p106_col",
+   "pose": [
+    204.962,
+    12.862,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.641,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p107_col",
+   "pose": [
+    213.05,
+    -12.123,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.482,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p108_col",
+   "pose": [
+    212.219,
+    -7.645,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.441,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p109_col",
+   "pose": [
+    211.96,
+    0.194,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.439,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p110_col",
+   "pose": [
+    212.644,
+    6.428,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.604,
+   "length": 12.0
+  },
+  {
+   "type": "cylinder",
+   "name": "p111_col",
+   "pose": [
+    212.468,
+    13.197,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "radius": 0.588,
+   "length": 12.0
+  },
+  {
+   "type": "box",
+   "name": "baffle0_0_col",
+   "pose": [
+    95.0,
+    -7.0,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    0.5,
+    26.0,
+    12.0
+   ]
+  },
+  {
+   "type": "box",
+   "name": "baffle0_1_col",
+   "pose": [
+    95.0,
+    15.0,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    0.5,
+    10.0,
+    12.0
+   ]
+  },
+  {
+   "type": "box",
+   "name": "baffle1_0_col",
+   "pose": [
+    150.0,
+    -15.0,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    0.5,
+    10.0,
+    12.0
+   ]
+  },
+  {
+   "type": "box",
+   "name": "baffle1_1_col",
+   "pose": [
+    150.0,
+    7.0,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    0.5,
+    26.0,
+    12.0
+   ]
+  },
+  {
+   "type": "box",
+   "name": "baffle2_0_col",
+   "pose": [
+    195.0,
+    -7.0,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    0.5,
+    26.0,
+    12.0
+   ]
+  },
+  {
+   "type": "box",
+   "name": "baffle2_1_col",
+   "pose": [
+    195.0,
+    15.0,
+    6.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "size": [
+    0.5,
+    10.0,
+    12.0
+   ]
+  }
+ ]
+}

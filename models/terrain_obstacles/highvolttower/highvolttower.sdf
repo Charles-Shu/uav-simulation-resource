@@ -1,0 +1,53 @@
+<?xml version='1.0'?>
+<sdf version="1.5">
+  <model name="highvolttower">
+    <!-- 固定模型，不参与动力学计算 -->
+    <static>true</static>
+    <!-- 自动禁用物理计算，大幅提升仿真性能 -->
+    <allow_auto_disable>true</allow_auto_disable>
+    <!-- 默认初始位置（可在场景中拖拽调整） -->
+    <pose>0 0 0 0 0 0</pose>
+
+    <link name="tower_main_link">
+      <!-- 碰撞体：保留原始mesh，添加基础摩擦力 -->
+      <collision name="tower_collision">
+        <geometry>
+          <mesh>
+            <uri>model://highvolttower/meshes/model.dae</uri>
+            <scale>3 3 3</scale>
+          </mesh>
+        </geometry>
+        <!-- 碰撞表面参数，防止模型滑动 -->
+        <surface>
+          <friction>
+            <ode>
+              <mu>1.0</mu>
+              <mu2>1.0</mu2>
+              <slip1>0.0</slip1>
+              <slip2>0.0</slip2>
+            </ode>
+          </friction>
+        </surface>
+      </collision>
+
+      <!-- 可视化：添加纹理材质，匹配你的模型外观 -->
+      <visual name="tower_visual">
+        <geometry>
+          <mesh>
+            <uri>model://highvolttower/meshes/model.dae</uri>
+            <scale>3 3 3</scale>
+          </mesh>
+        </geometry>
+        <!-- 材质纹理配置，对应你textures文件夹中的图片 -->
+        <material>
+          <script>
+            <uri>model://highvolttower/materials/scripts</uri>
+            <uri>model://highvolttower/materials/textures</uri>
+            <!-- 与下面.material文件中的材质名完全一致 -->
+            <name>HighVoltTower/Metal</name>
+          </script>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>

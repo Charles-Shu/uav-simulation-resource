@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <model name='iris_mid360'>
+    <include>
+      <uri>model://iris</uri>
+    </include>
+    <include>
+      <uri>model://Mid360</uri>
+      <pose>0 0 -0.02 0 3.1416 0</pose>
+    </include>
+    <joint name="livox_joint" type="fixed">
+      <child>Mid360::livox_base</child>
+      <parent>iris::base_link</parent>
+      <axis>
+        <xyz>0 0 1</xyz>
+        <limit>
+          <upper>0</upper>
+          <lower>0</lower>
+        </limit>
+      </axis>
+    </joint>
+
+    <!-- ==================== 下视RGB可见光相机 ==================== -->
+    <!-- 位置：机身中心正下方0.05m处，姿态：镜头垂直向下(pitch=1.5708) -->
+    <include>
+      <uri>model://depth_camera</uri>
+      <pose>0.1 0 -0.02 0 1.5708 0</pose>
+    </include>
+
+    <joint name="camera_joint" type="fixed">
+      <child>depth_camera::link</child>
+      <parent>iris::base_link</parent>
+      <axis>
+        <xyz>0 0 1</xyz>
+        <limit>
+          <upper>0</upper>
+          <lower>0</lower>
+        </limit>
+      </axis>
+    </joint>
+
+    <!-- ==================== 覆盖相机默认参数（关键！） ==================== -->
+    <sensor name="depth_camera::camera" type="camera">
+      <update_rate>30.0</update_rate>
+      <camera>
+        <horizontal_fov>1.047197551</horizontal_fov> <!-- 60度水平视场角 -->
+        <image>
+          <width>640</width>
+          <height>480</height>
+          <format>R8G8B8</format>
+        </image>
+        <!-- 修复飞高无图像：远裁剪面改为2000米 -->
+        <clip>
+          <near>0.1</near>
+          <far>2000.0</far>
+        </clip>
+        <!-- 禁用深度输出，只保留RGB，提升性能 -->
+        <depth_camera>
+          <output>0</output>
+        </depth_camera>
+      </camera>
+    </sensor>
+    
+  </model>
+</sdf>

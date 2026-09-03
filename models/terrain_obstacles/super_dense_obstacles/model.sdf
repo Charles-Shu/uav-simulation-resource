@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <model name="super_dense_obstacles">
+    <static>true</static>
+    <link name="obstacles">
+      <!-- All barriers extend above SUPER's 5 m virtual ceiling. Therefore a
+           valid trajectory must pass around them, never over them. -->
+      <collision name="left_wall_collision">
+        <pose>4.0 3.8 4.0 0 0 0</pose>
+        <geometry><box><size>14.0 0.35 8.0</size></box></geometry>
+      </collision>
+      <visual name="left_wall_visual">
+        <pose>4.0 3.8 4.0 0 0 0</pose>
+        <geometry><box><size>14.0 0.35 8.0</size></box></geometry>
+        <material><ambient>0.25 0.45 0.85 1</ambient><diffuse>0.25 0.45 0.85 1</diffuse></material>
+      </visual>
+
+      <collision name="right_wall_collision">
+        <pose>4.0 -3.8 4.0 0 0 0</pose>
+        <geometry><box><size>14.0 0.35 8.0</size></box></geometry>
+      </collision>
+      <visual name="right_wall_visual">
+        <pose>4.0 -3.8 4.0 0 0 0</pose>
+        <geometry><box><size>14.0 0.35 8.0</size></box></geometry>
+        <material><ambient>0.25 0.45 0.85 1</ambient><diffuse>0.25 0.45 0.85 1</diffuse></material>
+      </visual>
+
+      <!-- A tall transverse wall blocks the direct route. The two side gaps
+           are the only feasible passages inside the corridor. -->
+      <collision name="center_pillar_collision">
+        <pose>4.0 0.0 4.0 0 0 0</pose>
+        <geometry><box><size>0.8 4.6 8.0</size></box></geometry>
+      </collision>
+      <visual name="center_pillar_visual">
+        <pose>4.0 0.0 4.0 0 0 0</pose>
+        <geometry><box><size>0.8 4.6 8.0</size></box></geometry>
+        <material><ambient>0.9 0.25 0.2 1</ambient><diffuse>0.9 0.25 0.2 1</diffuse></material>
+      </visual>
+
+      <collision name="left_pillar_collision">
+        <pose>1.5 2.8 4.0 0 0 0</pose>
+        <geometry><box><size>0.45 0.45 8.0</size></box></geometry>
+      </collision>
+      <visual name="left_pillar_visual">
+        <pose>1.5 2.8 4.0 0 0 0</pose>
+        <geometry><box><size>0.45 0.45 8.0</size></box></geometry>
+        <material><ambient>0.9 0.65 0.15 1</ambient><diffuse>0.9 0.65 0.15 1</diffuse></material>
+      </visual>
+
+      <collision name="right_pillar_collision">
+        <pose>6.5 -2.8 4.0 0 0 0</pose>
+        <geometry><box><size>0.45 0.45 8.0</size></box></geometry>
+      </collision>
+      <visual name="right_pillar_visual">
+        <pose>6.5 -2.8 4.0 0 0 0</pose>
+        <geometry><box><size>0.45 0.45 8.0</size></box></geometry>
+        <material><ambient>0.9 0.65 0.15 1</ambient><diffuse>0.9 0.65 0.15 1</diffuse></material>
+      </visual>
+    </link>
+  </model>
+</sdf>

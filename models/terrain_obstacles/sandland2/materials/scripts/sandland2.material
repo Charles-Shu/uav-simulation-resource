@@ -1,0 +1,23 @@
+// Sandland2 material definition
+// Different sand texture from Sandland, with adjusted visual properties.
+
+material Sandland2/Sand
+{
+  technique
+  {
+    pass
+    {
+      ambient  0.95 0.88 0.70 1.0
+      diffuse  0.98 0.90 0.75 1.0
+      specular 0.04 0.03 0.02 1.0 5
+
+      texture_unit
+      {
+        texture sand2.png
+        scale 0.5 0.5
+        filtering anisotropic
+        max_anisotropy 8
+      }
+    }
+  }
+}

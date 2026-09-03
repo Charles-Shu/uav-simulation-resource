@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<sdf version="1.7">
+  <model name="sandland4">
+    <static>true</static>
+
+    <link name="sand_link">
+      <!-- Collision: use the same STL mesh so drone feels the terrain起伏 -->
+      <collision name="terrain">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://sandland4/meshes/sandland4.stl</uri>
+            <scale>1.0 1.0 1.0</scale>
+          </mesh>
+        </geometry>
+        <surface>
+          <!-- Soft contact: simulates yielding sand surface -->
+          <contact>
+            <soft_cfm>0.05</soft_cfm>
+            <soft_erp>0.05</soft_erp>
+          </contact>
+          <!-- High friction: sand grip -->
+          <friction>
+            <ode>
+              <mu>0.5</mu>
+              <mu2>0.5</mu2>
+              <fdir1>0 0 0</fdir1>
+              <slip1>0.0</slip1>
+              <slip2>0.0</slip2>
+            </ode>
+          </friction>
+          <!-- Low restitution: absorbs impact -->
+          <bounce>
+            <restitution_coefficient>0.01</restitution_coefficient>
+            <threshold>0.1</threshold>
+          </bounce>
+        </surface>
+      </collision>
+
+      <!-- Visual: same STL mesh with sand4 texture -->
+      <visual name="terrain_visual">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://sandland4/meshes/sandland4.stl</uri>
+            <scale>1.0 1.0 1.0</scale>
+          </mesh>
+        </geometry>
+        <material>
+          <script>
+            <uri>model://sandland4/materials/scripts</uri>
+            <uri>model://sandland4/materials/textures</uri>
+            <name>Sandland4/Sand</name>
+          </script>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>

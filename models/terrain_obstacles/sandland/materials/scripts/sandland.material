@@ -1,0 +1,27 @@
+// Sandland material definition
+// Applies sand texture to a flat circular mesh with proper UV mapping.
+// Warm sandy tones with anisotropic filtering for crisp appearance.
+
+material Sandland/Sand
+{
+  technique
+  {
+    pass
+    {
+      // Warm sand color tone (ambient, diffuse)
+      ambient  0.92 0.85 0.68 1.0
+      diffuse  0.95 0.88 0.72 1.0
+      specular 0.05 0.04 0.02 1.0 5
+
+      // Texture unit: sand.png tiled 3x3 across the 10m disk
+      // This keeps enough grain detail visible at drone altitude
+      texture_unit
+      {
+        texture sand.png
+        scale 0.3 0.3
+        filtering anisotropic
+        max_anisotropy 8
+      }
+    }
+  }
+}

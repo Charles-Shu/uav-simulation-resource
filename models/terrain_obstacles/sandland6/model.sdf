@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<sdf version="1.7">
+  <model name="sandland6">
+    <static>true</static>
+
+    <link name="sand_link">
+      <!-- Collision: use STL mesh for realistic terrain contact -->
+      <collision name="terrain">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://sandland6/meshes/sandland6.stl</uri>
+            <scale>1.0 1.0 1.0</scale>
+          </mesh>
+        </geometry>
+        <surface>
+          <contact>
+            <soft_cfm>0.01</soft_cfm>
+            <soft_erp>0.15</soft_erp>
+          </contact>
+          <friction>
+            <ode>
+              <mu>1.8</mu>
+              <mu2>1.8</mu2>
+              <fdir1>0 0 0</fdir1>
+              <slip1>0.0</slip1>
+              <slip2>0.0</slip2>
+            </ode>
+          </friction>
+          <bounce>
+            <restitution_coefficient>0.03</restitution_coefficient>
+            <threshold>0.1</threshold>
+          </bounce>
+        </surface>
+      </collision>
+
+      <!-- Visual: same STL mesh with sand6 texture -->
+      <visual name="terrain_visual">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://sandland6/meshes/sandland6.stl</uri>
+            <scale>1.0 1.0 1.0</scale>
+          </mesh>
+        </geometry>
+        <material>
+          <ambient>0.85 0.74 0.52 1.0</ambient>
+          <diffuse>0.45 0.35 0.18 1.0</diffuse>
+          <specular>0.05 0.05 0.05 1.0</specular>
+          <emissive>0.0 0.0 0.0 1.0</emissive>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>

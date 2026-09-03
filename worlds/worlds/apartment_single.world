@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <world name="apartment_single">
+    <spherical_coordinates>
+      <surface_model>EARTH_WGS84</surface_model>
+      <latitude_deg>37.4135</latitude_deg>
+      <longitude_deg>-121.997</longitude_deg>
+      <elevation>1.3</elevation>
+      <heading_deg>0</heading_deg>
+    </spherical_coordinates>
+    <physics name="default_physics" type="ode">
+      <max_step_size>0.004</max_step_size>
+      <real_time_factor>1.0</real_time_factor>
+      <real_time_update_rate>250</real_time_update_rate>
+    </physics>
+    <scene>
+      <ambient>0.45 0.45 0.45 1</ambient>
+      <background>0.70 0.82 0.92 1</background>
+      <shadows>true</shadows>
+    </scene>
+    <include><uri>model://sun</uri></include>
+    <include><uri>model://ground_plane</uri></include>
+
+    <!-- The only mapping target in this experiment. -->
+    <include>
+      <name>target_apartment</name>
+      <uri>model://apartment</uri>
+      <pose>30 0 0 0 0 0</pose>
+    </include>
+
+    <!-- Fixed comparison view: 30 m in front of the building, 60-degree HFOV. -->
+    <model name="benchmark_reference_camera">
+      <static>true</static>
+      <pose>0 0 4 0 -0.15 0</pose>
+      <link name="camera_link">
+        <sensor name="comparison_camera" type="camera">
+          <always_on>true</always_on>
+          <update_rate>5</update_rate>
+          <visualize>false</visualize>
+          <camera>
+            <horizontal_fov>1.0471975512</horizontal_fov>
+            <image><width>960</width><height>540</height><format>R8G8B8</format></image>
+            <clip><near>0.1</near><far>100</far></clip>
+          </camera>
+        </sensor>
+      </link>
+    </model>
+  </world>
+</sdf>
