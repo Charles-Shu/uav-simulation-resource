@@ -13,7 +13,7 @@ jobs:
       - name: Validate model, mesh and texture references
         run: python3 tools/validate_scene_assets.py
       - name: Check launcher syntax
-        run: bash -n scripts/scene_env.sh scripts/prepare_scenes.sh scripts/run_scene.sh
+        run: bash -n scripts/scene_env.sh scripts/prepare_scenes.sh scripts/run_scene.sh worlds/scripts/gzserver_scene worlds/scripts/gzclient_scene
       - name: Resolve the three world aliases
         run: |
           ./scripts/run_scene.sh snow --print-world
