@@ -1,0 +1,6962 @@
+[
+  {
+    "name": "city_tree_0000",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -209.17124568470155,
+    "y": 23.240138475220505,
+    "z": 7.93,
+    "yaw": -1.4480358850036024
+  },
+  {
+    "name": "city_tree_0001",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 76.62327411167533,
+    "y": -258.1012610909663,
+    "z": 7.93,
+    "yaw": -0.6243243296057419
+  },
+  {
+    "name": "city_tree_0002",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -254.61101044621876,
+    "y": 45.93634958526613,
+    "z": 7.93,
+    "yaw": -0.8089677344590056
+  },
+  {
+    "name": "city_tree_0003",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -80.63214459999172,
+    "y": 176.3761051157423,
+    "z": 7.93,
+    "yaw": -2.6610980446833215
+  },
+  {
+    "name": "city_tree_0004",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -233.60952131398196,
+    "y": 21.316947252557654,
+    "z": 7.93,
+    "yaw": -0.5276631351606431
+  },
+  {
+    "name": "city_tree_0005",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -255.90672343629126,
+    "y": 11.770746972827126,
+    "z": 7.93,
+    "yaw": -2.007819891999762
+  },
+  {
+    "name": "city_tree_0006",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -220.75250212910169,
+    "y": 35.532409048207654,
+    "z": 7.93,
+    "yaw": -1.208995475265039
+  },
+  {
+    "name": "city_tree_0007",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 265.9545963853136,
+    "y": -292.36458099776945,
+    "z": 7.93,
+    "yaw": -2.492707805666832
+  },
+  {
+    "name": "city_tree_0008",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -108.99719747130597,
+    "y": 177.20311440144314,
+    "z": 7.93,
+    "yaw": -2.957162874971098
+  },
+  {
+    "name": "city_tree_0009",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 261.21918057813093,
+    "y": 110.6310373793101,
+    "z": 7.93,
+    "yaw": 1.1269450181657659
+  },
+  {
+    "name": "city_tree_0010",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -189.92310373199211,
+    "y": 12.646500341341252,
+    "z": 7.93,
+    "yaw": 2.1223353142692574
+  },
+  {
+    "name": "city_tree_0011",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -171.5231813101404,
+    "y": 48.451530287191275,
+    "z": 7.93,
+    "yaw": 2.8658706421336833
+  },
+  {
+    "name": "city_tree_0012",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -96.75500891059784,
+    "y": 107.85389985417584,
+    "z": 7.93,
+    "yaw": -0.22688505231060008
+  },
+  {
+    "name": "city_tree_0013",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 260.49986388485974,
+    "y": 62.269576222264504,
+    "z": 7.93,
+    "yaw": 0.9328740519609369
+  },
+  {
+    "name": "city_tree_0014",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -98.74131628301588,
+    "y": 155.9159832192483,
+    "z": 7.93,
+    "yaw": 0.7031896419891135
+  },
+  {
+    "name": "city_tree_0015",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -221.36669222503164,
+    "y": -18.4135482536635,
+    "z": 7.93,
+    "yaw": -0.2161673228566312
+  },
+  {
+    "name": "city_tree_0016",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 201.2030154889298,
+    "y": -170.0742691309802,
+    "z": 7.93,
+    "yaw": -0.6728288215668345
+  },
+  {
+    "name": "city_tree_0017",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -47.687567450231185,
+    "y": 155.83094915814695,
+    "z": 7.93,
+    "yaw": 2.023818569231718
+  },
+  {
+    "name": "city_tree_0018",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 345.85581385655604,
+    "y": -21.53044621479819,
+    "z": 7.93,
+    "yaw": 1.6413614781453312
+  },
+  {
+    "name": "city_tree_0019",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -48.27107221696413,
+    "y": 198.20356965978672,
+    "z": 7.93,
+    "yaw": 0.7217340998983941
+  },
+  {
+    "name": "city_tree_0020",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 83.54280573472732,
+    "y": 95.59904834941074,
+    "z": 7.93,
+    "yaw": -0.3656952342007411
+  },
+  {
+    "name": "city_tree_0021",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -200.4506602775122,
+    "y": 51.07799152978514,
+    "z": 7.93,
+    "yaw": -0.7549857969042102
+  },
+  {
+    "name": "city_tree_0022",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -178.79502288241054,
+    "y": -51.795941925861534,
+    "z": 7.93,
+    "yaw": 2.6250495821511723
+  },
+  {
+    "name": "city_tree_0023",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -196.4145939207845,
+    "y": -5.3400480176604646,
+    "z": 7.93,
+    "yaw": 1.714502521553074
+  },
+  {
+    "name": "city_tree_0024",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 188.41848428358026,
+    "y": -325.1123093161975,
+    "z": 7.93,
+    "yaw": -0.4937686656301876
+  },
+  {
+    "name": "city_tree_0025",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -97.46260921753108,
+    "y": 139.03218397593298,
+    "z": 7.93,
+    "yaw": -0.9287148401438325
+  },
+  {
+    "name": "city_tree_0026",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 70.41399281453788,
+    "y": 159.13684424101461,
+    "z": 7.93,
+    "yaw": 1.85239074376178
+  },
+  {
+    "name": "city_tree_0027",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -82.39153063872718,
+    "y": 185.38082553113597,
+    "z": 7.93,
+    "yaw": -2.70220578797146
+  },
+  {
+    "name": "city_tree_0028",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 218.90467107025938,
+    "y": -415.0765751485526,
+    "z": 7.93,
+    "yaw": 2.878350992422532
+  },
+  {
+    "name": "city_tree_0029",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -82.49251709576976,
+    "y": 144.5842543051794,
+    "z": 7.93,
+    "yaw": -0.4693787050237823
+  },
+  {
+    "name": "city_tree_0030",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 340.462269677545,
+    "y": 238.25082188586543,
+    "z": 7.93,
+    "yaw": 2.4903055390576796
+  },
+  {
+    "name": "city_tree_0031",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -34.43704854108536,
+    "y": 115.67389865014971,
+    "z": 7.93,
+    "yaw": -1.5736082790777641
+  },
+  {
+    "name": "city_tree_0032",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -88.52876846486848,
+    "y": 212.50470476184137,
+    "z": 7.93,
+    "yaw": 0.9242457705519529
+  },
+  {
+    "name": "city_tree_0033",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -233.35962171583782,
+    "y": -21.250142089285596,
+    "z": 7.93,
+    "yaw": 0.7193002421010286
+  },
+  {
+    "name": "city_tree_0034",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -88.8588796964821,
+    "y": 192.84662631280665,
+    "z": 7.93,
+    "yaw": -1.4947885768183398
+  },
+  {
+    "name": "city_tree_0035",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 256.1829247802816,
+    "y": -53.40712553359947,
+    "z": 7.93,
+    "yaw": 2.27821466097983
+  },
+  {
+    "name": "city_tree_0036",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -208.3920495990764,
+    "y": 32.043691496522456,
+    "z": 7.93,
+    "yaw": -0.04665223563592624
+  },
+  {
+    "name": "city_tree_0037",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 121.55590971433767,
+    "y": 184.44025972409088,
+    "z": 7.93,
+    "yaw": 2.752289852310443
+  },
+  {
+    "name": "city_tree_0038",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 223.95462855110483,
+    "y": -362.5541631371142,
+    "z": 7.93,
+    "yaw": 0.48355541778933864
+  },
+  {
+    "name": "city_tree_0039",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 349.27086302507274,
+    "y": -405.0411911181866,
+    "z": 9.097683436460562,
+    "yaw": 2.0604026368557617
+  },
+  {
+    "name": "city_tree_0040",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 70.24149788990195,
+    "y": -222.79483155293576,
+    "z": 7.93,
+    "yaw": -2.9723110417620253
+  },
+  {
+    "name": "city_tree_0041",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 96.11954365369,
+    "y": 154.87969118964156,
+    "z": 7.93,
+    "yaw": -1.7435665857283527
+  },
+  {
+    "name": "city_tree_0042",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 351.5740121116297,
+    "y": 179.53957995460792,
+    "z": 7.93,
+    "yaw": -2.252970420989136
+  },
+  {
+    "name": "city_tree_0043",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 102.8998904887456,
+    "y": 229.54086688262794,
+    "z": 7.93,
+    "yaw": 0.8615701857606108
+  },
+  {
+    "name": "city_tree_0044",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -244.29530046684133,
+    "y": 33.406448657194545,
+    "z": 7.93,
+    "yaw": 2.740754755552996
+  },
+  {
+    "name": "city_tree_0045",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -177.91467134042887,
+    "y": 14.271710895934106,
+    "z": 7.93,
+    "yaw": -1.5910268212035168
+  },
+  {
+    "name": "city_tree_0046",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -236.1157506018316,
+    "y": -4.899479342493855,
+    "z": 7.93,
+    "yaw": -1.6824401417399277
+  },
+  {
+    "name": "city_tree_0047",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -227.89547439747278,
+    "y": 29.884402946871347,
+    "z": 7.93,
+    "yaw": -2.162797515157987
+  },
+  {
+    "name": "city_tree_0048",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -54.01616054620713,
+    "y": 187.83362839523764,
+    "z": 7.93,
+    "yaw": -0.27474392603070674
+  },
+  {
+    "name": "city_tree_0049",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -28.07333548572815,
+    "y": 197.72554506271717,
+    "z": 7.93,
+    "yaw": 1.2361927534559305
+  },
+  {
+    "name": "city_tree_0050",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -239.7147325855036,
+    "y": -27.672980988562447,
+    "z": 7.93,
+    "yaw": 0.44789337408470686
+  },
+  {
+    "name": "city_tree_0051",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -224.71013521012398,
+    "y": -4.246304303629302,
+    "z": 7.93,
+    "yaw": -0.3754557791664408
+  },
+  {
+    "name": "city_tree_0052",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -59.01107182121832,
+    "y": 208.8787769515688,
+    "z": 7.93,
+    "yaw": 0.29293433649161216
+  },
+  {
+    "name": "city_tree_0053",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -88.91564919907375,
+    "y": 150.7333597059934,
+    "z": 7.93,
+    "yaw": 3.127446766522233
+  },
+  {
+    "name": "city_tree_0054",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 117.93618149496376,
+    "y": 255.15201345225307,
+    "z": 7.93,
+    "yaw": -1.6496220556570929
+  },
+  {
+    "name": "city_tree_0055",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -248.21118905232746,
+    "y": -13.586988609108332,
+    "z": 7.93,
+    "yaw": 0.4450470297073057
+  },
+  {
+    "name": "city_tree_0056",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -104.6699817101144,
+    "y": 134.19286819053923,
+    "z": 7.93,
+    "yaw": 2.41847810904689
+  },
+  {
+    "name": "city_tree_0057",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -47.22586048929678,
+    "y": 178.66429965025876,
+    "z": 7.93,
+    "yaw": -2.9384194856220915
+  },
+  {
+    "name": "city_tree_0058",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -194.35210441680977,
+    "y": -15.50945670193623,
+    "z": 7.93,
+    "yaw": 1.1971639646858812
+  },
+  {
+    "name": "city_tree_0059",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 83.37978450609974,
+    "y": -297.2582288897482,
+    "z": 7.93,
+    "yaw": -2.4805855383684827
+  },
+  {
+    "name": "city_tree_0060",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -32.47834921552594,
+    "y": 165.71486952902083,
+    "z": 7.93,
+    "yaw": 1.0489764177896763
+  },
+  {
+    "name": "city_tree_0061",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -201.0175587451932,
+    "y": -43.46503647796518,
+    "z": 7.93,
+    "yaw": 0.6336983379613184
+  },
+  {
+    "name": "city_tree_0062",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 373.5854069818765,
+    "y": -245.72874305891332,
+    "z": 16.140893242905825,
+    "yaw": 1.2856701095688639
+  },
+  {
+    "name": "city_tree_0063",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 233.4119062813525,
+    "y": -272.2488002749582,
+    "z": 7.93,
+    "yaw": 3.0669087456988473
+  },
+  {
+    "name": "city_tree_0064",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -189.96325526949033,
+    "y": -43.59368400342864,
+    "z": 7.93,
+    "yaw": -1.7859131146906582
+  },
+  {
+    "name": "city_tree_0065",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -171.99341904077068,
+    "y": -18.905296221315346,
+    "z": 7.93,
+    "yaw": -2.0214008036594526
+  },
+  {
+    "name": "city_tree_0066",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -258.86146273289114,
+    "y": 20.557232129072148,
+    "z": 7.93,
+    "yaw": 2.837888622280503
+  },
+  {
+    "name": "city_tree_0067",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 350.7162138666176,
+    "y": -46.614320238035816,
+    "z": 8.097523939830706,
+    "yaw": -0.9900776159485032
+  },
+  {
+    "name": "city_tree_0068",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 345.9468763389243,
+    "y": 135.05814374746546,
+    "z": 7.93,
+    "yaw": -2.9297568165202885
+  },
+  {
+    "name": "city_tree_0069",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 213.96064091901567,
+    "y": -132.55643987064553,
+    "z": 7.93,
+    "yaw": 1.6635196427408951
+  },
+  {
+    "name": "city_tree_0070",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -184.8814338751243,
+    "y": 26.148810145834773,
+    "z": 7.93,
+    "yaw": 1.3660763861388725
+  },
+  {
+    "name": "city_tree_0071",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 195.01097729756745,
+    "y": -438.61990879956585,
+    "z": 7.93,
+    "yaw": -2.5050944618203372
+  },
+  {
+    "name": "city_tree_0072",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 70.84366640601164,
+    "y": 179.86707269295732,
+    "z": 7.93,
+    "yaw": -0.5132641451056572
+  },
+  {
+    "name": "city_tree_0073",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 61.821663032116376,
+    "y": -183.03779502092596,
+    "z": 7.93,
+    "yaw": -0.6439023942810502
+  },
+  {
+    "name": "city_tree_0074",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -185.7477550168477,
+    "y": -6.844209425809957,
+    "z": 7.93,
+    "yaw": 0.7023029398597349
+  },
+  {
+    "name": "city_tree_0075",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -208.8190521017226,
+    "y": 40.52756860420648,
+    "z": 7.93,
+    "yaw": 2.655679926812768
+  },
+  {
+    "name": "city_tree_0076",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -186.4764432009449,
+    "y": -30.056126216402163,
+    "z": 7.93,
+    "yaw": 3.011530234361045
+  },
+  {
+    "name": "city_tree_0077",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -38.061559721916126,
+    "y": 210.42004944229396,
+    "z": 7.93,
+    "yaw": 1.494179296452125
+  },
+  {
+    "name": "city_tree_0078",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -232.85507391372772,
+    "y": 51.513121806579505,
+    "z": 7.93,
+    "yaw": -0.4630212457467726
+  },
+  {
+    "name": "city_tree_0079",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -25.732070608925298,
+    "y": 133.06592929656793,
+    "z": 7.93,
+    "yaw": 1.9252818353852073
+  },
+  {
+    "name": "city_tree_0080",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 199.07510957072333,
+    "y": -268.2032702586039,
+    "z": 7.93,
+    "yaw": -1.6112882320435258
+  },
+  {
+    "name": "city_tree_0081",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 271.427722410495,
+    "y": -56.11656372326303,
+    "z": 7.93,
+    "yaw": -1.9704636143718672
+  },
+  {
+    "name": "city_tree_0082",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 280.9600714806795,
+    "y": 207.00895206848395,
+    "z": 7.93,
+    "yaw": 1.8179975033606688
+  },
+  {
+    "name": "city_tree_0083",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -225.05329273006885,
+    "y": 45.94408348066126,
+    "z": 7.93,
+    "yaw": 0.8431062024151745
+  },
+  {
+    "name": "city_tree_0084",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -171.4317768110605,
+    "y": 27.34187788659017,
+    "z": 7.93,
+    "yaw": 0.19494139296801816
+  },
+  {
+    "name": "city_tree_0085",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 185.6205245555908,
+    "y": -133.8329180805876,
+    "z": 7.93,
+    "yaw": 2.3089375486160675
+  },
+  {
+    "name": "city_tree_0086",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -108.30103300038549,
+    "y": 201.0492487325784,
+    "z": 7.93,
+    "yaw": 0.31212237313114466
+  },
+  {
+    "name": "city_tree_0087",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 380.6405684949795,
+    "y": -218.17213993792916,
+    "z": 18.456207480812424,
+    "yaw": -1.9389152657345228
+  },
+  {
+    "name": "city_tree_0088",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 118.01651438735357,
+    "y": 60.94377203553768,
+    "z": 7.93,
+    "yaw": 2.842309146051285
+  },
+  {
+    "name": "city_tree_0089",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 126.15529013063053,
+    "y": 142.60038985220513,
+    "z": 7.93,
+    "yaw": 0.9544677086654714
+  },
+  {
+    "name": "city_tree_0090",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 200.20805117703537,
+    "y": -123.3395332026422,
+    "z": 7.93,
+    "yaw": 2.693096021816449
+  },
+  {
+    "name": "city_tree_0091",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -245.49770603326405,
+    "y": -42.9521177418931,
+    "z": 7.93,
+    "yaw": -0.05369505490894655
+  },
+  {
+    "name": "city_tree_0092",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 84.41816505165531,
+    "y": -2.8406898612604436,
+    "z": 7.93,
+    "yaw": 0.4957654069195012
+  },
+  {
+    "name": "city_tree_0093",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 387.7181482365242,
+    "y": -40.07795306530801,
+    "z": 19.17598582222873,
+    "yaw": 0.42577929626949196
+  },
+  {
+    "name": "city_tree_0094",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -205.14898303186865,
+    "y": -49.80249012278999,
+    "z": 7.93,
+    "yaw": -0.17315922928640104
+  },
+  {
+    "name": "city_tree_0095",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -208.30866035714106,
+    "y": -35.673060872329856,
+    "z": 7.93,
+    "yaw": 1.5911098047756465
+  },
+  {
+    "name": "city_tree_0096",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 356.15898255059096,
+    "y": -85.53414854102573,
+    "z": 9.208691252115296,
+    "yaw": -2.2042247197764713
+  },
+  {
+    "name": "city_tree_0097",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -204.21942428544952,
+    "y": -21.237569641697362,
+    "z": 7.93,
+    "yaw": -1.4778510685585307
+  },
+  {
+    "name": "city_tree_0098",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 365.4821455727184,
+    "y": -327.0532186957814,
+    "z": 13.833071209284936,
+    "yaw": -2.466538637722021
+  },
+  {
+    "name": "city_tree_0099",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -73.22096764573193,
+    "y": 144.4387489075928,
+    "z": 7.93,
+    "yaw": -1.0167119367034054
+  },
+  {
+    "name": "city_tree_0100",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 360.9602443010548,
+    "y": 236.13834658891994,
+    "z": 7.93,
+    "yaw": 0.058488972614720414
+  },
+  {
+    "name": "city_tree_0101",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -57.214605663669886,
+    "y": 109.44296518699402,
+    "z": 7.93,
+    "yaw": -2.8032405190789156
+  },
+  {
+    "name": "city_tree_0102",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -56.29279889565484,
+    "y": 165.79395501303378,
+    "z": 7.93,
+    "yaw": 2.5262881304012197
+  },
+  {
+    "name": "city_tree_0103",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 383.3980486479564,
+    "y": -124.17631670337056,
+    "z": 19.65860458623326,
+    "yaw": 0.3639264078549469
+  },
+  {
+    "name": "city_tree_0104",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -208.16796817722602,
+    "y": -6.528126650070071,
+    "z": 7.93,
+    "yaw": 1.8537343412301972
+  },
+  {
+    "name": "city_tree_0105",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -54.29276875214987,
+    "y": 120.59885240877065,
+    "z": 7.93,
+    "yaw": -0.19867741311822584
+  },
+  {
+    "name": "city_tree_0106",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -219.9270144144802,
+    "y": -31.983673823419206,
+    "z": 7.93,
+    "yaw": 1.5822362573721929
+  },
+  {
+    "name": "city_tree_0107",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 209.21562723208692,
+    "y": -287.291806613405,
+    "z": 7.93,
+    "yaw": -0.25826817013205794
+  },
+  {
+    "name": "city_tree_0108",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -37.0180823975124,
+    "y": 148.2521406149104,
+    "z": 7.93,
+    "yaw": -1.1345780436562851
+  },
+  {
+    "name": "city_tree_0109",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 92.78789393600974,
+    "y": -184.92646903478106,
+    "z": 7.93,
+    "yaw": -2.352275941809104
+  },
+  {
+    "name": "city_tree_0110",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -224.48209021160767,
+    "y": -46.81056260311301,
+    "z": 7.93,
+    "yaw": -2.307445822619318
+  },
+  {
+    "name": "city_tree_0111",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -181.9145759365254,
+    "y": 5.803785889840491,
+    "z": 7.93,
+    "yaw": 1.1799797220287482
+  },
+  {
+    "name": "city_tree_0112",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 223.32124479123468,
+    "y": -218.22974354318535,
+    "z": 7.93,
+    "yaw": -2.2804727515934142
+  },
+  {
+    "name": "city_tree_0113",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -250.40215724669804,
+    "y": -36.45137480027985,
+    "z": 7.93,
+    "yaw": -2.1931906970422688
+  },
+  {
+    "name": "city_tree_0114",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 81.54307018080347,
+    "y": -175.2760367736346,
+    "z": 7.93,
+    "yaw": 1.9695462188002617
+  },
+  {
+    "name": "city_tree_0115",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 361.63308701636373,
+    "y": 130.88525550706072,
+    "z": 7.964491418871489,
+    "yaw": -1.8048964858271423
+  },
+  {
+    "name": "city_tree_0116",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -86.54866519067038,
+    "y": 117.66600498188771,
+    "z": 7.93,
+    "yaw": -0.06876540989997837
+  },
+  {
+    "name": "city_tree_0117",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 203.98630998005828,
+    "y": -301.5947388215136,
+    "z": 7.93,
+    "yaw": -2.2529766325622917
+  },
+  {
+    "name": "city_tree_0118",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 376.88908913313315,
+    "y": -41.649507712790125,
+    "z": 14.511467844327523,
+    "yaw": 2.1285662808843924
+  },
+  {
+    "name": "city_tree_0119",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -93.42127576498615,
+    "y": 186.62287492515765,
+    "z": 7.93,
+    "yaw": 2.3942349655113313
+  },
+  {
+    "name": "city_tree_0120",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 361.11098832167784,
+    "y": -405.0536579530228,
+    "z": 12.805295659510591,
+    "yaw": 0.931787304137953
+  },
+  {
+    "name": "city_tree_0121",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -76.18755007282502,
+    "y": 198.2745491878547,
+    "z": 7.93,
+    "yaw": 0.3411490834761324
+  },
+  {
+    "name": "city_tree_0122",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -199.1174774005726,
+    "y": 40.21290358867431,
+    "z": 7.93,
+    "yaw": 0.9333694705247257
+  },
+  {
+    "name": "city_tree_0123",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -174.5227683791889,
+    "y": 36.22355663204365,
+    "z": 7.93,
+    "yaw": 1.9230725467862966
+  },
+  {
+    "name": "city_tree_0124",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 340.51186497119846,
+    "y": -210.42991155775428,
+    "z": 8.053835126997232,
+    "yaw": 2.9363325006800896
+  },
+  {
+    "name": "city_tree_0125",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -84.8330745892232,
+    "y": 130.5742799777194,
+    "z": 7.93,
+    "yaw": -3.0369610362862245
+  },
+  {
+    "name": "city_tree_0126",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -205.39828643656335,
+    "y": 4.803126919047671,
+    "z": 7.93,
+    "yaw": 2.8455980985840794
+  },
+  {
+    "name": "city_tree_0127",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -70.1690143906048,
+    "y": 204.96550762117084,
+    "z": 7.93,
+    "yaw": -2.0289660588505622
+  },
+  {
+    "name": "city_tree_0128",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -21.76523314810008,
+    "y": 212.84712040389218,
+    "z": 7.93,
+    "yaw": 1.6486273556528968
+  },
+  {
+    "name": "city_tree_0129",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 60.90931283344773,
+    "y": 32.87966909732177,
+    "z": 7.93,
+    "yaw": 0.7851579735214038
+  },
+  {
+    "name": "city_tree_0130",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -230.5529156291239,
+    "y": 40.78471877491933,
+    "z": 7.93,
+    "yaw": 0.055455184336632435
+  },
+  {
+    "name": "city_tree_0131",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 217.14342121163727,
+    "y": -36.26926400751955,
+    "z": 7.93,
+    "yaw": 1.6092852752324704
+  },
+  {
+    "name": "city_tree_0132",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -176.16672280870748,
+    "y": -28.83243177998886,
+    "z": 7.93,
+    "yaw": 0.8213705594625074
+  },
+  {
+    "name": "city_tree_0133",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 372.47120756066187,
+    "y": -151.69521704495594,
+    "z": 14.844218698122123,
+    "yaw": -0.29566805448306654
+  },
+  {
+    "name": "city_tree_0134",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -100.50207404422184,
+    "y": 119.4900275480238,
+    "z": 7.93,
+    "yaw": 3.0238588617683
+  },
+  {
+    "name": "city_tree_0135",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 62.21073531275165,
+    "y": -58.308544245663825,
+    "z": 7.93,
+    "yaw": 1.2178883486374597
+  },
+  {
+    "name": "city_tree_0136",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 353.90672705891825,
+    "y": 278.4925624897171,
+    "z": 7.93,
+    "yaw": 3.1279871944744277
+  },
+  {
+    "name": "city_tree_0137",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -73.5104511987175,
+    "y": 180.03270027944603,
+    "z": 7.93,
+    "yaw": 2.199094797330515
+  },
+  {
+    "name": "city_tree_0138",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -32.744299702140324,
+    "y": 186.6632335986609,
+    "z": 7.93,
+    "yaw": 1.7054697152513079
+  },
+  {
+    "name": "city_tree_0139",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -210.43515504133953,
+    "y": -26.213150039546402,
+    "z": 7.93,
+    "yaw": 1.5549018926213467
+  },
+  {
+    "name": "city_tree_0140",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 79.4463450169593,
+    "y": -33.83486697198816,
+    "z": 7.93,
+    "yaw": 2.129864843846411
+  },
+  {
+    "name": "city_tree_0141",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 189.91831005008262,
+    "y": -409.9603920056334,
+    "z": 7.93,
+    "yaw": -1.6229290937230567
+  },
+  {
+    "name": "city_tree_0142",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 271.90757674160005,
+    "y": -65.34502852363204,
+    "z": 7.93,
+    "yaw": 2.3380956175864718
+  },
+  {
+    "name": "city_tree_0143",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -195.6701019184548,
+    "y": -25.940030631131425,
+    "z": 7.93,
+    "yaw": -2.455553605657658
+  },
+  {
+    "name": "city_tree_0144",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -97.74702623931503,
+    "y": 198.59977630705214,
+    "z": 7.93,
+    "yaw": -1.28671845418337
+  },
+  {
+    "name": "city_tree_0145",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -72.47136586644567,
+    "y": 123.94383842569515,
+    "z": 7.93,
+    "yaw": 2.915249693142159
+  },
+  {
+    "name": "city_tree_0146",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 63.568380672566384,
+    "y": 203.75886614749447,
+    "z": 7.93,
+    "yaw": 3.1367594818537894
+  },
+  {
+    "name": "city_tree_0147",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -42.401253296286285,
+    "y": 108.44361799594381,
+    "z": 7.93,
+    "yaw": 2.30882184614543
+  },
+  {
+    "name": "city_tree_0148",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -56.72929677900914,
+    "y": 132.17424502285607,
+    "z": 7.93,
+    "yaw": 1.5587854799755716
+  },
+  {
+    "name": "city_tree_0149",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -249.82677948035808,
+    "y": -21.71317862517147,
+    "z": 7.93,
+    "yaw": 0.6724048356849366
+  },
+  {
+    "name": "city_tree_0150",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 209.21069628625122,
+    "y": -392.88674186831423,
+    "z": 7.93,
+    "yaw": -2.2513711268901098
+  },
+  {
+    "name": "city_tree_0151",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 346.0067177846361,
+    "y": 206.98933914920417,
+    "z": 7.93,
+    "yaw": -0.08314357827893692
+  },
+  {
+    "name": "city_tree_0152",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 199.89703837785726,
+    "y": -54.915032277620185,
+    "z": 7.93,
+    "yaw": -0.9014005516833565
+  },
+  {
+    "name": "city_tree_0153",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -74.75257671752036,
+    "y": 135.15471798343802,
+    "z": 7.93,
+    "yaw": -0.7194459616121716
+  },
+  {
+    "name": "city_tree_0154",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 367.07031385719796,
+    "y": 208.58345458145345,
+    "z": 8.061959854549047,
+    "yaw": -1.876793227067557
+  },
+  {
+    "name": "city_tree_0155",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -231.63174272602808,
+    "y": 8.706946244101083,
+    "z": 7.93,
+    "yaw": 1.9125824439096304
+  },
+  {
+    "name": "city_tree_0156",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 133.824298643527,
+    "y": 253.66400028848602,
+    "z": 7.93,
+    "yaw": 1.3811244361874007
+  },
+  {
+    "name": "city_tree_0157",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 209.78208709353243,
+    "y": -160.71296368369786,
+    "z": 7.93,
+    "yaw": 2.7395120041343786
+  },
+  {
+    "name": "city_tree_0158",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -45.56643867687775,
+    "y": 141.30296850459246,
+    "z": 7.93,
+    "yaw": 0.4306565326851284
+  },
+  {
+    "name": "city_tree_0159",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 279.5551313456251,
+    "y": 216.43775485235483,
+    "z": 7.93,
+    "yaw": 0.8199497272474057
+  },
+  {
+    "name": "city_tree_0160",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -180.66818797752927,
+    "y": 42.26737332153249,
+    "z": 7.93,
+    "yaw": 0.997320925227652
+  },
+  {
+    "name": "city_tree_0161",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -46.391554105906096,
+    "y": 114.92171518138726,
+    "z": 7.93,
+    "yaw": -2.7064403739851146
+  },
+  {
+    "name": "city_tree_0162",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 81.41309226483831,
+    "y": 218.3795739899257,
+    "z": 7.93,
+    "yaw": 1.5243133562807287
+  },
+  {
+    "name": "city_tree_0163",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 343.26914836095983,
+    "y": 299.98080156579647,
+    "z": 10.116043425687932,
+    "yaw": -1.1693838415537303
+  },
+  {
+    "name": "city_tree_0164",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 93.72029669473955,
+    "y": -256.74934909133356,
+    "z": 7.93,
+    "yaw": -0.4761567501077111
+  },
+  {
+    "name": "city_tree_0165",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 191.40972425351922,
+    "y": -214.43246748240932,
+    "z": 7.93,
+    "yaw": -2.717813986012546
+  },
+  {
+    "name": "city_tree_0166",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -175.65812341447833,
+    "y": -37.35270892304608,
+    "z": 7.93,
+    "yaw": 0.4663321864121013
+  },
+  {
+    "name": "city_tree_0167",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 366.48906375969074,
+    "y": -308.5878971835914,
+    "z": 13.929438864408857,
+    "yaw": -0.34758965856987745
+  },
+  {
+    "name": "city_tree_0168",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -70.39295439112438,
+    "y": 190.2276753359328,
+    "z": 7.93,
+    "yaw": -2.2157116780469703
+  },
+  {
+    "name": "city_tree_0169",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 249.04299491623732,
+    "y": -269.99503589650374,
+    "z": 7.93,
+    "yaw": -1.591036411483508
+  },
+  {
+    "name": "city_tree_0170",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -21.96563362395493,
+    "y": 113.7544967725338,
+    "z": 7.93,
+    "yaw": 3.0245674364942507
+  },
+  {
+    "name": "city_tree_0171",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 369.4449348213842,
+    "y": 50.40339585895083,
+    "z": 10.141038331973242,
+    "yaw": 0.6024258077872222
+  },
+  {
+    "name": "city_tree_0172",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 273.72235299281283,
+    "y": 188.4601629344869,
+    "z": 7.93,
+    "yaw": -0.3804259534287948
+  },
+  {
+    "name": "city_tree_0173",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -98.43289654768407,
+    "y": 172.77826514289177,
+    "z": 7.93,
+    "yaw": -2.931854361782109
+  },
+  {
+    "name": "city_tree_0174",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -55.71264008653651,
+    "y": 196.7024080406852,
+    "z": 7.93,
+    "yaw": -1.459206446416515
+  },
+  {
+    "name": "city_tree_0175",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -35.18389077995198,
+    "y": 174.06141969471156,
+    "z": 7.93,
+    "yaw": -1.7907166022845382
+  },
+  {
+    "name": "city_tree_0176",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 176.65860766984434,
+    "y": -172.01250001064568,
+    "z": 7.93,
+    "yaw": -0.5564635210689244
+  },
+  {
+    "name": "city_tree_0177",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 176.92744599362732,
+    "y": -113.47567859537457,
+    "z": 7.93,
+    "yaw": 1.5644450271318808
+  },
+  {
+    "name": "city_tree_0178",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 373.6130954760569,
+    "y": -181.8777405801851,
+    "z": 15.529014345369246,
+    "yaw": -3.054818580412097
+  },
+  {
+    "name": "city_tree_0179",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 340.93699430295675,
+    "y": -248.53647230876604,
+    "z": 8.127101836250027,
+    "yaw": -1.7231094741556308
+  },
+  {
+    "name": "city_tree_0180",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 174.11988481107315,
+    "y": -151.50334836797128,
+    "z": 7.93,
+    "yaw": 1.8824608670381622
+  },
+  {
+    "name": "city_tree_0181",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 113.42462715420699,
+    "y": -321.548963781006,
+    "z": 7.93,
+    "yaw": 2.5905297225864032
+  },
+  {
+    "name": "city_tree_0182",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -189.23042772889977,
+    "y": 34.98031638465497,
+    "z": 7.93,
+    "yaw": -0.41568711343041365
+  },
+  {
+    "name": "city_tree_0183",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -244.65719059140002,
+    "y": 49.75320947050807,
+    "z": 7.93,
+    "yaw": -2.3193727365141363
+  },
+  {
+    "name": "city_tree_0184",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -209.763983085561,
+    "y": 12.223862073136559,
+    "z": 7.93,
+    "yaw": 2.8600852351716313
+  },
+  {
+    "name": "city_tree_0185",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -199.3501521236622,
+    "y": 13.128869648490479,
+    "z": 7.93,
+    "yaw": 0.019581527819755973
+  },
+  {
+    "name": "city_tree_0186",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -258.5672116153062,
+    "y": 4.633812605267195,
+    "z": 7.93,
+    "yaw": 3.1079030111955035
+  },
+  {
+    "name": "city_tree_0187",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 63.88670830714432,
+    "y": 216.14759439375337,
+    "z": 7.93,
+    "yaw": 0.7538242440560161
+  },
+  {
+    "name": "city_tree_0188",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 91.17903045529481,
+    "y": -411.5938942059984,
+    "z": 7.93,
+    "yaw": 2.8862545492882123
+  },
+  {
+    "name": "city_tree_0189",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 72.70634891059375,
+    "y": -62.407765727183175,
+    "z": 7.93,
+    "yaw": 0.05931977677439093
+  },
+  {
+    "name": "city_tree_0190",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -250.76413093268812,
+    "y": -51.15196333750382,
+    "z": 7.93,
+    "yaw": 1.1413880943102859
+  },
+  {
+    "name": "city_tree_0191",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 62.08637637890872,
+    "y": -432.83659012160166,
+    "z": 7.93,
+    "yaw": -0.02705282780676166
+  },
+  {
+    "name": "city_tree_0192",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -21.656658374399953,
+    "y": 166.4743106386453,
+    "z": 7.93,
+    "yaw": -1.2609348057903271
+  },
+  {
+    "name": "city_tree_0193",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -200.5509373997414,
+    "y": 29.383509999183474,
+    "z": 7.93,
+    "yaw": 0.5882578996543679
+  },
+  {
+    "name": "city_tree_0194",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -49.73827889928654,
+    "y": 170.8499910418381,
+    "z": 7.93,
+    "yaw": 2.584947938212583
+  },
+  {
+    "name": "city_tree_0195",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 349.8340140844767,
+    "y": 254.8381132453868,
+    "z": 7.93,
+    "yaw": 0.20755987620622696
+  },
+  {
+    "name": "city_tree_0196",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 110.41002921633844,
+    "y": 195.6373722305267,
+    "z": 7.93,
+    "yaw": -2.3050015025195103
+  },
+  {
+    "name": "city_tree_0197",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 179.83830692600276,
+    "y": -215.95475164937875,
+    "z": 7.93,
+    "yaw": -0.3546505610869306
+  },
+  {
+    "name": "city_tree_0198",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 183.39870894863472,
+    "y": -307.3584957376057,
+    "z": 7.93,
+    "yaw": 1.4487292017085354
+  },
+  {
+    "name": "city_tree_0199",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -235.313856467072,
+    "y": -41.34477935234764,
+    "z": 7.93,
+    "yaw": 0.07572776998854192
+  },
+  {
+    "name": "city_tree_0200",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 195.63296690016855,
+    "y": -346.2950143643284,
+    "z": 7.93,
+    "yaw": -0.15322662962748224
+  },
+  {
+    "name": "city_tree_0201",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 352.3108666533087,
+    "y": 6.645392746759967,
+    "z": 7.956422524214448,
+    "yaw": 0.04901056205734067
+  },
+  {
+    "name": "city_tree_0202",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -221.4738857242948,
+    "y": 9.05147404130723,
+    "z": 7.93,
+    "yaw": 2.440229924853206
+  },
+  {
+    "name": "city_tree_0203",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 245.75353769854888,
+    "y": -463.6618459654976,
+    "z": 7.93,
+    "yaw": -1.4129805953416865
+  },
+  {
+    "name": "city_tree_0204",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -220.44481437608073,
+    "y": 25.363536673774348,
+    "z": 7.93,
+    "yaw": 0.6724762614751141
+  },
+  {
+    "name": "city_tree_0205",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 345.49271541113603,
+    "y": 50.671054984910086,
+    "z": 7.93,
+    "yaw": 1.9465245643854967
+  },
+  {
+    "name": "city_tree_0206",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -40.55731300923499,
+    "y": 203.22452596532935,
+    "z": 7.93,
+    "yaw": -1.6353244680603072
+  },
+  {
+    "name": "city_tree_0207",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -108.52057442692485,
+    "y": 107.93870649846959,
+    "z": 7.93,
+    "yaw": -1.6087395063974153
+  },
+  {
+    "name": "city_tree_0208",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 346.58478323675087,
+    "y": -204.2910930308308,
+    "z": 8.604583027016503,
+    "yaw": 2.527039008203582
+  },
+  {
+    "name": "city_tree_0209",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 71.73776506563946,
+    "y": -372.7997459789784,
+    "z": 7.93,
+    "yaw": 1.9794560913374308
+  },
+  {
+    "name": "city_tree_0210",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 358.3208648495247,
+    "y": -319.59747042573866,
+    "z": 11.324262423293673,
+    "yaw": 2.0957237317797786
+  },
+  {
+    "name": "city_tree_0211",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 374.54991438360724,
+    "y": 227.9466594305701,
+    "z": 9.146453092476447,
+    "yaw": 2.0971644662148305
+  },
+  {
+    "name": "city_tree_0212",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 81.70948135687067,
+    "y": -65.84347551938521,
+    "z": 7.93,
+    "yaw": -2.429706952461639
+  },
+  {
+    "name": "city_tree_0213",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 343.60765681725644,
+    "y": -70.00844910692587,
+    "z": 7.93,
+    "yaw": 3.0388202886722073
+  },
+  {
+    "name": "city_tree_0214",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -102.74748718770448,
+    "y": 210.76412963849478,
+    "z": 7.93,
+    "yaw": 0.5995591353917464
+  },
+  {
+    "name": "city_tree_0215",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -73.000749502641,
+    "y": 170.61468782694513,
+    "z": 7.93,
+    "yaw": 2.511220687264503
+  },
+  {
+    "name": "city_tree_0216",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -194.9696352219529,
+    "y": -37.08861377098544,
+    "z": 7.93,
+    "yaw": 1.1288106922498802
+  },
+  {
+    "name": "city_tree_0217",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 84.33165524345462,
+    "y": -182.5231701145904,
+    "z": 7.93,
+    "yaw": -0.10898348197624408
+  },
+  {
+    "name": "city_tree_0218",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 346.04575727052594,
+    "y": -285.17504060935147,
+    "z": 8.677751818492174,
+    "yaw": 1.750663641571319
+  },
+  {
+    "name": "city_tree_0219",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 92.22444228556722,
+    "y": -204.10477263148573,
+    "z": 7.93,
+    "yaw": 0.4518182739460448
+  },
+  {
+    "name": "city_tree_0220",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 79.33199260304818,
+    "y": -114.41746579611748,
+    "z": 7.93,
+    "yaw": 0.29738322041058085
+  },
+  {
+    "name": "city_tree_0221",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 197.0628738593571,
+    "y": -90.2790387576627,
+    "z": 7.93,
+    "yaw": 2.229984120517673
+  },
+  {
+    "name": "city_tree_0222",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 282.83756307810177,
+    "y": 262.46329781143834,
+    "z": 7.93,
+    "yaw": -0.06835548484410303
+  },
+  {
+    "name": "city_tree_0223",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 196.4648164151977,
+    "y": -292.94022351702495,
+    "z": 7.93,
+    "yaw": -0.1277761756114657
+  },
+  {
+    "name": "city_tree_0224",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 62.875127439212605,
+    "y": -457.48641696194113,
+    "z": 7.93,
+    "yaw": 2.95756643652508
+  },
+  {
+    "name": "city_tree_0225",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 353.6287787159532,
+    "y": 207.25296595015868,
+    "z": 7.93,
+    "yaw": -1.2187114993696384
+  },
+  {
+    "name": "city_tree_0226",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 64.64817268170788,
+    "y": -124.7004501555001,
+    "z": 7.93,
+    "yaw": 0.7157383606458931
+  },
+  {
+    "name": "city_tree_0227",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -88.6138339287936,
+    "y": 175.04445655526735,
+    "z": 7.93,
+    "yaw": 1.3465680550776975
+  },
+  {
+    "name": "city_tree_0228",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 216.13437626333896,
+    "y": -52.559678531213535,
+    "z": 7.93,
+    "yaw": 2.924372242689336
+  },
+  {
+    "name": "city_tree_0229",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 391.8067093653695,
+    "y": -211.6415832996977,
+    "z": 23.552153584032197,
+    "yaw": 0.2438605761279975
+  },
+  {
+    "name": "city_tree_0230",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 348.5488967076612,
+    "y": -440.6618584820931,
+    "z": 8.615270698703565,
+    "yaw": -1.3904087993170353
+  },
+  {
+    "name": "city_tree_0231",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 191.22971087225625,
+    "y": -304.4506215916431,
+    "z": 7.93,
+    "yaw": 1.8619137258197318
+  },
+  {
+    "name": "city_tree_0232",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 197.60781238925372,
+    "y": -148.06331437613,
+    "z": 7.93,
+    "yaw": 2.655878466061603
+  },
+  {
+    "name": "city_tree_0233",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 345.95684522903247,
+    "y": -221.9088715963018,
+    "z": 8.58442174811547,
+    "yaw": -1.5950350126358797
+  },
+  {
+    "name": "city_tree_0234",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 97.8899527757352,
+    "y": 50.039691486725815,
+    "z": 7.93,
+    "yaw": 3.011116564109809
+  },
+  {
+    "name": "city_tree_0235",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 359.8169069941563,
+    "y": 256.1602165861002,
+    "z": 7.93,
+    "yaw": 1.840646774102031
+  },
+  {
+    "name": "city_tree_0236",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -186.6679404994839,
+    "y": -22.541250125521675,
+    "z": 7.93,
+    "yaw": -0.8251865262115223
+  },
+  {
+    "name": "city_tree_0237",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 255.5146195667119,
+    "y": 117.56664820895514,
+    "z": 7.93,
+    "yaw": 2.8290141052049815
+  },
+  {
+    "name": "city_tree_0238",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 351.3612876931881,
+    "y": 126.81870951972087,
+    "z": 7.93,
+    "yaw": 2.5147644129913482
+  },
+  {
+    "name": "city_tree_0239",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 201.53602779255047,
+    "y": -192.54765630024764,
+    "z": 7.93,
+    "yaw": -1.6337773719727768
+  },
+  {
+    "name": "city_tree_0240",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -34.13197318921904,
+    "y": 124.85538078072146,
+    "z": 7.93,
+    "yaw": 1.8717407138304587
+  },
+  {
+    "name": "city_tree_0241",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -79.9562201206553,
+    "y": 165.4259645802618,
+    "z": 7.93,
+    "yaw": -2.9685528157884273
+  },
+  {
+    "name": "city_tree_0242",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 346.43308227189965,
+    "y": -10.612824208400639,
+    "z": 7.93,
+    "yaw": 0.47675676308678794
+  },
+  {
+    "name": "city_tree_0243",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 367.71501473520055,
+    "y": 282.7768421738731,
+    "z": 8.179994786591493,
+    "yaw": -3.053672861233554
+  },
+  {
+    "name": "city_tree_0244",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 250.24281418905247,
+    "y": 55.135049040435774,
+    "z": 7.93,
+    "yaw": -2.936255695057713
+  },
+  {
+    "name": "city_tree_0245",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 362.4061174748283,
+    "y": 9.620463216869041,
+    "z": 9.04565575920507,
+    "yaw": -2.648736556372316
+  },
+  {
+    "name": "city_tree_0246",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 186.3638238118482,
+    "y": -271.3242896068074,
+    "z": 7.93,
+    "yaw": 0.1791907617651236
+  },
+  {
+    "name": "city_tree_0247",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 223.63873236018807,
+    "y": -341.30339373992973,
+    "z": 7.93,
+    "yaw": -2.581415828553424
+  },
+  {
+    "name": "city_tree_0248",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 90.965115629464,
+    "y": -350.50261732833087,
+    "z": 7.93,
+    "yaw": 1.3704232277866657
+  },
+  {
+    "name": "city_tree_0249",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 133.8098369834571,
+    "y": 191.21268113308827,
+    "z": 7.93,
+    "yaw": 1.588873482840568
+  },
+  {
+    "name": "city_tree_0250",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -231.73438269379824,
+    "y": -30.001022045428208,
+    "z": 7.93,
+    "yaw": -0.809854885279194
+  },
+  {
+    "name": "city_tree_0251",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -56.29269660810679,
+    "y": 141.14081126650058,
+    "z": 7.93,
+    "yaw": 1.5904784743641187
+  },
+  {
+    "name": "city_tree_0252",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 84.64779825128537,
+    "y": -432.64566208857116,
+    "z": 7.93,
+    "yaw": 1.7988086523328004
+  },
+  {
+    "name": "city_tree_0253",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 132.60150863338788,
+    "y": 222.46172334124878,
+    "z": 7.93,
+    "yaw": 2.7412582988281313
+  },
+  {
+    "name": "city_tree_0254",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -39.95071861682226,
+    "y": 132.75765570152868,
+    "z": 7.93,
+    "yaw": -3.1108179897387553
+  },
+  {
+    "name": "city_tree_0255",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 246.59547068337173,
+    "y": -114.542064376545,
+    "z": 7.93,
+    "yaw": 1.7853310108663303
+  },
+  {
+    "name": "city_tree_0256",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -240.15169886226045,
+    "y": 12.542321717766967,
+    "z": 7.93,
+    "yaw": -1.209878347990854
+  },
+  {
+    "name": "city_tree_0257",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -107.60020918543287,
+    "y": 167.9497421548763,
+    "z": 7.93,
+    "yaw": 2.9290285967059955
+  },
+  {
+    "name": "city_tree_0258",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -26.60884886100395,
+    "y": 155.55324160383697,
+    "z": 7.93,
+    "yaw": 0.4498591475468614
+  },
+  {
+    "name": "city_tree_0259",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -181.12043300902985,
+    "y": -13.540399581829917,
+    "z": 7.93,
+    "yaw": 1.682887926775746
+  },
+  {
+    "name": "city_tree_0260",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -234.51310597628475,
+    "y": -12.549334978568261,
+    "z": 7.93,
+    "yaw": 3.012072362047552
+  },
+  {
+    "name": "city_tree_0261",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 192.8136999985023,
+    "y": -458.4675084456365,
+    "z": 7.93,
+    "yaw": -0.10553814830495245
+  },
+  {
+    "name": "city_tree_0262",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 364.1471114266929,
+    "y": 164.43716140932702,
+    "z": 7.994844348512487,
+    "yaw": 1.2190990592252442
+  },
+  {
+    "name": "city_tree_0263",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 69.76416679739081,
+    "y": -5.914520089505174,
+    "z": 7.93,
+    "yaw": 0.40291917635330643
+  },
+  {
+    "name": "city_tree_0264",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 219.6409876300428,
+    "y": -61.63237659230947,
+    "z": 7.93,
+    "yaw": 2.3768180965516734
+  },
+  {
+    "name": "city_tree_0265",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 386.9684692639677,
+    "y": -16.647861430811986,
+    "z": 18.325299658472986,
+    "yaw": 3.0997681243163644
+  },
+  {
+    "name": "city_tree_0266",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 359.4264279293091,
+    "y": -75.45719391067382,
+    "z": 9.763674271088734,
+    "yaw": 2.876117325045727
+  },
+  {
+    "name": "city_tree_0267",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 359.9383807611069,
+    "y": -232.63439209790616,
+    "z": 11.38723566098237,
+    "yaw": -0.6335717856920593
+  },
+  {
+    "name": "city_tree_0268",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 184.10796626454103,
+    "y": -122.03908120391753,
+    "z": 7.93,
+    "yaw": -0.7315930808994682
+  },
+  {
+    "name": "city_tree_0269",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 269.3877371616359,
+    "y": -257.82566224976495,
+    "z": 7.93,
+    "yaw": -2.475277781652569
+  },
+  {
+    "name": "city_tree_0270",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 90.3299493009466,
+    "y": -270.2438152884954,
+    "z": 7.93,
+    "yaw": -2.883773650896941
+  },
+  {
+    "name": "city_tree_0271",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -107.52008577895204,
+    "y": 147.10686989337682,
+    "z": 7.93,
+    "yaw": 1.9847823822353012
+  },
+  {
+    "name": "city_tree_0272",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -107.84570321732033,
+    "y": 154.98327849612082,
+    "z": 7.93,
+    "yaw": 0.45015065609884486
+  },
+  {
+    "name": "city_tree_0273",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -245.049947272109,
+    "y": 19.434358117859418,
+    "z": 7.93,
+    "yaw": 1.4416441408074423
+  },
+  {
+    "name": "city_tree_0274",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 379.17131476232436,
+    "y": -13.431837299565245,
+    "z": 14.602551672862134,
+    "yaw": 0.27936476848240765
+  },
+  {
+    "name": "city_tree_0275",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 365.04456898770763,
+    "y": -57.96780089737655,
+    "z": 10.898893867753753,
+    "yaw": 1.5012403919191701
+  },
+  {
+    "name": "city_tree_0276",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -56.59980800603362,
+    "y": 150.28554366423228,
+    "z": 7.93,
+    "yaw": -0.45356004717371556
+  },
+  {
+    "name": "city_tree_0277",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 93.01728563084772,
+    "y": 267.95057845388885,
+    "z": 7.93,
+    "yaw": 2.1637892735845243
+  },
+  {
+    "name": "city_tree_0278",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 226.51571092112943,
+    "y": -412.823266050199,
+    "z": 7.93,
+    "yaw": -2.34056122415339
+  },
+  {
+    "name": "city_tree_0279",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 279.5952927997689,
+    "y": 170.8446161354051,
+    "z": 7.93,
+    "yaw": 2.0570478155714538
+  },
+  {
+    "name": "city_tree_0280",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 200.59596046330233,
+    "y": -452.87822190372765,
+    "z": 7.93,
+    "yaw": -0.6050202149657684
+  },
+  {
+    "name": "city_tree_0281",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 86.32588429055946,
+    "y": 174.59512856062963,
+    "z": 7.93,
+    "yaw": -2.6146540024740057
+  },
+  {
+    "name": "city_tree_0282",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -256.10970798676647,
+    "y": -12.903462105435942,
+    "z": 7.93,
+    "yaw": 2.084169792150292
+  },
+  {
+    "name": "city_tree_0283",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -23.67571879755542,
+    "y": 175.52509656195116,
+    "z": 7.93,
+    "yaw": -2.5747587193456605
+  },
+  {
+    "name": "city_tree_0284",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 253.3396122039092,
+    "y": -454.8705790324109,
+    "z": 7.93,
+    "yaw": 3.108760652211137
+  },
+  {
+    "name": "city_tree_0285",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -43.66012996992366,
+    "y": 192.01854536577224,
+    "z": 7.93,
+    "yaw": 2.2961429399490907
+  },
+  {
+    "name": "city_tree_0286",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 192.64550540620152,
+    "y": -446.1550377553553,
+    "z": 7.93,
+    "yaw": -2.968291139525391
+  },
+  {
+    "name": "city_tree_0287",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 352.28158197912796,
+    "y": 170.19207772032644,
+    "z": 7.93,
+    "yaw": 2.2149557355848852
+  },
+  {
+    "name": "city_tree_0288",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 74.37016231656374,
+    "y": -76.10633655374824,
+    "z": 7.93,
+    "yaw": -0.8338667336463117
+  },
+  {
+    "name": "city_tree_0289",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -77.8379854244784,
+    "y": 207.31279212935578,
+    "z": 7.93,
+    "yaw": 1.4816882260591422
+  },
+  {
+    "name": "city_tree_0290",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -257.5722284855772,
+    "y": 37.01740426852659,
+    "z": 7.93,
+    "yaw": -3.0942061371982974
+  },
+  {
+    "name": "city_tree_0291",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 346.7270582058501,
+    "y": -116.05162192114011,
+    "z": 8.16929491415994,
+    "yaw": 1.4942576563791512
+  },
+  {
+    "name": "city_tree_0292",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 341.11039037831716,
+    "y": 100.58460991566994,
+    "z": 7.93,
+    "yaw": -0.24550868882665888
+  },
+  {
+    "name": "city_tree_0293",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 379.9997242982386,
+    "y": -251.88400759748944,
+    "z": 18.802071762893142,
+    "yaw": 1.3886581196058811
+  },
+  {
+    "name": "city_tree_0294",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 226.19730492514034,
+    "y": -442.2369143794489,
+    "z": 7.93,
+    "yaw": -0.8309248391359048
+  },
+  {
+    "name": "city_tree_0295",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -47.58115529843666,
+    "y": 128.10224149942354,
+    "z": 7.93,
+    "yaw": -0.6899084459515796
+  },
+  {
+    "name": "city_tree_0296",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 205.5858505152255,
+    "y": -258.3209075686947,
+    "z": 7.93,
+    "yaw": 1.9951923611957483
+  },
+  {
+    "name": "city_tree_0297",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -192.3041620961874,
+    "y": 22.691263605394695,
+    "z": 7.93,
+    "yaw": 2.240494983910228
+  },
+  {
+    "name": "city_tree_0298",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 352.074023364831,
+    "y": 61.181201241418364,
+    "z": 7.93,
+    "yaw": -0.9727433538740602
+  },
+  {
+    "name": "city_tree_0299",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 82.51478826715488,
+    "y": -373.1454841912455,
+    "z": 7.93,
+    "yaw": -0.9945191329514911
+  },
+  {
+    "name": "city_tree_0300",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 254.66333198465856,
+    "y": 46.094760040694496,
+    "z": 7.93,
+    "yaw": -2.6387817346585196
+  },
+  {
+    "name": "city_tree_0301",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 353.2643662738855,
+    "y": -298.58573261573275,
+    "z": 9.939094603226227,
+    "yaw": -1.5916891041825778
+  },
+  {
+    "name": "city_tree_0302",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 352.4427552299404,
+    "y": 16.73882840990609,
+    "z": 7.939572759998848,
+    "yaw": -0.9935444505150874
+  },
+  {
+    "name": "city_tree_0303",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 91.33724812658978,
+    "y": 189.7198607646302,
+    "z": 7.93,
+    "yaw": 0.9227190438001873
+  },
+  {
+    "name": "city_tree_0304",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 271.10746756449714,
+    "y": -114.40577568978591,
+    "z": 7.93,
+    "yaw": -0.39955660698082074
+  },
+  {
+    "name": "city_tree_0305",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 94.40111413755196,
+    "y": 35.80876616971136,
+    "z": 7.93,
+    "yaw": 2.7597381370146064
+  },
+  {
+    "name": "city_tree_0306",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 112.33664146604525,
+    "y": 204.21611830721076,
+    "z": 7.93,
+    "yaw": 0.6672431772221383
+  },
+  {
+    "name": "city_tree_0307",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 357.36391596167334,
+    "y": -308.8068932494782,
+    "z": 10.96030329745243,
+    "yaw": 2.7298323743841877
+  },
+  {
+    "name": "city_tree_0308",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 372.53093091248945,
+    "y": 259.6226388372022,
+    "z": 8.588116591715034,
+    "yaw": 3.049289625791765
+  },
+  {
+    "name": "city_tree_0309",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 250.70318865833195,
+    "y": -185.3782300222299,
+    "z": 7.93,
+    "yaw": 1.1695814118077275
+  },
+  {
+    "name": "city_tree_0310",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -238.8011043705945,
+    "y": -51.74471217202973,
+    "z": 7.93,
+    "yaw": 0.5491493696641983
+  },
+  {
+    "name": "city_tree_0311",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 350.5110715394464,
+    "y": 71.40913002964055,
+    "z": 7.93,
+    "yaw": 2.5904145019100087
+  },
+  {
+    "name": "city_tree_0312",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 82.20460748253086,
+    "y": -365.2711868119826,
+    "z": 7.93,
+    "yaw": -0.9125345691688014
+  },
+  {
+    "name": "city_tree_0313",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 222.86012153372116,
+    "y": -81.00071712094484,
+    "z": 7.93,
+    "yaw": -2.6166309599654807
+  },
+  {
+    "name": "city_tree_0314",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 342.0323603669941,
+    "y": 164.60934885534982,
+    "z": 7.93,
+    "yaw": 1.337681311071509
+  },
+  {
+    "name": "city_tree_0315",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 204.5765242664246,
+    "y": -66.90947665261979,
+    "z": 7.93,
+    "yaw": -2.066939666437966
+  },
+  {
+    "name": "city_tree_0316",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 361.38137139440187,
+    "y": -341.6379261289533,
+    "z": 12.518569059986657,
+    "yaw": 0.9324507577758263
+  },
+  {
+    "name": "city_tree_0317",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -89.60834627220243,
+    "y": 164.28164141423068,
+    "z": 7.93,
+    "yaw": -2.901592576388963
+  },
+  {
+    "name": "city_tree_0318",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 372.296686577457,
+    "y": -8.113984162228746,
+    "z": 11.890031943137018,
+    "yaw": -2.778392749890407
+  },
+  {
+    "name": "city_tree_0319",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 341.233306051682,
+    "y": 257.7377641245622,
+    "z": 7.93,
+    "yaw": -1.0184684826274584
+  },
+  {
+    "name": "city_tree_0320",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -227.03397007263382,
+    "y": -38.97905565006255,
+    "z": 7.93,
+    "yaw": -0.1585068664219773
+  },
+  {
+    "name": "city_tree_0321",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -240.67607004152774,
+    "y": 39.99854852015086,
+    "z": 7.93,
+    "yaw": -0.49026022383550094
+  },
+  {
+    "name": "city_tree_0322",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 251.80613566579393,
+    "y": 20.48344191700312,
+    "z": 7.93,
+    "yaw": -2.8576848923624083
+  },
+  {
+    "name": "city_tree_0323",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -182.51307267195966,
+    "y": 52.73459705703482,
+    "z": 7.93,
+    "yaw": -1.7418349988333617
+  },
+  {
+    "name": "city_tree_0324",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 358.7963077116074,
+    "y": -437.4060612071687,
+    "z": 11.411445533962743,
+    "yaw": 0.6245555654713812
+  },
+  {
+    "name": "city_tree_0325",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 369.2137126817065,
+    "y": -85.10121455713573,
+    "z": 12.784455638320168,
+    "yaw": -1.4451009621745134
+  },
+  {
+    "name": "city_tree_0326",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 113.03275280653625,
+    "y": 102.61459961242417,
+    "z": 7.93,
+    "yaw": -1.1704162471840533
+  },
+  {
+    "name": "city_tree_0327",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -24.84946382776937,
+    "y": 147.74324295636245,
+    "z": 7.93,
+    "yaw": -1.9085076020200782
+  },
+  {
+    "name": "city_tree_0328",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -25.453889529267116,
+    "y": 124.26477747390953,
+    "z": 7.93,
+    "yaw": 2.3211384705320937
+  },
+  {
+    "name": "city_tree_0329",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 374.25684749281874,
+    "y": -76.98009008936498,
+    "z": 14.473020244794538,
+    "yaw": -2.0094431964303245
+  },
+  {
+    "name": "city_tree_0330",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 253.39746072870892,
+    "y": -429.97747405248845,
+    "z": 7.93,
+    "yaw": 1.510539372023545
+  },
+  {
+    "name": "city_tree_0331",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -22.235040535255862,
+    "y": 182.99005545303248,
+    "z": 7.93,
+    "yaw": 1.5171321985559851
+  },
+  {
+    "name": "city_tree_0332",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 196.13416843155568,
+    "y": -100.55021924997038,
+    "z": 7.93,
+    "yaw": 0.6424398270627258
+  },
+  {
+    "name": "city_tree_0333",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -191.62153516970915,
+    "y": 47.01859327966238,
+    "z": 7.93,
+    "yaw": 0.36565458009783836
+  },
+  {
+    "name": "city_tree_0334",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 187.95782535773793,
+    "y": -361.9333344944431,
+    "z": 7.93,
+    "yaw": -0.36202003496635893
+  },
+  {
+    "name": "city_tree_0335",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 235.11144569898437,
+    "y": -441.4806396808539,
+    "z": 7.93,
+    "yaw": -1.0606543638417496
+  },
+  {
+    "name": "city_tree_0336",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 216.75853456689464,
+    "y": -191.39006575054765,
+    "z": 7.93,
+    "yaw": -0.8414665273229875
+  },
+  {
+    "name": "city_tree_0337",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 354.8981391188548,
+    "y": -98.91879083151429,
+    "z": 9.119589868098034,
+    "yaw": -0.45218095553593285
+  },
+  {
+    "name": "city_tree_0338",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 359.247080150683,
+    "y": -269.01611514425895,
+    "z": 11.409589829901243,
+    "yaw": -1.279350011594269
+  },
+  {
+    "name": "city_tree_0339",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 366.95131172613424,
+    "y": -266.29053001678824,
+    "z": 13.821193409827444,
+    "yaw": 2.4553737876624844
+  },
+  {
+    "name": "city_tree_0340",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 66.73717175446777,
+    "y": -399.247833494431,
+    "z": 7.93,
+    "yaw": 0.3295685107490893
+  },
+  {
+    "name": "city_tree_0341",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 91.36695175167245,
+    "y": -39.03018423654544,
+    "z": 7.93,
+    "yaw": 1.39718461782466
+  },
+  {
+    "name": "city_tree_0342",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 66.8032666799378,
+    "y": -163.29415284377518,
+    "z": 7.93,
+    "yaw": -2.3268952444906588
+  },
+  {
+    "name": "city_tree_0343",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 77.75509549153179,
+    "y": -199.75912696829567,
+    "z": 7.93,
+    "yaw": 2.951689300639196
+  },
+  {
+    "name": "city_tree_0344",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 359.71939012782826,
+    "y": 22.044629787590225,
+    "z": 8.46752883011339,
+    "yaw": 0.535228538254017
+  },
+  {
+    "name": "city_tree_0345",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 371.3842628300029,
+    "y": -108.41847862315694,
+    "z": 14.153897269582767,
+    "yaw": 0.9882168483818292
+  },
+  {
+    "name": "city_tree_0346",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 348.1480001962238,
+    "y": -80.77296737398365,
+    "z": 8.101306164623066,
+    "yaw": -3.096210201656445
+  },
+  {
+    "name": "city_tree_0347",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 373.9903829645193,
+    "y": 190.77602044979017,
+    "z": 9.337365104384816,
+    "yaw": -2.7284136549385622
+  },
+  {
+    "name": "city_tree_0348",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 201.38857612673536,
+    "y": -428.2319600910099,
+    "z": 7.93,
+    "yaw": 1.460838331676845
+  },
+  {
+    "name": "city_tree_0349",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -94.11256866829326,
+    "y": 124.74309657723893,
+    "z": 7.93,
+    "yaw": 1.9623907899353004
+  },
+  {
+    "name": "city_tree_0350",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 69.39728444824367,
+    "y": 190.74713917671318,
+    "z": 7.93,
+    "yaw": -2.623245533054168
+  },
+  {
+    "name": "city_tree_0351",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 274.76013895157485,
+    "y": -416.4838750128737,
+    "z": 7.93,
+    "yaw": 1.0657866470884532
+  },
+  {
+    "name": "city_tree_0352",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 125.74772939985672,
+    "y": 155.43956164945655,
+    "z": 7.93,
+    "yaw": 2.811925303173582
+  },
+  {
+    "name": "city_tree_0353",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 375.4132050685024,
+    "y": 274.47050601902197,
+    "z": 9.11531390958374,
+    "yaw": 2.2975607759337873
+  },
+  {
+    "name": "city_tree_0354",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 351.7179300947317,
+    "y": -64.14080023706856,
+    "z": 8.31678008398137,
+    "yaw": 2.0512523769060156
+  },
+  {
+    "name": "city_tree_0355",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -102.42738475474391,
+    "y": 127.00074392716847,
+    "z": 7.93,
+    "yaw": -1.1223567750258177
+  },
+  {
+    "name": "city_tree_0356",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 243.5776303156866,
+    "y": -37.68474617531979,
+    "z": 7.93,
+    "yaw": -1.9521936074897734
+  },
+  {
+    "name": "city_tree_0357",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 243.3616864448868,
+    "y": -361.3942576088259,
+    "z": 7.93,
+    "yaw": -3.120045413557734
+  },
+  {
+    "name": "city_tree_0358",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 371.6747133892667,
+    "y": 117.9850280758966,
+    "z": 9.793752040732674,
+    "yaw": -1.355303364983806
+  },
+  {
+    "name": "city_tree_0359",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 100.1736021584525,
+    "y": -468.843380133349,
+    "z": 7.93,
+    "yaw": 2.9291944550322784
+  },
+  {
+    "name": "city_tree_0360",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 240.5783142444558,
+    "y": -430.24320470450596,
+    "z": 7.93,
+    "yaw": -1.1806332180740233
+  },
+  {
+    "name": "city_tree_0361",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 65.11227130910393,
+    "y": -424.6325095840697,
+    "z": 7.93,
+    "yaw": 1.7847589076587944
+  },
+  {
+    "name": "city_tree_0362",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 255.8227504387089,
+    "y": 265.33888930844614,
+    "z": 7.93,
+    "yaw": -0.708957237816672
+  },
+  {
+    "name": "city_tree_0363",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 216.31069485552425,
+    "y": -441.3749236961974,
+    "z": 7.93,
+    "yaw": 0.4422415163935769
+  },
+  {
+    "name": "city_tree_0364",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 357.1646482901205,
+    "y": 290.0275676502124,
+    "z": 8.841644073545552,
+    "yaw": 2.1776256099283193
+  },
+  {
+    "name": "city_tree_0365",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 382.13086475112937,
+    "y": 302.0139654405252,
+    "z": 14.031724909616042,
+    "yaw": 0.8260034974134465
+  },
+  {
+    "name": "city_tree_0366",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 101.09581548961307,
+    "y": -284.625752259009,
+    "z": 7.93,
+    "yaw": 2.4456670657258543
+  },
+  {
+    "name": "city_tree_0367",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 356.3313738990142,
+    "y": 53.91824067928809,
+    "z": 7.9655101562428285,
+    "yaw": -2.86636304593191
+  },
+  {
+    "name": "city_tree_0368",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 75.7432897109738,
+    "y": 260.7237600629593,
+    "z": 7.93,
+    "yaw": 2.151779507120578
+  },
+  {
+    "name": "city_tree_0369",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 386.41924754695265,
+    "y": -49.27507015835829,
+    "z": 18.820085810260338,
+    "yaw": 0.23934819487799874
+  },
+  {
+    "name": "city_tree_0370",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 175.20637963771657,
+    "y": -205.61645307959265,
+    "z": 7.93,
+    "yaw": -0.4103994694943589
+  },
+  {
+    "name": "city_tree_0371",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 83.73697668114336,
+    "y": 229.27158841726055,
+    "z": 7.93,
+    "yaw": -2.5205166599839077
+  },
+  {
+    "name": "city_tree_0372",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 343.8567288456416,
+    "y": -146.06215316371214,
+    "z": 8.089163319972325,
+    "yaw": -2.519693525266166
+  },
+  {
+    "name": "city_tree_0373",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -32.25862139121638,
+    "y": 137.29844039957806,
+    "z": 7.93,
+    "yaw": -2.7624100917461463
+  },
+  {
+    "name": "city_tree_0374",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 264.1205955669983,
+    "y": 130.68736593178812,
+    "z": 7.93,
+    "yaw": -0.25787009205933265
+  },
+  {
+    "name": "city_tree_0375",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 252.51744266941265,
+    "y": -472.3116526500523,
+    "z": 7.93,
+    "yaw": 1.6035427938930864
+  },
+  {
+    "name": "city_tree_0376",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 61.111031806315694,
+    "y": -261.7088693690081,
+    "z": 7.93,
+    "yaw": 1.8880239788339637
+  },
+  {
+    "name": "city_tree_0377",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 204.73048198470352,
+    "y": -378.3459115312249,
+    "z": 7.93,
+    "yaw": -0.8411034223147626
+  },
+  {
+    "name": "city_tree_0378",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 100.33402067440372,
+    "y": 238.7806751541009,
+    "z": 7.93,
+    "yaw": 1.4064464182680778
+  },
+  {
+    "name": "city_tree_0379",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 203.76534084609577,
+    "y": -102.17836639218297,
+    "z": 7.93,
+    "yaw": 0.9339887948135708
+  },
+  {
+    "name": "city_tree_0380",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 99.59078934346711,
+    "y": -391.09756278856185,
+    "z": 7.93,
+    "yaw": -1.3347062163012464
+  },
+  {
+    "name": "city_tree_0381",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -202.003997750939,
+    "y": -30.905790695325436,
+    "z": 7.93,
+    "yaw": -1.2114913878557745
+  },
+  {
+    "name": "city_tree_0382",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 112.70525199523155,
+    "y": -304.6965354404948,
+    "z": 7.93,
+    "yaw": 3.129813324921612
+  },
+  {
+    "name": "city_tree_0383",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 218.65853231203462,
+    "y": -149.99317944254562,
+    "z": 7.93,
+    "yaw": 2.963655515008912
+  },
+  {
+    "name": "city_tree_0384",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 366.5459112293344,
+    "y": -350.9938900247723,
+    "z": 14.520097404880222,
+    "yaw": -1.639170752480577
+  },
+  {
+    "name": "city_tree_0385",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 204.37521856282845,
+    "y": -473.61522457122754,
+    "z": 7.93,
+    "yaw": -0.6111985231136274
+  },
+  {
+    "name": "city_tree_0386",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 66.67355903152864,
+    "y": -15.049356119123104,
+    "z": 7.93,
+    "yaw": 2.415650699121331
+  },
+  {
+    "name": "city_tree_0387",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 93.53585887932198,
+    "y": 101.41287626499286,
+    "z": 7.93,
+    "yaw": -0.7591116573329755
+  },
+  {
+    "name": "city_tree_0388",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 261.80362686014325,
+    "y": -446.05464326701446,
+    "z": 7.93,
+    "yaw": 0.9175549521019635
+  },
+  {
+    "name": "city_tree_0389",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -95.40813480828318,
+    "y": 209.1860229368396,
+    "z": 7.93,
+    "yaw": 2.557362572930538
+  },
+  {
+    "name": "city_tree_0390",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 271.3849870035415,
+    "y": -98.51942964024374,
+    "z": 7.93,
+    "yaw": 0.8926633530406667
+  },
+  {
+    "name": "city_tree_0391",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 121.6397935062308,
+    "y": 215.16694879289548,
+    "z": 7.93,
+    "yaw": -2.446082131216046
+  },
+  {
+    "name": "city_tree_0392",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 246.17598877799946,
+    "y": -344.1119750414218,
+    "z": 7.93,
+    "yaw": -1.8524384576713566
+  },
+  {
+    "name": "city_tree_0393",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 84.36902884147318,
+    "y": -473.2958240861532,
+    "z": 7.93,
+    "yaw": -2.099476378056001
+  },
+  {
+    "name": "city_tree_0394",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 210.67569824719791,
+    "y": -406.59705082333994,
+    "z": 7.93,
+    "yaw": 2.516370394303041
+  },
+  {
+    "name": "city_tree_0395",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -176.47670782868494,
+    "y": -7.517512848702346,
+    "z": 7.93,
+    "yaw": -1.651897188857121
+  },
+  {
+    "name": "city_tree_0396",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 383.35816124760106,
+    "y": 30.444705697665825,
+    "z": 16.031720846467742,
+    "yaw": 0.028172827706437253
+  },
+  {
+    "name": "city_tree_0397",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 223.81442181248667,
+    "y": -387.9918708949991,
+    "z": 7.93,
+    "yaw": 1.8863760589493026
+  },
+  {
+    "name": "city_tree_0398",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 345.68350986447325,
+    "y": -32.76009022400791,
+    "z": 7.93,
+    "yaw": 2.5738464779680355
+  },
+  {
+    "name": "city_tree_0399",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 241.34947267918503,
+    "y": -54.23285605067355,
+    "z": 7.93,
+    "yaw": 2.2254231968250693
+  },
+  {
+    "name": "city_tree_0400",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -226.49380505339232,
+    "y": 18.72692832791209,
+    "z": 7.93,
+    "yaw": -1.1450099450524125
+  },
+  {
+    "name": "city_tree_0401",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 361.08101441921497,
+    "y": -362.9233128196437,
+    "z": 12.577550753534846,
+    "yaw": 2.851212482198739
+  },
+  {
+    "name": "city_tree_0402",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 230.36128975362834,
+    "y": -421.62359130409607,
+    "z": 7.93,
+    "yaw": 0.6578775331562885
+  },
+  {
+    "name": "city_tree_0403",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 117.00073140342525,
+    "y": 122.60108996731026,
+    "z": 7.93,
+    "yaw": 3.124711724890667
+  },
+  {
+    "name": "city_tree_0404",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 265.74858439884406,
+    "y": -181.02925176931421,
+    "z": 7.93,
+    "yaw": 0.28456082227368107
+  },
+  {
+    "name": "city_tree_0405",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 190.53888433371327,
+    "y": -144.50840056936772,
+    "z": 7.93,
+    "yaw": -0.6606032212486164
+  },
+  {
+    "name": "city_tree_0406",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 74.26462489815344,
+    "y": 63.84141661783826,
+    "z": 7.93,
+    "yaw": -2.1580918320338345
+  },
+  {
+    "name": "city_tree_0407",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 259.76040156304055,
+    "y": -423.25012681851456,
+    "z": 7.93,
+    "yaw": 0.9037369512385283
+  },
+  {
+    "name": "city_tree_0408",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 211.22811127304647,
+    "y": -309.6018490905783,
+    "z": 7.93,
+    "yaw": -0.19083816358552763
+  },
+  {
+    "name": "city_tree_0409",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 194.94971150131448,
+    "y": -112.09019727906258,
+    "z": 7.93,
+    "yaw": 0.7705142730714463
+  },
+  {
+    "name": "city_tree_0410",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -72.67832782460754,
+    "y": 114.78565820917814,
+    "z": 7.93,
+    "yaw": -1.5878734678856736
+  },
+  {
+    "name": "city_tree_0411",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 367.5126684358109,
+    "y": -274.61521142773813,
+    "z": 14.018294862053438,
+    "yaw": -1.5230362874305035
+  },
+  {
+    "name": "city_tree_0412",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 64.71195518922205,
+    "y": -315.66684700859753,
+    "z": 7.93,
+    "yaw": -1.781735512564677
+  },
+  {
+    "name": "city_tree_0413",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 384.5486370954192,
+    "y": -258.80241357279453,
+    "z": 20.845906741898943,
+    "yaw": -2.270356060651821
+  },
+  {
+    "name": "city_tree_0414",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 174.52840132990136,
+    "y": -184.04252593114143,
+    "z": 7.93,
+    "yaw": -0.5632907286642261
+  },
+  {
+    "name": "city_tree_0415",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -197.56036054007905,
+    "y": 4.424676170470619,
+    "z": 7.93,
+    "yaw": -1.8889346555058568
+  },
+  {
+    "name": "city_tree_0416",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 262.69750158169006,
+    "y": 31.18758438086104,
+    "z": 7.93,
+    "yaw": 1.8160654290112737
+  },
+  {
+    "name": "city_tree_0417",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 66.57072684238025,
+    "y": 146.55913794302137,
+    "z": 7.93,
+    "yaw": -0.3711568844950839
+  },
+  {
+    "name": "city_tree_0418",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -21.855275119537865,
+    "y": 190.56155680384933,
+    "z": 7.93,
+    "yaw": -0.6756823437873174
+  },
+  {
+    "name": "city_tree_0419",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 275.47603559613646,
+    "y": -464.33710178855677,
+    "z": 7.93,
+    "yaw": -1.4100867729925104
+  },
+  {
+    "name": "city_tree_0420",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 257.38820001459396,
+    "y": 245.178480553663,
+    "z": 7.93,
+    "yaw": 1.15959960521353
+  },
+  {
+    "name": "city_tree_0421",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 275.46715974776623,
+    "y": -378.6462249863069,
+    "z": 7.93,
+    "yaw": -1.1462355946947491
+  },
+  {
+    "name": "city_tree_0422",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 360.3026090447282,
+    "y": -291.52890353363296,
+    "z": 11.707283575821545,
+    "yaw": -1.0064998207136497
+  },
+  {
+    "name": "city_tree_0423",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 265.7558954687993,
+    "y": 249.25392392510219,
+    "z": 7.93,
+    "yaw": -0.23946679461110998
+  },
+  {
+    "name": "city_tree_0424",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -226.78176047075343,
+    "y": -13.101618106041784,
+    "z": 7.93,
+    "yaw": 2.332263860964723
+  },
+  {
+    "name": "city_tree_0425",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 255.36595610648212,
+    "y": -368.15564379403975,
+    "z": 7.93,
+    "yaw": 2.528666735198369
+  },
+  {
+    "name": "city_tree_0426",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 364.23469436605785,
+    "y": -5.4943942430288075,
+    "z": 9.62407770779583,
+    "yaw": 0.9549225736650788
+  },
+  {
+    "name": "city_tree_0427",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 244.32080513056874,
+    "y": -179.3689530750084,
+    "z": 7.93,
+    "yaw": 0.8879837092725831
+  },
+  {
+    "name": "city_tree_0428",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 97.55133360716704,
+    "y": -320.2532570992178,
+    "z": 7.93,
+    "yaw": 2.8734020736224135
+  },
+  {
+    "name": "city_tree_0429",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 107.5457658405172,
+    "y": 169.44271754994668,
+    "z": 7.93,
+    "yaw": 1.5099824012092373
+  },
+  {
+    "name": "city_tree_0430",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 364.42999309760364,
+    "y": -245.03153116115016,
+    "z": 12.831256822163219,
+    "yaw": -0.08026421980059739
+  },
+  {
+    "name": "city_tree_0431",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 389.03561542497766,
+    "y": -194.23173367088967,
+    "z": 21.979867596762453,
+    "yaw": 1.0482520317609678
+  },
+  {
+    "name": "city_tree_0432",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 176.091070219727,
+    "y": -224.05816052083577,
+    "z": 7.93,
+    "yaw": 0.9128008058635482
+  },
+  {
+    "name": "city_tree_0433",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 95.6044066029124,
+    "y": -291.52517157859637,
+    "z": 7.93,
+    "yaw": -0.9486006551777333
+  },
+  {
+    "name": "city_tree_0434",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 226.82375230981685,
+    "y": -398.4428613984275,
+    "z": 7.93,
+    "yaw": 1.9819456180216184
+  },
+  {
+    "name": "city_tree_0435",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 213.7140680759257,
+    "y": -87.23503121337944,
+    "z": 7.93,
+    "yaw": 2.625856380334426
+  },
+  {
+    "name": "city_tree_0436",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 346.98725881308883,
+    "y": -315.50515684778713,
+    "z": 8.817531389547332,
+    "yaw": -0.06620740621445487
+  },
+  {
+    "name": "city_tree_0437",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 374.2774830374917,
+    "y": 33.15413372259974,
+    "z": 12.004308071890387,
+    "yaw": -2.462361178100328
+  },
+  {
+    "name": "city_tree_0438",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 355.2141535133276,
+    "y": -258.97542682001375,
+    "z": 10.333038403549928,
+    "yaw": 0.9025669780160879
+  },
+  {
+    "name": "city_tree_0439",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 360.5854055759639,
+    "y": -425.7812233431766,
+    "z": 12.318067955726866,
+    "yaw": 2.7032956931315884
+  },
+  {
+    "name": "city_tree_0440",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 367.7102255325339,
+    "y": -137.83048014526042,
+    "z": 13.035528832463756,
+    "yaw": -0.9204953665832858
+  },
+  {
+    "name": "city_tree_0441",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 187.45863438275524,
+    "y": -103.74801168967315,
+    "z": 7.93,
+    "yaw": 2.8618790602743864
+  },
+  {
+    "name": "city_tree_0442",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 368.986892411068,
+    "y": 172.4875747903551,
+    "z": 8.4828647249784,
+    "yaw": 0.004417212966591588
+  },
+  {
+    "name": "city_tree_0443",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 385.3958175897789,
+    "y": -63.4428598788985,
+    "z": 18.893874147139886,
+    "yaw": 1.3847512603845553
+  },
+  {
+    "name": "city_tree_0444",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 113.01477238703359,
+    "y": 141.48096059219165,
+    "z": 7.93,
+    "yaw": -2.0825458634194045
+  },
+  {
+    "name": "city_tree_0445",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 63.7352051067478,
+    "y": -372.59529777874803,
+    "z": 7.93,
+    "yaw": 1.1559281197288342
+  },
+  {
+    "name": "city_tree_0446",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 90.33165243068761,
+    "y": 61.356670465485195,
+    "z": 7.93,
+    "yaw": -1.7120413894158322
+  },
+  {
+    "name": "city_tree_0447",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 109.08271599580597,
+    "y": 266.5805233171699,
+    "z": 7.93,
+    "yaw": 0.1905418421842202
+  },
+  {
+    "name": "city_tree_0448",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 271.1206641217577,
+    "y": -197.0740726959313,
+    "z": 7.93,
+    "yaw": -0.1000518412910969
+  },
+  {
+    "name": "city_tree_0449",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 75.40225752246955,
+    "y": 144.88564380006653,
+    "z": 7.93,
+    "yaw": 1.6073404325989555
+  },
+  {
+    "name": "city_tree_0450",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 361.47939296654323,
+    "y": -165.63997675787363,
+    "z": 11.307670362721854,
+    "yaw": 0.9170099649301626
+  },
+  {
+    "name": "city_tree_0451",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 248.99314941775629,
+    "y": -442.91842853445814,
+    "z": 7.93,
+    "yaw": -1.956781819965999
+  },
+  {
+    "name": "city_tree_0452",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 239.90283127908728,
+    "y": 265.92982909140983,
+    "z": 7.93,
+    "yaw": 1.552464993105593
+  },
+  {
+    "name": "city_tree_0453",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 361.62651613857037,
+    "y": -416.03262681076893,
+    "z": 12.90152801357461,
+    "yaw": 2.412142097720489
+  },
+  {
+    "name": "city_tree_0454",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 187.08172114320422,
+    "y": -351.33232752238746,
+    "z": 7.93,
+    "yaw": 2.4689849669724993
+  },
+  {
+    "name": "city_tree_0455",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 342.97132431373717,
+    "y": 230.451408575541,
+    "z": 7.93,
+    "yaw": 2.038497950347267
+  },
+  {
+    "name": "city_tree_0456",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 265.87874267976014,
+    "y": -379.1923681463031,
+    "z": 7.93,
+    "yaw": -1.5156905920567152
+  },
+  {
+    "name": "city_tree_0457",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 73.95942905135186,
+    "y": 44.72129909182377,
+    "z": 7.93,
+    "yaw": 0.43504546511534725
+  },
+  {
+    "name": "city_tree_0458",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 194.96081724508068,
+    "y": -402.1680490000572,
+    "z": 7.93,
+    "yaw": 0.800355396346561
+  },
+  {
+    "name": "city_tree_0459",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 247.85037019646524,
+    "y": 106.19387545732752,
+    "z": 7.93,
+    "yaw": 0.598506277770475
+  },
+  {
+    "name": "city_tree_0460",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 363.60837771898537,
+    "y": 309.4542730835136,
+    "z": 14.941517450230819,
+    "yaw": -2.7081936580844768
+  },
+  {
+    "name": "city_tree_0461",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 381.7996729123838,
+    "y": -156.1765139750383,
+    "z": 19.049498451728716,
+    "yaw": -2.471279410008271
+  },
+  {
+    "name": "city_tree_0462",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 245.99316938998132,
+    "y": -96.53344566931656,
+    "z": 7.93,
+    "yaw": -1.1167227151341526
+  },
+  {
+    "name": "city_tree_0463",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -246.46825844685145,
+    "y": 7.073784570655569,
+    "z": 7.93,
+    "yaw": -1.482702323844522
+  },
+  {
+    "name": "city_tree_0464",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -85.92257446405492,
+    "y": 108.70132533765026,
+    "z": 7.93,
+    "yaw": -2.8736380951531855
+  },
+  {
+    "name": "city_tree_0465",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 340.3795942348411,
+    "y": 115.73083719928525,
+    "z": 7.93,
+    "yaw": 2.540916257797466
+  },
+  {
+    "name": "city_tree_0466",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 357.4568063435476,
+    "y": -127.94766278612542,
+    "z": 9.996155288071112,
+    "yaw": 1.3046319086855922
+  },
+  {
+    "name": "city_tree_0467",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 204.19001269975357,
+    "y": -182.0411168778054,
+    "z": 7.93,
+    "yaw": 2.5699889820288435
+  },
+  {
+    "name": "city_tree_0468",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -81.77335895726353,
+    "y": 153.22666329720005,
+    "z": 7.93,
+    "yaw": 0.15507535184616916
+  },
+  {
+    "name": "city_tree_0469",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 63.14339751551351,
+    "y": -1.8600760400226477,
+    "z": 7.93,
+    "yaw": -1.260597995701141
+  },
+  {
+    "name": "city_tree_0470",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -256.8189697651346,
+    "y": -29.34770303720149,
+    "z": 7.93,
+    "yaw": 1.0390052791480553
+  },
+  {
+    "name": "city_tree_0471",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 97.69394871649557,
+    "y": -449.27961631607997,
+    "z": 7.93,
+    "yaw": -0.4467172136046096
+  },
+  {
+    "name": "city_tree_0472",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 244.6006902647525,
+    "y": 193.0366445228832,
+    "z": 7.93,
+    "yaw": 1.0816322207127014
+  },
+  {
+    "name": "city_tree_0473",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 75.68069046051384,
+    "y": -49.90904195261817,
+    "z": 7.93,
+    "yaw": -0.7555042656228528
+  },
+  {
+    "name": "city_tree_0474",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 105.39293870606147,
+    "y": 43.17475485006969,
+    "z": 7.93,
+    "yaw": 2.451837863939102
+  },
+  {
+    "name": "city_tree_0475",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 340.87761813567954,
+    "y": -329.0062788514201,
+    "z": 8.13319969913056,
+    "yaw": -0.02234946449558617
+  },
+  {
+    "name": "city_tree_0476",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 101.28652602792437,
+    "y": 99.49486924272401,
+    "z": 7.93,
+    "yaw": 0.15960398080323124
+  },
+  {
+    "name": "city_tree_0477",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 65.650775779851,
+    "y": -323.3299910338559,
+    "z": 7.93,
+    "yaw": -0.1837304299751601
+  },
+  {
+    "name": "city_tree_0478",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 341.72238286775405,
+    "y": -419.694654268116,
+    "z": 7.998917049868414,
+    "yaw": -0.34909033087242713
+  },
+  {
+    "name": "city_tree_0479",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 98.1755080222791,
+    "y": -312.5710361136073,
+    "z": 7.93,
+    "yaw": -2.5945935781982774
+  },
+  {
+    "name": "city_tree_0480",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 368.07573830413907,
+    "y": -66.91373156078077,
+    "z": 11.99922578061814,
+    "yaw": 2.4720998903380265
+  },
+  {
+    "name": "city_tree_0481",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 341.59024603776163,
+    "y": 57.19466062205936,
+    "z": 7.93,
+    "yaw": 0.9645005695362956
+  },
+  {
+    "name": "city_tree_0482",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 265.4549983786682,
+    "y": 202.77030337643293,
+    "z": 7.93,
+    "yaw": -2.497905266859707
+  },
+  {
+    "name": "city_tree_0483",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 373.3870453295258,
+    "y": -167.02256305072183,
+    "z": 15.358603031390285,
+    "yaw": 1.5260833813345078
+  },
+  {
+    "name": "city_tree_0484",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 96.92647426986434,
+    "y": 184.64700967089266,
+    "z": 7.93,
+    "yaw": -2.135909813090606
+  },
+  {
+    "name": "city_tree_0485",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 267.51315477837716,
+    "y": 106.3627308177904,
+    "z": 7.93,
+    "yaw": 2.0403150201879985
+  },
+  {
+    "name": "city_tree_0486",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 62.589238208371405,
+    "y": -81.68169339464322,
+    "z": 7.93,
+    "yaw": -2.279992416529541
+  },
+  {
+    "name": "city_tree_0487",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 349.1094970669134,
+    "y": -334.387446531294,
+    "z": 9.213758566935748,
+    "yaw": 2.211746084078616
+  },
+  {
+    "name": "city_tree_0488",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 224.6950109131208,
+    "y": -466.8334950008987,
+    "z": 7.93,
+    "yaw": 1.3658202463954199
+  },
+  {
+    "name": "city_tree_0489",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -210.86988710826745,
+    "y": -15.737879520907917,
+    "z": 7.93,
+    "yaw": -2.116727896285238
+  },
+  {
+    "name": "city_tree_0490",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 68.95398266680797,
+    "y": -202.27338808673284,
+    "z": 7.93,
+    "yaw": -1.7069557747244137
+  },
+  {
+    "name": "city_tree_0491",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -89.31339576003623,
+    "y": 137.28089857746068,
+    "z": 7.93,
+    "yaw": 0.6533716702256878
+  },
+  {
+    "name": "city_tree_0492",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 184.8694718124847,
+    "y": -88.33717797579135,
+    "z": 7.93,
+    "yaw": 1.4858370855638405
+  },
+  {
+    "name": "city_tree_0493",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 272.6218264849517,
+    "y": 113.53226129204484,
+    "z": 7.93,
+    "yaw": -2.5847844445088515
+  },
+  {
+    "name": "city_tree_0494",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 273.7639453072683,
+    "y": -30.004368755333076,
+    "z": 7.93,
+    "yaw": -0.2680062844870208
+  },
+  {
+    "name": "city_tree_0495",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -42.168678321346704,
+    "y": 164.37009898099038,
+    "z": 7.93,
+    "yaw": -2.6227108711518876
+  },
+  {
+    "name": "city_tree_0496",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 343.61517829230405,
+    "y": -40.081375507061125,
+    "z": 7.93,
+    "yaw": 1.6500850946882348
+  },
+  {
+    "name": "city_tree_0497",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -77.06983701705897,
+    "y": 107.841598153656,
+    "z": 7.93,
+    "yaw": -1.8725439651569062
+  },
+  {
+    "name": "city_tree_0498",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 102.09932234609546,
+    "y": -363.491467594545,
+    "z": 7.93,
+    "yaw": -0.500522128578722
+  },
+  {
+    "name": "city_tree_0499",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 356.378006112011,
+    "y": 249.4419195185635,
+    "z": 7.93,
+    "yaw": 0.7568251123466787
+  },
+  {
+    "name": "city_tree_0500",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 212.83618513495404,
+    "y": -335.4913122422721,
+    "z": 7.93,
+    "yaw": 0.9044510250784015
+  },
+  {
+    "name": "city_tree_0501",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 88.3260932203196,
+    "y": -404.12839195725167,
+    "z": 7.93,
+    "yaw": -2.3856985172982705
+  },
+  {
+    "name": "city_tree_0502",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -181.7868983586878,
+    "y": -42.13567563128481,
+    "z": 7.93,
+    "yaw": 2.3126046295600853
+  },
+  {
+    "name": "city_tree_0503",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 205.98825090225716,
+    "y": -202.9298796111616,
+    "z": 7.93,
+    "yaw": 0.8038378670188888
+  },
+  {
+    "name": "city_tree_0504",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 219.2742690582022,
+    "y": 17.84614633610812,
+    "z": 7.93,
+    "yaw": -1.9465486076653864
+  },
+  {
+    "name": "city_tree_0505",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 210.08701049150298,
+    "y": -115.17282595400565,
+    "z": 7.93,
+    "yaw": 2.759058353772314
+  },
+  {
+    "name": "city_tree_0506",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 210.03275287588636,
+    "y": -174.44972401216694,
+    "z": 7.93,
+    "yaw": -2.6545458821008463
+  },
+  {
+    "name": "city_tree_0507",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 249.2422696532135,
+    "y": 201.35555602260922,
+    "z": 7.93,
+    "yaw": -0.30886885269124464
+  },
+  {
+    "name": "city_tree_0508",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 83.42147165186472,
+    "y": -219.26287648759583,
+    "z": 7.93,
+    "yaw": -1.0508691613387082
+  },
+  {
+    "name": "city_tree_0509",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -34.50324524434269,
+    "y": 107.92654995967352,
+    "z": 7.93,
+    "yaw": 2.6797637416342592
+  },
+  {
+    "name": "city_tree_0510",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 188.585753979782,
+    "y": -390.09272010493623,
+    "z": 7.93,
+    "yaw": 2.9906967046695954
+  },
+  {
+    "name": "city_tree_0511",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 90.04005395261186,
+    "y": -386.85395912951054,
+    "z": 7.93,
+    "yaw": 1.9883346459568516
+  },
+  {
+    "name": "city_tree_0512",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 221.11490994788605,
+    "y": -332.00527394195285,
+    "z": 7.93,
+    "yaw": 1.9490391706829895
+  },
+  {
+    "name": "city_tree_0513",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 344.4496411654245,
+    "y": 88.17722919231699,
+    "z": 7.93,
+    "yaw": 0.7466181268661902
+  },
+  {
+    "name": "city_tree_0514",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 198.34154048977314,
+    "y": -74.43102577414902,
+    "z": 7.93,
+    "yaw": -0.3786597571489265
+  },
+  {
+    "name": "city_tree_0515",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 73.47701043733825,
+    "y": 133.53314153166514,
+    "z": 7.93,
+    "yaw": 2.725404233584083
+  },
+  {
+    "name": "city_tree_0516",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 361.6372647680794,
+    "y": -21.767042948827452,
+    "z": 9.328839875692342,
+    "yaw": 1.9174169852047447
+  },
+  {
+    "name": "city_tree_0517",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -187.30770049931084,
+    "y": -51.4091437754299,
+    "z": 7.93,
+    "yaw": -1.4293463300487677
+  },
+  {
+    "name": "city_tree_0518",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 85.70462610508677,
+    "y": 49.36385857684081,
+    "z": 7.93,
+    "yaw": -1.711519954173213
+  },
+  {
+    "name": "city_tree_0519",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 90.86090863261299,
+    "y": -443.4499656933199,
+    "z": 7.93,
+    "yaw": 0.007302731839260002
+  },
+  {
+    "name": "city_tree_0520",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 273.7777069180807,
+    "y": 25.037814608531903,
+    "z": 7.93,
+    "yaw": 2.961869173075203
+  },
+  {
+    "name": "city_tree_0521",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 97.48212521648368,
+    "y": -458.36998977864243,
+    "z": 7.93,
+    "yaw": 0.6628714266523641
+  },
+  {
+    "name": "city_tree_0522",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 98.54109717998719,
+    "y": -303.0645676922685,
+    "z": 7.93,
+    "yaw": 2.4406047141144427
+  },
+  {
+    "name": "city_tree_0523",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 238.71776571143195,
+    "y": 206.1804894766202,
+    "z": 7.93,
+    "yaw": -1.136475332234351
+  },
+  {
+    "name": "city_tree_0524",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 235.38374997861138,
+    "y": -462.70053355032127,
+    "z": 7.93,
+    "yaw": 1.2591411198238243
+  },
+  {
+    "name": "city_tree_0525",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 345.9870090056013,
+    "y": 318.8577182336189,
+    "z": 16.550728029465304,
+    "yaw": -2.711804287440739
+  },
+  {
+    "name": "city_tree_0526",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 80.42614165945149,
+    "y": -392.308063574885,
+    "z": 7.93,
+    "yaw": -0.35413470695276184
+  },
+  {
+    "name": "city_tree_0527",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 91.4403606455614,
+    "y": 120.52917507275959,
+    "z": 7.93,
+    "yaw": 0.780086527563554
+  },
+  {
+    "name": "city_tree_0528",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 267.3490455680565,
+    "y": -170.01490361921566,
+    "z": 7.93,
+    "yaw": 0.03919554407355097
+  },
+  {
+    "name": "city_tree_0529",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 204.04107063928433,
+    "y": -421.1180757803806,
+    "z": 7.93,
+    "yaw": -3.125058440004206
+  },
+  {
+    "name": "city_tree_0530",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 269.3472569078578,
+    "y": 266.97136965137895,
+    "z": 7.93,
+    "yaw": -0.3836019551688521
+  },
+  {
+    "name": "city_tree_0531",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 203.19603046856844,
+    "y": -154.02566269591046,
+    "z": 7.93,
+    "yaw": -1.8851963712885085
+  },
+  {
+    "name": "city_tree_0532",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 126.04636430894504,
+    "y": 98.24816291646107,
+    "z": 7.93,
+    "yaw": 0.1964528401599872
+  },
+  {
+    "name": "city_tree_0533",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 186.22106111363826,
+    "y": -184.27574932152316,
+    "z": 7.93,
+    "yaw": -1.2409024054881277
+  },
+  {
+    "name": "city_tree_0534",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 253.40227504029295,
+    "y": -119.75962084440084,
+    "z": 7.93,
+    "yaw": -0.6011574702595177
+  },
+  {
+    "name": "city_tree_0535",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 267.85323307482963,
+    "y": -362.93768658110696,
+    "z": 7.93,
+    "yaw": 0.9477955481234703
+  },
+  {
+    "name": "city_tree_0536",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 231.11387944586207,
+    "y": -129.3712574049842,
+    "z": 7.93,
+    "yaw": -1.881497303482788
+  },
+  {
+    "name": "city_tree_0537",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 80.35421603619581,
+    "y": -144.69972871405832,
+    "z": 7.93,
+    "yaw": -0.34505875936460084
+  },
+  {
+    "name": "city_tree_0538",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -253.79883185825167,
+    "y": -5.046120106571834,
+    "z": 7.93,
+    "yaw": 1.9145830111519473
+  },
+  {
+    "name": "city_tree_0539",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 377.7153442362033,
+    "y": -333.8453184868266,
+    "z": 19.321292087211045,
+    "yaw": -1.9159206005517808
+  },
+  {
+    "name": "city_tree_0540",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 230.17782337957698,
+    "y": -110.34368345168542,
+    "z": 7.93,
+    "yaw": 0.7134273484299549
+  },
+  {
+    "name": "city_tree_0541",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 250.99292059929283,
+    "y": 97.87199843587348,
+    "z": 7.93,
+    "yaw": -1.9150608712283645
+  },
+  {
+    "name": "city_tree_0542",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 242.49463029834666,
+    "y": -409.6238321883778,
+    "z": 7.93,
+    "yaw": -1.841647164364668
+  },
+  {
+    "name": "city_tree_0543",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 76.07610120535118,
+    "y": 98.14242138373436,
+    "z": 7.93,
+    "yaw": 2.184549941567755
+  },
+  {
+    "name": "city_tree_0544",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 342.9016034883393,
+    "y": -303.4168509142779,
+    "z": 8.316175843185492,
+    "yaw": -1.62718451694654
+  },
+  {
+    "name": "city_tree_0545",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -208.3090742244259,
+    "y": 48.30518760090865,
+    "z": 7.93,
+    "yaw": -1.6748809697062594
+  },
+  {
+    "name": "city_tree_0546",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 85.63953262993644,
+    "y": 258.1304983950423,
+    "z": 7.93,
+    "yaw": -3.056032193769602
+  },
+  {
+    "name": "city_tree_0547",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 276.81427619954025,
+    "y": -337.4555783058448,
+    "z": 7.93,
+    "yaw": 2.3012659830726854
+  },
+  {
+    "name": "city_tree_0548",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 359.31899882896175,
+    "y": -377.3695415809511,
+    "z": 12.06286421468133,
+    "yaw": 0.9710680199808053
+  },
+  {
+    "name": "city_tree_0549",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 213.0947866227856,
+    "y": -272.78919546161836,
+    "z": 7.93,
+    "yaw": 0.5351286550921528
+  },
+  {
+    "name": "city_tree_0550",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 123.23267599547398,
+    "y": 127.46614592136098,
+    "z": 7.93,
+    "yaw": 1.0943294714406262
+  },
+  {
+    "name": "city_tree_0551",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 268.02945351282284,
+    "y": -469.551498118944,
+    "z": 7.93,
+    "yaw": 1.032568854832169
+  },
+  {
+    "name": "city_tree_0552",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 97.78989778745199,
+    "y": -328.6456403032043,
+    "z": 7.93,
+    "yaw": 2.1436197078160344
+  },
+  {
+    "name": "city_tree_0553",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 106.44947317654422,
+    "y": -331.75106601650475,
+    "z": 7.93,
+    "yaw": 3.0953610249053156
+  },
+  {
+    "name": "city_tree_0554",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 125.6594262014984,
+    "y": 245.09375831536954,
+    "z": 7.93,
+    "yaw": 1.450604307349554
+  },
+  {
+    "name": "city_tree_0555",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 111.85319925860779,
+    "y": 17.93669094269262,
+    "z": 7.93,
+    "yaw": -0.22109797979464885
+  },
+  {
+    "name": "city_tree_0556",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 351.7361617892797,
+    "y": -239.31108706466603,
+    "z": 9.524625451977066,
+    "yaw": -1.284415762515023
+  },
+  {
+    "name": "city_tree_0557",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 276.1046857238026,
+    "y": -10.322227014919179,
+    "z": 7.93,
+    "yaw": 1.509382067468838
+  },
+  {
+    "name": "city_tree_0558",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 112.76380209436589,
+    "y": -352.61451176535905,
+    "z": 7.93,
+    "yaw": 3.132317650185798
+  },
+  {
+    "name": "city_tree_0559",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 76.89646633469272,
+    "y": 122.1176478163245,
+    "z": 7.93,
+    "yaw": -0.594899293079362
+  },
+  {
+    "name": "city_tree_0560",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 193.10440228921706,
+    "y": -263.34326715960196,
+    "z": 7.93,
+    "yaw": -2.669886174801163
+  },
+  {
+    "name": "city_tree_0561",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -177.8120611980466,
+    "y": 21.94739282533196,
+    "z": 7.93,
+    "yaw": 2.2131324521583258
+  },
+  {
+    "name": "city_tree_0562",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 275.89135196663403,
+    "y": -186.03933238882496,
+    "z": 7.93,
+    "yaw": -1.7820763063837053
+  },
+  {
+    "name": "city_tree_0563",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 234.26890409812825,
+    "y": -291.73541679651737,
+    "z": 7.93,
+    "yaw": -1.9706041367293867
+  },
+  {
+    "name": "city_tree_0564",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 393.9424165921287,
+    "y": -231.59241137263896,
+    "z": 24.76089223662487,
+    "yaw": 2.51058987109555
+  },
+  {
+    "name": "city_tree_0565",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 236.9046016758306,
+    "y": -450.0399037663359,
+    "z": 7.93,
+    "yaw": 0.2671389788817855
+  },
+  {
+    "name": "city_tree_0566",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 361.81283213717074,
+    "y": -113.35371802459025,
+    "z": 10.943468928605851,
+    "yaw": -0.8395224631201201
+  },
+  {
+    "name": "city_tree_0567",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 361.85874835659564,
+    "y": -449.94304632016014,
+    "z": 12.354061863523508,
+    "yaw": -2.9721188973810033
+  },
+  {
+    "name": "city_tree_0568",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 273.21852983159135,
+    "y": -208.81022790317184,
+    "z": 7.93,
+    "yaw": 1.3161166990068391
+  },
+  {
+    "name": "city_tree_0569",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -106.31216010233405,
+    "y": 189.1623863335244,
+    "z": 7.93,
+    "yaw": 2.650642927307593
+  },
+  {
+    "name": "city_tree_0570",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 237.05483220753226,
+    "y": 188.93221490752637,
+    "z": 7.93,
+    "yaw": -2.3058623177764734
+  },
+  {
+    "name": "city_tree_0571",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 63.26094454572893,
+    "y": -411.485142765125,
+    "z": 7.93,
+    "yaw": -2.1395480819242536
+  },
+  {
+    "name": "city_tree_0572",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 68.33718153602804,
+    "y": -178.7365458212508,
+    "z": 7.93,
+    "yaw": 1.0509705949474215
+  },
+  {
+    "name": "city_tree_0573",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 83.13798577412308,
+    "y": -418.1842767135993,
+    "z": 7.93,
+    "yaw": -0.5918363513000662
+  },
+  {
+    "name": "city_tree_0574",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 244.66931989144553,
+    "y": 49.274626984699125,
+    "z": 7.93,
+    "yaw": -2.2459720102187815
+  },
+  {
+    "name": "city_tree_0575",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 62.70545194472463,
+    "y": -283.35501828140514,
+    "z": 7.93,
+    "yaw": -0.8039054082303205
+  },
+  {
+    "name": "city_tree_0576",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 365.8457505106887,
+    "y": 42.63260160123093,
+    "z": 9.323760564296096,
+    "yaw": -2.5573942263970624
+  },
+  {
+    "name": "city_tree_0577",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 104.67882972284933,
+    "y": 127.21101802714566,
+    "z": 7.93,
+    "yaw": 3.1147639294725042
+  },
+  {
+    "name": "city_tree_0578",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 198.41834527057657,
+    "y": -362.64136323604794,
+    "z": 7.93,
+    "yaw": 0.38414469966218956
+  },
+  {
+    "name": "city_tree_0579",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 366.02463905840085,
+    "y": 91.65588666507017,
+    "z": 8.794761729963264,
+    "yaw": -2.8279402955017607
+  },
+  {
+    "name": "city_tree_0580",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 382.1573040125143,
+    "y": -116.41164020272902,
+    "z": 19.02134316677273,
+    "yaw": -1.2212327571986836
+  },
+  {
+    "name": "city_tree_0581",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 223.19414619513984,
+    "y": 2.1546202949624558,
+    "z": 7.93,
+    "yaw": -3.0834605440839553
+  },
+  {
+    "name": "city_tree_0582",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 385.6582427670205,
+    "y": -183.2669756150542,
+    "z": 20.537905570334008,
+    "yaw": 2.4885654518920273
+  },
+  {
+    "name": "city_tree_0583",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -28.770073864000167,
+    "y": 209.6582044991286,
+    "z": 7.93,
+    "yaw": 1.3648940602361082
+  },
+  {
+    "name": "city_tree_0584",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 267.2821284613292,
+    "y": -224.68742705731268,
+    "z": 7.93,
+    "yaw": -0.5343369312207482
+  },
+  {
+    "name": "city_tree_0585",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 210.73376805673044,
+    "y": -94.96271276282027,
+    "z": 7.93,
+    "yaw": 0.6190725643841319
+  },
+  {
+    "name": "city_tree_0586",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 398.8129213836366,
+    "y": -219.29617165628395,
+    "z": 27.16869996144911,
+    "yaw": 3.131302557906527
+  },
+  {
+    "name": "city_tree_0587",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 240.7770241207655,
+    "y": 118.13571878605148,
+    "z": 7.93,
+    "yaw": 2.8092446099012083
+  },
+  {
+    "name": "city_tree_0588",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 377.72388947048466,
+    "y": -199.77548542346528,
+    "z": 17.03786555998734,
+    "yaw": 2.1623923699842322
+  },
+  {
+    "name": "city_tree_0589",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 127.45398375317025,
+    "y": 177.23123849076796,
+    "z": 7.93,
+    "yaw": 1.0896623556510026
+  },
+  {
+    "name": "city_tree_0590",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 82.75019880560059,
+    "y": -10.773683403109487,
+    "z": 7.93,
+    "yaw": -0.4794479921428727
+  },
+  {
+    "name": "city_tree_0591",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 60.74311273980239,
+    "y": 169.04801805808393,
+    "z": 7.93,
+    "yaw": 0.4165973280392392
+  },
+  {
+    "name": "city_tree_0592",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 97.12372524383898,
+    "y": 136.55801018956186,
+    "z": 7.93,
+    "yaw": -3.1101517855905074
+  },
+  {
+    "name": "city_tree_0593",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 217.73925957311735,
+    "y": -115.72279732827002,
+    "z": 7.93,
+    "yaw": 2.8492738922211673
+  },
+  {
+    "name": "city_tree_0594",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 79.3038092038665,
+    "y": -290.9262303771895,
+    "z": 7.93,
+    "yaw": -2.7420880765570153
+  },
+  {
+    "name": "city_tree_0595",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 238.09356222585666,
+    "y": 178.77712419326895,
+    "z": 7.93,
+    "yaw": 2.017698898425764
+  },
+  {
+    "name": "city_tree_0596",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 94.48484602108917,
+    "y": -1.52801746476581,
+    "z": 7.93,
+    "yaw": 0.3597854066357038
+  },
+  {
+    "name": "city_tree_0597",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 368.28194665234423,
+    "y": 64.7866913441236,
+    "z": 9.635827362515423,
+    "yaw": -0.0012556195530062375
+  },
+  {
+    "name": "city_tree_0598",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 340.63513852952116,
+    "y": -240.7545633079723,
+    "z": 8.101416456976972,
+    "yaw": -1.242979316756116
+  },
+  {
+    "name": "city_tree_0599",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 341.87437865199723,
+    "y": -383.06025490355273,
+    "z": 8.12511915475023,
+    "yaw": 0.21847031020688945
+  },
+  {
+    "name": "city_tree_0600",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 214.11146781851087,
+    "y": -423.70705484193496,
+    "z": 7.93,
+    "yaw": -1.1775511842314488
+  },
+  {
+    "name": "city_tree_0601",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 360.42589188839275,
+    "y": -48.42935170003358,
+    "z": 9.547520784214218,
+    "yaw": -0.943872339908038
+  },
+  {
+    "name": "city_tree_0602",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 76.98634009039624,
+    "y": -405.8725825471881,
+    "z": 7.93,
+    "yaw": -1.0752011804531434
+  },
+  {
+    "name": "city_tree_0603",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 230.47334231128465,
+    "y": -335.18283453722967,
+    "z": 7.93,
+    "yaw": -0.5019256484855323
+  },
+  {
+    "name": "city_tree_0604",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 372.4760014033817,
+    "y": -52.30148122692799,
+    "z": 13.149858348065667,
+    "yaw": 2.8478736135690133
+  },
+  {
+    "name": "city_tree_0605",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 362.3800122233693,
+    "y": -393.9791486911537,
+    "z": 13.351952082502045,
+    "yaw": -1.157307695863213
+  },
+  {
+    "name": "city_tree_0606",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 238.71817608256856,
+    "y": -258.8966516601937,
+    "z": 7.93,
+    "yaw": -3.0755161941238716
+  },
+  {
+    "name": "city_tree_0607",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 260.8654617733087,
+    "y": 54.351947933801966,
+    "z": 7.93,
+    "yaw": -2.7082022004877313
+  },
+  {
+    "name": "city_tree_0608",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 268.4735847278947,
+    "y": 239.15836282008672,
+    "z": 7.93,
+    "yaw": -2.355261833726469
+  },
+  {
+    "name": "city_tree_0609",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 64.09162415466135,
+    "y": 183.43485249072296,
+    "z": 7.93,
+    "yaw": 0.9212535323485014
+  },
+  {
+    "name": "city_tree_0610",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 194.01240904566407,
+    "y": -330.8272484146817,
+    "z": 7.93,
+    "yaw": 0.3109068367617964
+  },
+  {
+    "name": "city_tree_0611",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 220.9209791349064,
+    "y": -306.3896009256993,
+    "z": 7.93,
+    "yaw": -3.078080467915208
+  },
+  {
+    "name": "city_tree_0612",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 351.4790423550105,
+    "y": -108.75844814231988,
+    "z": 8.656214246419857,
+    "yaw": 1.0737257649123455
+  },
+  {
+    "name": "city_tree_0613",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 246.8275231697044,
+    "y": -123.37249117983839,
+    "z": 7.93,
+    "yaw": 1.5336426392873506
+  },
+  {
+    "name": "city_tree_0614",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 208.5414261413061,
+    "y": -28.896643970641946,
+    "z": 7.93,
+    "yaw": -1.1980079710131426
+  },
+  {
+    "name": "city_tree_0615",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 66.94574439820668,
+    "y": 266.5673438828451,
+    "z": 7.93,
+    "yaw": 2.0178206948043593
+  },
+  {
+    "name": "city_tree_0616",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 255.56030537483392,
+    "y": 132.07249698377314,
+    "z": 7.93,
+    "yaw": -0.6221157707178047
+  },
+  {
+    "name": "city_tree_0617",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 236.99918492686916,
+    "y": -210.35913524099652,
+    "z": 7.93,
+    "yaw": 2.3473590932242967
+  },
+  {
+    "name": "city_tree_0618",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 275.08776968962036,
+    "y": -167.42059969660454,
+    "z": 7.93,
+    "yaw": 2.637134724766068
+  },
+  {
+    "name": "city_tree_0619",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 264.2976962752231,
+    "y": -275.4952875648987,
+    "z": 7.93,
+    "yaw": -3.017274411964223
+  },
+  {
+    "name": "city_tree_0620",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 377.32526102084864,
+    "y": 60.34729779243662,
+    "z": 12.83809688772846,
+    "yaw": -0.5160927395150043
+  },
+  {
+    "name": "city_tree_0621",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 362.30129464028465,
+    "y": -223.15622880509144,
+    "z": 11.98618891800853,
+    "yaw": 0.06491931338671098
+  },
+  {
+    "name": "city_tree_0622",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 262.58547964178234,
+    "y": -350.2063884313425,
+    "z": 7.93,
+    "yaw": 0.8695576181680051
+  },
+  {
+    "name": "city_tree_0623",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 367.226605973222,
+    "y": 291.7418660627469,
+    "z": 9.532582275557044,
+    "yaw": -2.111760668780777
+  },
+  {
+    "name": "city_tree_0624",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 181.0703431722351,
+    "y": -190.42482308642582,
+    "z": 7.93,
+    "yaw": -3.0237967549993328
+  },
+  {
+    "name": "city_tree_0625",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 357.1753400095878,
+    "y": 137.4045303972864,
+    "z": 7.93,
+    "yaw": 2.0241966268649616
+  },
+  {
+    "name": "city_tree_0626",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 243.20621247926053,
+    "y": 20.881802026040077,
+    "z": 7.93,
+    "yaw": -0.9328992452557672
+  },
+  {
+    "name": "city_tree_0627",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 379.9983498951739,
+    "y": 200.41689358834276,
+    "z": 11.09063948452501,
+    "yaw": -0.6170195338693816
+  },
+  {
+    "name": "city_tree_0628",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 270.1832993343414,
+    "y": -133.46848622915553,
+    "z": 7.93,
+    "yaw": 2.781857339327308
+  },
+  {
+    "name": "city_tree_0629",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 394.5795065189783,
+    "y": 307.7000930001783,
+    "z": 18.231932312162154,
+    "yaw": 2.443551672339395
+  },
+  {
+    "name": "city_tree_0630",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 380.8931244807637,
+    "y": -104.2709547151714,
+    "z": 18.291178349638916,
+    "yaw": 3.0802422123442463
+  },
+  {
+    "name": "city_tree_0631",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -89.27358055734281,
+    "y": 202.60645693583794,
+    "z": 7.93,
+    "yaw": 1.1217024151587216
+  },
+  {
+    "name": "city_tree_0632",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 88.12312867813318,
+    "y": 139.91348326506727,
+    "z": 7.93,
+    "yaw": -2.1368189276319143
+  },
+  {
+    "name": "city_tree_0633",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 101.02584750219233,
+    "y": 215.33385940777873,
+    "z": 7.93,
+    "yaw": -2.6078041323876087
+  },
+  {
+    "name": "city_tree_0634",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 196.74773265953604,
+    "y": -375.7513945759854,
+    "z": 7.93,
+    "yaw": -1.1562857151928696
+  },
+  {
+    "name": "city_tree_0635",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 100.80109881034154,
+    "y": 145.31077820500025,
+    "z": 7.93,
+    "yaw": 1.9813669665964895
+  },
+  {
+    "name": "city_tree_0636",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 98.02041579757612,
+    "y": -271.6482832918671,
+    "z": 7.93,
+    "yaw": -0.12335746511158563
+  },
+  {
+    "name": "city_tree_0637",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 349.179595545036,
+    "y": -369.9618604914568,
+    "z": 9.236950256745091,
+    "yaw": -1.8009668742378233
+  },
+  {
+    "name": "city_tree_0638",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 258.1201371845466,
+    "y": -203.98907945678286,
+    "z": 7.93,
+    "yaw": 0.029935766761004068
+  },
+  {
+    "name": "city_tree_0639",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 270.52036698533334,
+    "y": -40.16638505054988,
+    "z": 7.93,
+    "yaw": -1.9847149518842724
+  },
+  {
+    "name": "city_tree_0640",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 63.23528743418214,
+    "y": 233.32816916081197,
+    "z": 7.93,
+    "yaw": 2.6768337437207768
+  },
+  {
+    "name": "city_tree_0641",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 188.23862978832474,
+    "y": -337.01417360081405,
+    "z": 7.93,
+    "yaw": 3.068993022158378
+  },
+  {
+    "name": "city_tree_0642",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 344.35135202798494,
+    "y": 65.91199981086106,
+    "z": 7.93,
+    "yaw": -0.2957774274681344
+  },
+  {
+    "name": "city_tree_0643",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 64.19922109744428,
+    "y": 7.3861978009429095,
+    "z": 7.93,
+    "yaw": -1.3209633202475002
+  },
+  {
+    "name": "city_tree_0644",
+    "model": "pine_tree",
+    "model_path": "model://pine_tree",
+    "x": 347.9410667257438,
+    "y": -352.9005995018302,
+    "z": 9.02679628277422,
+    "yaw": -2.797270042590333
+  },
+  {
+    "name": "city_tree_0645",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 225.42941059865558,
+    "y": -432.87863926487506,
+    "z": 7.93,
+    "yaw": 2.7179837398995197
+  },
+  {
+    "name": "city_tree_0646",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 100.3073116377275,
+    "y": 107.6246539334827,
+    "z": 7.93,
+    "yaw": 2.3462346515058545
+  },
+  {
+    "name": "city_tree_0647",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 229.0450150917793,
+    "y": -54.889321176072144,
+    "z": 7.93,
+    "yaw": -2.8628909603313812
+  },
+  {
+    "name": "city_tree_0648",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 73.1180690840907,
+    "y": -431.89825919615373,
+    "z": 7.93,
+    "yaw": -3.1186709537810513
+  },
+  {
+    "name": "city_tree_0649",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 116.09695444621576,
+    "y": 269.34415769933935,
+    "z": 7.93,
+    "yaw": 1.3821149375220116
+  },
+  {
+    "name": "street_tree_0650",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": -372.0,
+    "z": 7.93,
+    "yaw": 2.119713367594377,
+    "street": true
+  },
+  {
+    "name": "street_tree_0651",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": -348.0,
+    "z": 7.93,
+    "yaw": 0.3120513758718175,
+    "street": true
+  },
+  {
+    "name": "street_tree_0652",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": -324.0,
+    "z": 7.93,
+    "yaw": -1.8068512713822868,
+    "street": true
+  },
+  {
+    "name": "street_tree_0653",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": -300.0,
+    "z": 7.93,
+    "yaw": -2.0345198550942962,
+    "street": true
+  },
+  {
+    "name": "street_tree_0654",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": -276.0,
+    "z": 7.93,
+    "yaw": -2.903500224291016,
+    "street": true
+  },
+  {
+    "name": "street_tree_0655",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": -204.0,
+    "z": 7.93,
+    "yaw": 1.0804092056135275,
+    "street": true
+  },
+  {
+    "name": "street_tree_0656",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": -180.0,
+    "z": 7.93,
+    "yaw": 1.493411573752729,
+    "street": true
+  },
+  {
+    "name": "street_tree_0657",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": -156.0,
+    "z": 7.93,
+    "yaw": -0.6922333521181154,
+    "street": true
+  },
+  {
+    "name": "street_tree_0658",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": -132.0,
+    "z": 7.93,
+    "yaw": -0.5588150136166989,
+    "street": true
+  },
+  {
+    "name": "street_tree_0659",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": -108.0,
+    "z": 7.93,
+    "yaw": 0.47877692338576194,
+    "street": true
+  },
+  {
+    "name": "street_tree_0660",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": -36.0,
+    "z": 7.93,
+    "yaw": -1.189038901564987,
+    "street": true
+  },
+  {
+    "name": "street_tree_0661",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": -12.0,
+    "z": 7.93,
+    "yaw": 1.5452745881824903,
+    "street": true
+  },
+  {
+    "name": "street_tree_0662",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": 12.0,
+    "z": 7.93,
+    "yaw": -1.7864445147202468,
+    "street": true
+  },
+  {
+    "name": "street_tree_0663",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": 36.0,
+    "z": 7.93,
+    "yaw": -0.20274933515127103,
+    "street": true
+  },
+  {
+    "name": "street_tree_0664",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": 108.0,
+    "z": 7.93,
+    "yaw": 2.523511404148901,
+    "street": true
+  },
+  {
+    "name": "street_tree_0665",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": 132.0,
+    "z": 7.93,
+    "yaw": 1.8630480598430212,
+    "street": true
+  },
+  {
+    "name": "street_tree_0666",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": 156.0,
+    "z": 7.93,
+    "yaw": 0.5159815119576541,
+    "street": true
+  },
+  {
+    "name": "street_tree_0667",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": 180.0,
+    "z": 7.93,
+    "yaw": 1.6083517950303996,
+    "street": true
+  },
+  {
+    "name": "street_tree_0668",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -424.0,
+    "y": 204.0,
+    "z": 7.93,
+    "yaw": -2.325616399190394,
+    "street": true
+  },
+  {
+    "name": "street_tree_0669",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": -372.0,
+    "z": 7.93,
+    "yaw": 2.0249031780953146,
+    "street": true
+  },
+  {
+    "name": "street_tree_0670",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": -348.0,
+    "z": 7.93,
+    "yaw": 0.09556380579296153,
+    "street": true
+  },
+  {
+    "name": "street_tree_0671",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": -324.0,
+    "z": 7.93,
+    "yaw": -2.4468881400517555,
+    "street": true
+  },
+  {
+    "name": "street_tree_0672",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": -300.0,
+    "z": 7.93,
+    "yaw": -1.6996814059570347,
+    "street": true
+  },
+  {
+    "name": "street_tree_0673",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": -276.0,
+    "z": 7.93,
+    "yaw": 2.1089043869692015,
+    "street": true
+  },
+  {
+    "name": "street_tree_0674",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": -204.0,
+    "z": 7.93,
+    "yaw": 0.536821704410618,
+    "street": true
+  },
+  {
+    "name": "street_tree_0675",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": -180.0,
+    "z": 7.93,
+    "yaw": -1.8965182190154617,
+    "street": true
+  },
+  {
+    "name": "street_tree_0676",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": -156.0,
+    "z": 7.93,
+    "yaw": 1.6241501492220634,
+    "street": true
+  },
+  {
+    "name": "street_tree_0677",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": -132.0,
+    "z": 7.93,
+    "yaw": 2.2499756906293236,
+    "street": true
+  },
+  {
+    "name": "street_tree_0678",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": -108.0,
+    "z": 7.93,
+    "yaw": 0.6884863359880926,
+    "street": true
+  },
+  {
+    "name": "street_tree_0679",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": -36.0,
+    "z": 7.93,
+    "yaw": -2.966620934254011,
+    "street": true
+  },
+  {
+    "name": "street_tree_0680",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": -12.0,
+    "z": 7.93,
+    "yaw": -1.4605757672534647,
+    "street": true
+  },
+  {
+    "name": "street_tree_0681",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": 12.0,
+    "z": 7.93,
+    "yaw": 1.2445194354045057,
+    "street": true
+  },
+  {
+    "name": "street_tree_0682",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": 36.0,
+    "z": 7.93,
+    "yaw": 3.0078608578877333,
+    "street": true
+  },
+  {
+    "name": "street_tree_0683",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": 108.0,
+    "z": 7.93,
+    "yaw": 0.3583111810028341,
+    "street": true
+  },
+  {
+    "name": "street_tree_0684",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": 132.0,
+    "z": 7.93,
+    "yaw": -0.6669288870534014,
+    "street": true
+  },
+  {
+    "name": "street_tree_0685",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": 156.0,
+    "z": 7.93,
+    "yaw": -2.194609314929253,
+    "street": true
+  },
+  {
+    "name": "street_tree_0686",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": 180.0,
+    "z": 7.93,
+    "yaw": 2.769460668443025,
+    "street": true
+  },
+  {
+    "name": "street_tree_0687",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -306.0,
+    "y": 204.0,
+    "z": 7.93,
+    "yaw": -0.0794968437204604,
+    "street": true
+  },
+  {
+    "name": "street_tree_0688",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": -372.0,
+    "z": 7.93,
+    "yaw": 0.14078544342133625,
+    "street": true
+  },
+  {
+    "name": "street_tree_0689",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": -348.0,
+    "z": 7.93,
+    "yaw": 2.7667172519201166,
+    "street": true
+  },
+  {
+    "name": "street_tree_0690",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": -324.0,
+    "z": 7.93,
+    "yaw": -1.0771441324349702,
+    "street": true
+  },
+  {
+    "name": "street_tree_0691",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": -300.0,
+    "z": 7.93,
+    "yaw": 0.24390750803094496,
+    "street": true
+  },
+  {
+    "name": "street_tree_0692",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": -204.0,
+    "z": 7.93,
+    "yaw": 2.7087440607528777,
+    "street": true
+  },
+  {
+    "name": "street_tree_0693",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": -180.0,
+    "z": 7.93,
+    "yaw": -1.9746561801066074,
+    "street": true
+  },
+  {
+    "name": "street_tree_0694",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": -156.0,
+    "z": 7.93,
+    "yaw": -1.1150096946069707,
+    "street": true
+  },
+  {
+    "name": "street_tree_0695",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": -132.0,
+    "z": 7.93,
+    "yaw": 2.2320397766738447,
+    "street": true
+  },
+  {
+    "name": "street_tree_0696",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": -108.0,
+    "z": 7.93,
+    "yaw": -1.0148229406739113,
+    "street": true
+  },
+  {
+    "name": "street_tree_0697",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": -36.0,
+    "z": 7.93,
+    "yaw": -1.9553512933869868,
+    "street": true
+  },
+  {
+    "name": "street_tree_0698",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": -12.0,
+    "z": 7.93,
+    "yaw": 0.7093880122321474,
+    "street": true
+  },
+  {
+    "name": "street_tree_0699",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": 12.0,
+    "z": 7.93,
+    "yaw": -2.2710582259396093,
+    "street": true
+  },
+  {
+    "name": "street_tree_0700",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": 36.0,
+    "z": 7.93,
+    "yaw": 1.1694756568844502,
+    "street": true
+  },
+  {
+    "name": "street_tree_0701",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": 108.0,
+    "z": 7.93,
+    "yaw": 0.12380889036445364,
+    "street": true
+  },
+  {
+    "name": "street_tree_0702",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": 132.0,
+    "z": 7.93,
+    "yaw": -2.4066571750873575,
+    "street": true
+  },
+  {
+    "name": "street_tree_0703",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": 156.0,
+    "z": 7.93,
+    "yaw": 2.0409350461797793,
+    "street": true
+  },
+  {
+    "name": "street_tree_0704",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": 180.0,
+    "z": 7.93,
+    "yaw": -1.4842236726571127,
+    "street": true
+  },
+  {
+    "name": "street_tree_0705",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -274.0,
+    "y": 204.0,
+    "z": 7.93,
+    "yaw": -1.6810971715580518,
+    "street": true
+  },
+  {
+    "name": "street_tree_0706",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": -372.0,
+    "z": 7.93,
+    "yaw": -0.5618489056048546,
+    "street": true
+  },
+  {
+    "name": "street_tree_0707",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": -348.0,
+    "z": 7.93,
+    "yaw": -1.593374718375461,
+    "street": true
+  },
+  {
+    "name": "street_tree_0708",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": -324.0,
+    "z": 7.93,
+    "yaw": 1.6288056764619032,
+    "street": true
+  },
+  {
+    "name": "street_tree_0709",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": -300.0,
+    "z": 7.93,
+    "yaw": -1.793151605883607,
+    "street": true
+  },
+  {
+    "name": "street_tree_0710",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": -276.0,
+    "z": 7.93,
+    "yaw": 2.9436572819651055,
+    "street": true
+  },
+  {
+    "name": "street_tree_0711",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": -180.0,
+    "z": 7.93,
+    "yaw": 1.8182459984571482,
+    "street": true
+  },
+  {
+    "name": "street_tree_0712",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": -156.0,
+    "z": 7.93,
+    "yaw": -1.2259963480682214,
+    "street": true
+  },
+  {
+    "name": "street_tree_0713",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": -132.0,
+    "z": 7.93,
+    "yaw": 1.4148531640916584,
+    "street": true
+  },
+  {
+    "name": "street_tree_0714",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": -108.0,
+    "z": 7.93,
+    "yaw": -0.0935630908544467,
+    "street": true
+  },
+  {
+    "name": "street_tree_0715",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": -36.0,
+    "z": 7.93,
+    "yaw": -0.6661857098039548,
+    "street": true
+  },
+  {
+    "name": "street_tree_0716",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": -12.0,
+    "z": 7.93,
+    "yaw": 1.607006571391011,
+    "street": true
+  },
+  {
+    "name": "street_tree_0717",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": 12.0,
+    "z": 7.93,
+    "yaw": 2.175556182366587,
+    "street": true
+  },
+  {
+    "name": "street_tree_0718",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": 36.0,
+    "z": 7.93,
+    "yaw": 0.8260569426279178,
+    "street": true
+  },
+  {
+    "name": "street_tree_0719",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": 108.0,
+    "z": 7.93,
+    "yaw": 1.3304641907762953,
+    "street": true
+  },
+  {
+    "name": "street_tree_0720",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": 132.0,
+    "z": 7.93,
+    "yaw": -2.7656485062090566,
+    "street": true
+  },
+  {
+    "name": "street_tree_0721",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": 156.0,
+    "z": 7.93,
+    "yaw": 1.8793753609002133,
+    "street": true
+  },
+  {
+    "name": "street_tree_0722",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": 180.0,
+    "z": 7.93,
+    "yaw": -2.7134054923283895,
+    "street": true
+  },
+  {
+    "name": "street_tree_0723",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -156.0,
+    "y": 204.0,
+    "z": 7.93,
+    "yaw": -0.6406117793047605,
+    "street": true
+  },
+  {
+    "name": "street_tree_0724",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": -372.0,
+    "z": 7.93,
+    "yaw": 1.2770534668049187,
+    "street": true
+  },
+  {
+    "name": "street_tree_0725",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": -348.0,
+    "z": 7.93,
+    "yaw": 1.4587789400533664,
+    "street": true
+  },
+  {
+    "name": "street_tree_0726",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": -324.0,
+    "z": 7.93,
+    "yaw": -0.7830854345008738,
+    "street": true
+  },
+  {
+    "name": "street_tree_0727",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": -300.0,
+    "z": 7.93,
+    "yaw": 2.6640852604676395,
+    "street": true
+  },
+  {
+    "name": "street_tree_0728",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": -204.0,
+    "z": 7.93,
+    "yaw": -1.6331222061834867,
+    "street": true
+  },
+  {
+    "name": "street_tree_0729",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": -180.0,
+    "z": 7.93,
+    "yaw": 1.4635618054722253,
+    "street": true
+  },
+  {
+    "name": "street_tree_0730",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": -156.0,
+    "z": 7.93,
+    "yaw": -1.68644876645817,
+    "street": true
+  },
+  {
+    "name": "street_tree_0731",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": -132.0,
+    "z": 7.93,
+    "yaw": -0.6854520195325766,
+    "street": true
+  },
+  {
+    "name": "street_tree_0732",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": -108.0,
+    "z": 7.93,
+    "yaw": -0.26604953567756606,
+    "street": true
+  },
+  {
+    "name": "street_tree_0733",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": -36.0,
+    "z": 7.93,
+    "yaw": 2.754008680424392,
+    "street": true
+  },
+  {
+    "name": "street_tree_0734",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": -12.0,
+    "z": 7.93,
+    "yaw": -1.007269850201082,
+    "street": true
+  },
+  {
+    "name": "street_tree_0735",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": 12.0,
+    "z": 7.93,
+    "yaw": 0.7538804633905443,
+    "street": true
+  },
+  {
+    "name": "street_tree_0736",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": 36.0,
+    "z": 7.93,
+    "yaw": -0.11846422332947837,
+    "street": true
+  },
+  {
+    "name": "street_tree_0737",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": 108.0,
+    "z": 7.93,
+    "yaw": -1.0322383748042885,
+    "street": true
+  },
+  {
+    "name": "street_tree_0738",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": 132.0,
+    "z": 7.93,
+    "yaw": -1.1111026378638083,
+    "street": true
+  },
+  {
+    "name": "street_tree_0739",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": 156.0,
+    "z": 7.93,
+    "yaw": 1.9472941822450984,
+    "street": true
+  },
+  {
+    "name": "street_tree_0740",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": 180.0,
+    "z": 7.93,
+    "yaw": 1.5568712909094815,
+    "street": true
+  },
+  {
+    "name": "street_tree_0741",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": -124.0,
+    "y": 204.0,
+    "z": 7.93,
+    "yaw": 0.4752720764214877,
+    "street": true
+  },
+  {
+    "name": "street_tree_0742",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": -372.0,
+    "z": 7.93,
+    "yaw": 2.225956195511694,
+    "street": true
+  },
+  {
+    "name": "street_tree_0743",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": -348.0,
+    "z": 7.93,
+    "yaw": 1.206554444584805,
+    "street": true
+  },
+  {
+    "name": "street_tree_0744",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": -324.0,
+    "z": 7.93,
+    "yaw": -0.34427366692170613,
+    "street": true
+  },
+  {
+    "name": "street_tree_0745",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": -300.0,
+    "z": 7.93,
+    "yaw": -1.9292110175257802,
+    "street": true
+  },
+  {
+    "name": "street_tree_0746",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": -276.0,
+    "z": 7.93,
+    "yaw": 1.9616559404821556,
+    "street": true
+  },
+  {
+    "name": "street_tree_0747",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": -204.0,
+    "z": 7.93,
+    "yaw": 3.0956510250365366,
+    "street": true
+  },
+  {
+    "name": "street_tree_0748",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": -180.0,
+    "z": 7.93,
+    "yaw": -0.7508258501302878,
+    "street": true
+  },
+  {
+    "name": "street_tree_0749",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": -156.0,
+    "z": 7.93,
+    "yaw": 0.894261167730189,
+    "street": true
+  },
+  {
+    "name": "street_tree_0750",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": -132.0,
+    "z": 7.93,
+    "yaw": -1.1765982244028026,
+    "street": true
+  },
+  {
+    "name": "street_tree_0751",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": -108.0,
+    "z": 7.93,
+    "yaw": -3.0932062443601125,
+    "street": true
+  },
+  {
+    "name": "street_tree_0752",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": -36.0,
+    "z": 7.93,
+    "yaw": -0.6764388118322473,
+    "street": true
+  },
+  {
+    "name": "street_tree_0753",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": -12.0,
+    "z": 7.93,
+    "yaw": 1.9459719568116673,
+    "street": true
+  },
+  {
+    "name": "street_tree_0754",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": 12.0,
+    "z": 7.93,
+    "yaw": -3.1323623665576665,
+    "street": true
+  },
+  {
+    "name": "street_tree_0755",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": 36.0,
+    "z": 7.93,
+    "yaw": 2.886291737066756,
+    "street": true
+  },
+  {
+    "name": "street_tree_0756",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": 108.0,
+    "z": 7.93,
+    "yaw": -1.533935157376931,
+    "street": true
+  },
+  {
+    "name": "street_tree_0757",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": 132.0,
+    "z": 7.93,
+    "yaw": -1.3928990024479977,
+    "street": true
+  },
+  {
+    "name": "street_tree_0758",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": 156.0,
+    "z": 7.93,
+    "yaw": -2.6276271409125274,
+    "street": true
+  },
+  {
+    "name": "street_tree_0759",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": 180.0,
+    "z": 7.93,
+    "yaw": 1.9250200371217119,
+    "street": true
+  },
+  {
+    "name": "street_tree_0760",
+    "model": "oak_tree",
+    "model_path": "model://oak_tree",
+    "x": 26.0,
+    "y": 204.0,
+    "z": 7.93,
+    "yaw": 0.6059950495271811,
+    "street": true
+  }
+]

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- Build worlds/plugins once with scripts/prepare_scenes.sh before launch. -->
+  <arg name="scene" default="alpine_snow_1km" doc="World filename stem: alpine_snow_1km, mountain_lakes_1km, or urban_river_1km"/>
+  <arg name="paused" default="false"/>
+  <arg name="gui" default="true"/>
+  <arg name="use_sim_time" default="true"/>
+  <arg name="verbose" default="false"/>
+
+  <env name="GAZEBO_MODEL_PATH" value="$(find my_gazebo_worlds)/models:/usr/share/gazebo-11/models:$(optenv GAZEBO_MODEL_PATH)"/>
+  <env name="GAZEBO_PLUGIN_PATH" value="$(find my_gazebo_worlds)/.scene-build:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/gazebo-11/plugins:$(optenv GAZEBO_PLUGIN_PATH)"/>
+  <env name="GAZEBO_RESOURCE_PATH" value="$(find my_gazebo_worlds):$(find my_gazebo_worlds)/models/house_1/materials/textures:$(find my_gazebo_worlds)/models/house_2/materials/textures:$(find my_gazebo_worlds)/models/house_3/materials/textures:/usr/share/gazebo-11:$(optenv GAZEBO_RESOURCE_PATH)"/>
+
+  <param name="use_sim_time" value="$(arg use_sim_time)"/>
+  <arg unless="$(arg paused)" name="pause_arg" value=""/>
+  <arg if="$(arg paused)" name="pause_arg" value="-u"/>
+  <arg unless="$(arg verbose)" name="verbose_arg" value=""/>
+  <arg if="$(arg verbose)" name="verbose_arg" value="--verbose"/>
+
+  <!-- Own wrappers preserve argument boundaries and paths containing spaces. -->
+  <node name="gazebo" pkg="my_gazebo_worlds" type="gzserver_scene"
+        args="$(arg pause_arg) $(arg verbose_arg) worlds/$(arg scene).world"
+        output="screen" required="true"/>
+  <node if="$(arg gui)" name="gazebo_gui" pkg="my_gazebo_worlds" type="gzclient_scene"
+        args="$(arg verbose_arg)" output="screen"/>
+</launch>

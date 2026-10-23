@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-23",
+  "runtime_asset_commit": "3da20861b0eddb24c7a004a1952250b6e070409a",
+  "os": "Linux-5.15.0-139-generic-x86_64-with-glibc2.31",
+  "gazebo": "11.15.1",
+  "clone_path_contains_spaces": true,
+  "runtime_home_isolated": true,
+  "model_database_disabled_during_physics_test": true,
+  "water_plugin_built_from_clone": true,
+  "asset_validation": {
+    "passed": true,
+    "scenes": {
+      "alpine_snow_1km": {
+        "includes": 1,
+        "plugins": []
+      },
+      "mountain_lakes_1km": {
+        "includes": 487,
+        "plugins": [
+          "libLakeWaterPlugin.so"
+        ]
+      },
+      "urban_river_1km": {
+        "includes": 819,
+        "plugins": [
+          "libLakeWaterPlugin.so"
+        ]
+      }
+    },
+    "checked": {
+      "models": 22,
+      "xml_files": 136,
+      "collada_meshes": 83,
+      "material_files": 5,
+      "asset_paths": 166,
+      "liquid_water_links": 3
+    },
+    "errors": []
+  },
+  "physics": "physics_validation.json",
+  "blender": {
+    "version": "4.5.14 LTS",
+    "all_images_packed": true,
+    "file_image_counts": {
+      "alpine_snow_1km": 1,
+      "mountain_lakes_1km": 5,
+      "urban_river_1km": 15
+    }
+  },
+  "gazebo_camera": {
+    "scene": "urban_river_1km",
+    "image": "urban_gazebo_clone.jpg",
+    "note": "Camera frame captured from isolated clone. Bounded rendering process was stopped after capture."
+  },
+  "scope_excludes": [
+    "PX4 closed-loop flight",
+    "specific UAV dynamics calibration",
+    "Gazebo Sim/Ignition"
+  ],
+  "ros_runtime": {
+    "passed": true,
+    "models": [
+      "alpine_snow_1km"
+    ],
+    "scene": "alpine_snow_1km",
+    "source": "ROS scene.launch from path with spaces"
+  }
+}

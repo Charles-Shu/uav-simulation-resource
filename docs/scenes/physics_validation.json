@@ -1,0 +1,280 @@
+{
+  "test": "isolated-home Gazebo Classic physics integration",
+  "results": {
+    "alpine_snow_1km": {
+      "simulated_s": 20,
+      "wall_s": 20.050282846,
+      "model_count": 6,
+      "all_trajectories_finite": true,
+      "probes": [
+        {
+          "name": "probe_snow",
+          "x": -9.99997871773,
+          "y": -116.000000713,
+          "z": 14.7065326243,
+          "speed": 0,
+          "maximum_speed": 4.43412,
+          "contacts": [
+            "alpine_snow_1km::terrain::snow_collision"
+          ]
+        },
+        {
+          "name": "probe_rock",
+          "x": -301.996975111,
+          "y": 314.000366929,
+          "z": 137.859847418,
+          "speed": 0,
+          "maximum_speed": 4.49298,
+          "contacts": [
+            "alpine_snow_1km::terrain::rock_collision"
+          ]
+        },
+        {
+          "name": "probe_mud",
+          "x": -367.997874921,
+          "y": -306.002936522,
+          "z": 14.7081389314,
+          "speed": 0,
+          "maximum_speed": 4.43412,
+          "contacts": [
+            "alpine_snow_1km::terrain::mud_collision"
+          ]
+        },
+        {
+          "name": "probe_grass",
+          "x": -9.9997237881,
+          "y": -142.001555672,
+          "z": 14.7032462831,
+          "speed": 0,
+          "maximum_speed": 4.42431,
+          "contacts": [
+            "alpine_snow_1km::terrain::grass_collision"
+          ]
+        },
+        {
+          "name": "probe_ice",
+          "x": 140.000000001,
+          "y": -169.999999936,
+          "z": 11.7989998039,
+          "speed": 0,
+          "maximum_speed": 4.43412,
+          "contacts": [
+            "alpine_snow_1km::terrain::ice_plate_0"
+          ]
+        }
+      ],
+      "rays": []
+    },
+    "mountain_lakes_1km": {
+      "simulated_s": 20,
+      "wall_s": 20.898388882,
+      "model_count": 495,
+      "all_trajectories_finite": true,
+      "probes": [
+        {
+          "name": "probe_rock",
+          "x": -19.9926323146,
+          "y": 370.00584769,
+          "z": 77.5878164097,
+          "speed": 0,
+          "maximum_speed": 4.38507,
+          "contacts": [
+            "mountain_lakes_1km::terrain::rock"
+          ]
+        },
+        {
+          "name": "probe_grass",
+          "x": -439.999511036,
+          "y": -380.000004581,
+          "z": 45.3750692328,
+          "speed": 0,
+          "maximum_speed": 4.43412,
+          "contacts": [
+            "mountain_lakes_1km::terrain::grass"
+          ]
+        },
+        {
+          "name": "probe_mud",
+          "x": -190.010147902,
+          "y": -164.99744458,
+          "z": 40.9248746791,
+          "speed": 0,
+          "maximum_speed": 4.42431,
+          "contacts": [
+            "mountain_lakes_1km::terrain::mud"
+          ]
+        },
+        {
+          "name": "probe_sand",
+          "x": 15.0003064481,
+          "y": -80.0022603761,
+          "z": 22.4992759972,
+          "speed": 0,
+          "maximum_speed": 4.4145,
+          "contacts": [
+            "mountain_lakes_1km::terrain::sand"
+          ]
+        },
+        {
+          "name": "probe_eastern_lake_float",
+          "x": 132,
+          "y": -130,
+          "z": 22.0808421963,
+          "speed": 0.00566329294134,
+          "maximum_speed": 4.93891740432,
+          "contacts": []
+        },
+        {
+          "name": "probe_eastern_lake_sink",
+          "x": 147.988101088,
+          "y": -130.035553491,
+          "z": 10.553769903,
+          "speed": 0.00134057779402,
+          "maximum_speed": 5.29578276707,
+          "contacts": [
+            "mountain_lakes_1km::terrain::lakebed"
+          ]
+        },
+        {
+          "name": "probe_western_lake_float",
+          "x": -278,
+          "y": -250,
+          "z": 26.0774895217,
+          "speed": 0.0121585720675,
+          "maximum_speed": 4.93891740432,
+          "contacts": []
+        },
+        {
+          "name": "probe_western_lake_sink",
+          "x": -262.012181817,
+          "y": -250.031203377,
+          "z": 18.5970293067,
+          "speed": 0.000883943762159,
+          "maximum_speed": 5.29578276707,
+          "contacts": [
+            "mountain_lakes_1km::terrain::lakebed"
+          ]
+        }
+      ],
+      "rays": []
+    },
+    "urban_river_1km": {
+      "simulated_s": 20,
+      "wall_s": 22.382702303,
+      "model_count": 826,
+      "all_trajectories_finite": true,
+      "probes": [
+        {
+          "name": "probe_road",
+          "x": -289.999900552,
+          "y": -399.999986713,
+          "z": 8.51977122586,
+          "speed": 0,
+          "maximum_speed": 4.43412,
+          "contacts": [
+            "city_roads_bridges::roads_bridges::avenue_1",
+            "city_roads_bridges::roads_bridges::street_1"
+          ]
+        },
+        {
+          "name": "probe_bridge",
+          "x": 160.000000001,
+          "y": -239.999999936,
+          "z": 8.51899980386,
+          "speed": 0,
+          "maximum_speed": 4.43412,
+          "contacts": [
+            "city_roads_bridges::roads_bridges::bridge_deck_0"
+          ]
+        },
+        {
+          "name": "probe_roof",
+          "x": -340.000001018,
+          "y": -288.000172347,
+          "z": 80.8996997596,
+          "speed": 0,
+          "maximum_speed": 4.43412,
+          "contacts": [
+            "block_0_0_3::building::roof"
+          ]
+        },
+        {
+          "name": "probe_grass",
+          "x": 320,
+          "y": -470,
+          "z": 8.49899560986,
+          "speed": 0,
+          "maximum_speed": 4.43412,
+          "contacts": [
+            "urban_river_terrain::terrain::grass"
+          ]
+        },
+        {
+          "name": "probe_rock",
+          "x": -130.003753211,
+          "y": 454.989485576,
+          "z": 121.475541928,
+          "speed": 0,
+          "maximum_speed": 4.40469,
+          "contacts": [
+            "urban_river_terrain::terrain::rock"
+          ]
+        },
+        {
+          "name": "probe_river_float",
+          "x": 148.091440638,
+          "y": -300,
+          "z": 5.07673700318,
+          "speed": 0.0132751156943,
+          "maximum_speed": 4.54046789282,
+          "contacts": []
+        },
+        {
+          "name": "probe_river_sink",
+          "x": 148.581872151,
+          "y": -310.006217244,
+          "z": -0.461371072134,
+          "speed": 2.93618972078e-05,
+          "maximum_speed": 4.96395993392,
+          "contacts": [
+            "urban_river_terrain::terrain::riverbed"
+          ]
+        }
+      ],
+      "rays": [
+        {
+          "name": "bridge_top",
+          "distance": 6.98,
+          "entity": "city_roads_bridges::roads_bridges::bridge_deck_1"
+        },
+        {
+          "name": "building_wall",
+          "distance": 16,
+          "entity": "block_0_0_3::building::main"
+        },
+        {
+          "name": "roof_top",
+          "distance": 27.6,
+          "entity": "block_0_0_3::building::roof"
+        },
+        {
+          "name": "river_bed_no_surface",
+          "distance": 10.9665155411,
+          "entity": "urban_river_terrain::terrain::riverbed"
+        },
+        {
+          "name": "original_steel",
+          "distance": 0.019989958033,
+          "entity": "power_corridor_0::structure::steel"
+        },
+        {
+          "name": "original_conductors",
+          "distance": 0.0199975948781,
+          "entity": "power_corridor_0::structure::conductors"
+        }
+      ]
+    }
+  },
+  "failures": [],
+  "passed": true
+}

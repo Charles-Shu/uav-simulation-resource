@@ -1,0 +1,577 @@
+{
+  "retrieved_utc": "2026-10-22T01:10:27.846507Z",
+  "provider": "Poly Haven",
+  "license": "CC0-1.0",
+  "license_page": "https://polyhaven.com/license",
+  "no_watermarks": "Original downloadable maps only; no previews or logos.",
+  "assets": [
+    {
+      "id": "grass_ground",
+      "name": "Grass Ground",
+      "authors": {
+        "Charlotte Baglioni": "All"
+      },
+      "asset_url": "https://polyhaven.com/a/grass_ground",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_dimensions_mm": [
+        2509.999990463257,
+        2509.999990463257
+      ],
+      "files": [
+        {
+          "kind": "diff",
+          "filename": "grass_ground_diff_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/grass_ground_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_ground/grass_ground_diff_1k.jpg",
+          "official_md5": "299047258586c762735b7284d3c662c3",
+          "actual_md5": "299047258586c762735b7284d3c662c3",
+          "sha256": "a79cc5ed65af0f80261b39a383b64a8c5272c5144d724deb43dbc29f0e4cd19b",
+          "size_bytes": 876584,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/grass_ground_diff_1k.jpg"
+        },
+        {
+          "kind": "nor_gl",
+          "filename": "grass_ground_nor_gl_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/grass_ground_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_ground/grass_ground_nor_gl_1k.jpg",
+          "official_md5": "d518c5b2af6f2c0297bc807b351f511f",
+          "actual_md5": "d518c5b2af6f2c0297bc807b351f511f",
+          "sha256": "7000e2ccd479bb7b66dcdf4faef7b47554324566886314ca620cbf03e274e826",
+          "size_bytes": 1310516,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/grass_ground_nor_gl_1k.jpg"
+        },
+        {
+          "kind": "rough",
+          "filename": "grass_ground_rough_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/grass_ground_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_ground/grass_ground_rough_1k.jpg",
+          "official_md5": "2e6afca246cf6b80bdb53f46fe7e5ce5",
+          "actual_md5": "2e6afca246cf6b80bdb53f46fe7e5ce5",
+          "sha256": "111341f948b7e073edf7ac6add8777e1bf10df8959400df3863243e89bbc8c08",
+          "size_bytes": 328190,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/grass_ground_rough_1k.jpg"
+        }
+      ]
+    },
+    {
+      "id": "leafy_grass",
+      "name": "Leafy Grass",
+      "authors": {
+        "Charlotte Baglioni": "All"
+      },
+      "asset_url": "https://polyhaven.com/a/leafy_grass",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_dimensions_mm": [
+        2000,
+        2000
+      ],
+      "files": [
+        {
+          "kind": "diff",
+          "filename": "leafy_grass_diff_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/leafy_grass_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_diff_1k.jpg",
+          "official_md5": "0dbc071e91d6905edfcfbe8eb785a1ab",
+          "actual_md5": "0dbc071e91d6905edfcfbe8eb785a1ab",
+          "sha256": "cfa40bc9d9417d1852db8753a8d5917f110c40101179f63543c382e39bc05e4a",
+          "size_bytes": 1195394,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/leafy_grass_diff_1k.jpg"
+        },
+        {
+          "kind": "nor_gl",
+          "filename": "leafy_grass_nor_gl_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/leafy_grass_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_nor_gl_1k.jpg",
+          "official_md5": "8279e096e204ea326d57a318869f99df",
+          "actual_md5": "8279e096e204ea326d57a318869f99df",
+          "sha256": "832328216adc0a7e1f70a31d5ee48c9ab7f2152d83816122736cf42ac4b2ebd6",
+          "size_bytes": 1466049,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/leafy_grass_nor_gl_1k.jpg"
+        },
+        {
+          "kind": "rough",
+          "filename": "leafy_grass_rough_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/leafy_grass_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_rough_1k.jpg",
+          "official_md5": "05f6bb1383e12b327727d313c5899cf2",
+          "actual_md5": "05f6bb1383e12b327727d313c5899cf2",
+          "sha256": "0c2a1d91aacb8e54a496051b59854e51e456fe858abeade778e308359ef16463",
+          "size_bytes": 511385,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/leafy_grass_rough_1k.jpg"
+        }
+      ]
+    },
+    {
+      "id": "rock_boulder_dry",
+      "name": "Rock Boulder Dry",
+      "authors": {
+        "Dimitrios Savva": "Photography",
+        "Rico Cilliers": "Processing"
+      },
+      "asset_url": "https://polyhaven.com/a/rock_boulder_dry",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_dimensions_mm": [
+        1799.9999523162842,
+        1800.0001907348633
+      ],
+      "files": [
+        {
+          "kind": "diff",
+          "filename": "rock_boulder_dry_diff_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/rock_boulder_dry_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_diff_1k.jpg",
+          "official_md5": "da794cd9be3db91e3160cf081109f322",
+          "actual_md5": "da794cd9be3db91e3160cf081109f322",
+          "sha256": "20f653a42fb24f42aa40641663070d578678da49af18cc1049dbdd4ed8679f3c",
+          "size_bytes": 859211,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/rock_boulder_dry_diff_1k.jpg"
+        },
+        {
+          "kind": "nor_gl",
+          "filename": "rock_boulder_dry_nor_gl_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/rock_boulder_dry_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_nor_gl_1k.jpg",
+          "official_md5": "6f1c575ceed560ae253f65518cf748e2",
+          "actual_md5": "6f1c575ceed560ae253f65518cf748e2",
+          "sha256": "5915fea28a97357c78a04fb31c2516f1f7ed1b3a9cef4ae25aa93e4655e6c595",
+          "size_bytes": 802497,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/rock_boulder_dry_nor_gl_1k.jpg"
+        },
+        {
+          "kind": "rough",
+          "filename": "rock_boulder_dry_rough_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/rock_boulder_dry_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_rough_1k.jpg",
+          "official_md5": "0c8b15df3e31c15256da5f8e1b0d0759",
+          "actual_md5": "0c8b15df3e31c15256da5f8e1b0d0759",
+          "sha256": "cc5229dd6bbdc4e817cb647e60242224b8e4f0237473ac018861ea243f2e8130",
+          "size_bytes": 668127,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/rock_boulder_dry_rough_1k.jpg"
+        }
+      ]
+    },
+    {
+      "id": "aerial_rocks_04",
+      "name": "Aerial Rocks 04",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "asset_url": "https://polyhaven.com/a/aerial_rocks_04",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_dimensions_mm": [
+        80000,
+        80000
+      ],
+      "files": [
+        {
+          "kind": "diff",
+          "filename": "aerial_rocks_04_diff_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/aerial_rocks_04_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_rocks_04/aerial_rocks_04_diff_1k.jpg",
+          "official_md5": "7ca11c8d520150d14c193056420ac086",
+          "actual_md5": "7ca11c8d520150d14c193056420ac086",
+          "sha256": "5ac472016a6740bd3c62b1d719bf128e0659022fb35853f4e847737522337ffa",
+          "size_bytes": 841479,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/aerial_rocks_04_diff_1k.jpg"
+        },
+        {
+          "kind": "nor_gl",
+          "filename": "aerial_rocks_04_nor_gl_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/aerial_rocks_04_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_rocks_04/aerial_rocks_04_nor_gl_1k.jpg",
+          "official_md5": "ba53584e58dcb1c43eb2435465dfa13d",
+          "actual_md5": "ba53584e58dcb1c43eb2435465dfa13d",
+          "sha256": "b4fe185783020d81b595397ef3b920475268a4873dc8b6efdd58f4312e07140b",
+          "size_bytes": 1242717,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/aerial_rocks_04_nor_gl_1k.jpg"
+        },
+        {
+          "kind": "rough",
+          "filename": "aerial_rocks_04_rough_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/aerial_rocks_04_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_rocks_04/aerial_rocks_04_rough_1k.jpg",
+          "official_md5": "b5d7bc82c2b8a4a76e2b33ff20b58cd3",
+          "actual_md5": "b5d7bc82c2b8a4a76e2b33ff20b58cd3",
+          "sha256": "1188f103fb1e1b08793cbbe2da73440cbedfdf4eefc576429990da905964a573",
+          "size_bytes": 449735,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/aerial_rocks_04_rough_1k.jpg"
+        }
+      ]
+    },
+    {
+      "id": "brown_mud",
+      "name": "Brown Mud",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "asset_url": "https://polyhaven.com/a/brown_mud",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_dimensions_mm": [
+        1299.996018409729,
+        1299.996018409729
+      ],
+      "files": [
+        {
+          "kind": "diff",
+          "filename": "brown_mud_diff_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/brown_mud_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud/brown_mud_diff_1k.jpg",
+          "official_md5": "b141af27b413db140818d0a4998c394c",
+          "actual_md5": "b141af27b413db140818d0a4998c394c",
+          "sha256": "df3f135c899f10a3b018738343b222cbc67d13e7c76c5d8da834a3d34c984417",
+          "size_bytes": 501955,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/brown_mud_diff_1k.jpg"
+        },
+        {
+          "kind": "nor_gl",
+          "filename": "brown_mud_nor_gl_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/brown_mud_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud/brown_mud_nor_gl_1k.jpg",
+          "official_md5": "62df05266fa5a0adc7733a7184a15dea",
+          "actual_md5": "62df05266fa5a0adc7733a7184a15dea",
+          "sha256": "ac517ca39eb507ae0f27e2b3db431c60888f9b5c3c52bec49d2c0775da0920cb",
+          "size_bytes": 1011780,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/brown_mud_nor_gl_1k.jpg"
+        },
+        {
+          "kind": "rough",
+          "filename": "brown_mud_rough_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/brown_mud_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud/brown_mud_rough_1k.jpg",
+          "official_md5": "fb4d5d8ef98ebee6a402955b99103a3a",
+          "actual_md5": "fb4d5d8ef98ebee6a402955b99103a3a",
+          "sha256": "ae9fb57c1173ccb4579f40edf8321a30bdca815042ffd72015a2a707c7e2e7ba",
+          "size_bytes": 340815,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/brown_mud_rough_1k.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sand_01",
+      "name": "Sand 01",
+      "authors": {
+        "Rob Tuytel": "All"
+      },
+      "asset_url": "https://polyhaven.com/a/sand_01",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_dimensions_mm": [
+        1500,
+        1500
+      ],
+      "files": [
+        {
+          "kind": "diff",
+          "filename": "sand_01_diff_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/sand_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_01/sand_01_diff_1k.jpg",
+          "official_md5": "c914c8edb419f040e04224081a3f79a5",
+          "actual_md5": "c914c8edb419f040e04224081a3f79a5",
+          "sha256": "a73b90eaa6d675ef57e7d48a8cf23e1f412e353ab2e29cf73930b8ecd4e76875",
+          "size_bytes": 485088,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/sand_01_diff_1k.jpg"
+        },
+        {
+          "kind": "nor_gl",
+          "filename": "sand_01_nor_gl_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/sand_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_01/sand_01_nor_gl_1k.jpg",
+          "official_md5": "369b82aa417c77ec85c4c07c4c7b60a0",
+          "actual_md5": "369b82aa417c77ec85c4c07c4c7b60a0",
+          "sha256": "73984aecdc35b1ffbc322d64b7f8d8165b06970d11f37dd47010609fcb532704",
+          "size_bytes": 877821,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/sand_01_nor_gl_1k.jpg"
+        },
+        {
+          "kind": "rough",
+          "filename": "sand_01_rough_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/sand_01_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_01/sand_01_rough_1k.jpg",
+          "official_md5": "663d0ddf782a427b7da4e247c939e73b",
+          "actual_md5": "663d0ddf782a427b7da4e247c939e73b",
+          "sha256": "ccb179b12c56a9032d60e4f4e2da690b3612a58e1784eb14576372690cdcd1cb",
+          "size_bytes": 189667,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified_against_current_official_md5",
+          "reused_from": "scene_sources/mountain_lakes_1km/source_textures/sand_01_rough_1k.jpg"
+        }
+      ]
+    },
+    {
+      "id": "clean_asphalt",
+      "name": "Clean Asphalt",
+      "authors": {
+        "Dimitrios Savva": "All"
+      },
+      "asset_url": "https://polyhaven.com/a/clean_asphalt",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_dimensions_mm": [
+        2099.9999046325684,
+        2099.9999046325684
+      ],
+      "files": [
+        {
+          "kind": "diff",
+          "filename": "clean_asphalt_diff_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/clean_asphalt_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/clean_asphalt/clean_asphalt_diff_1k.jpg",
+          "official_md5": "7edccb95cbf72e63889baade8455f9e5",
+          "actual_md5": "7edccb95cbf72e63889baade8455f9e5",
+          "sha256": "ddf9224e9cfa3eb2998d9097e4cd34bd3630c85e0e6798e5a0a000415a684083",
+          "size_bytes": 697630,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified_against_current_official_md5"
+        },
+        {
+          "kind": "nor_gl",
+          "filename": "clean_asphalt_nor_gl_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/clean_asphalt_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/clean_asphalt/clean_asphalt_nor_gl_1k.jpg",
+          "official_md5": "24dadd366637a722b59c19a672cbbcf6",
+          "actual_md5": "24dadd366637a722b59c19a672cbbcf6",
+          "sha256": "99cdf6b6f0b8a319d206e1d561bf2a5d9933d8d33e1d685f8e25388101d21310",
+          "size_bytes": 776360,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified_against_current_official_md5"
+        },
+        {
+          "kind": "rough",
+          "filename": "clean_asphalt_rough_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/clean_asphalt_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/clean_asphalt/clean_asphalt_rough_1k.jpg",
+          "official_md5": "4238f2eab76530f4b0c66ddb929b142d",
+          "actual_md5": "4238f2eab76530f4b0c66ddb929b142d",
+          "sha256": "2280be133c104eb04370b625ebcc7f6709d2173b43ae2cd15a0074c26f492bf9",
+          "size_bytes": 641634,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified_against_current_official_md5"
+        }
+      ]
+    },
+    {
+      "id": "concrete_pavement_02",
+      "name": "Concrete Pavement 02",
+      "authors": {
+        "Charlotte Baglioni": "All"
+      },
+      "asset_url": "https://polyhaven.com/a/concrete_pavement_02",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_dimensions_mm": [
+        1800.0000715255737,
+        1800.0000715255737
+      ],
+      "files": [
+        {
+          "kind": "diff",
+          "filename": "concrete_pavement_02_diff_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/concrete_pavement_02_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_pavement_02/concrete_pavement_02_diff_1k.jpg",
+          "official_md5": "bdee8d4deebb78609414453a5fb299e2",
+          "actual_md5": "bdee8d4deebb78609414453a5fb299e2",
+          "sha256": "e129ee6b59b6ed7f65b4c4c5ba9eb583d13d040ec26bef5d5d4e0080fe342e7a",
+          "size_bytes": 1052909,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified_against_current_official_md5"
+        },
+        {
+          "kind": "nor_gl",
+          "filename": "concrete_pavement_02_nor_gl_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/concrete_pavement_02_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_pavement_02/concrete_pavement_02_nor_gl_1k.jpg",
+          "official_md5": "2c8ea332b4274e8728c5aa0ecf467d26",
+          "actual_md5": "2c8ea332b4274e8728c5aa0ecf467d26",
+          "sha256": "26c09320b3373da7f55edb8165562f16d36c07161c9c715787a09daf5910450c",
+          "size_bytes": 1212387,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified_against_current_official_md5"
+        },
+        {
+          "kind": "rough",
+          "filename": "concrete_pavement_02_rough_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/concrete_pavement_02_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_pavement_02/concrete_pavement_02_rough_1k.jpg",
+          "official_md5": "13784e8a94bc8c6d4c34e908df7646b3",
+          "actual_md5": "13784e8a94bc8c6d4c34e908df7646b3",
+          "sha256": "966ee3d1a6d343e5e72d5536fde7c04ecd32e6e95efc879a102effc527f5b679",
+          "size_bytes": 541803,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified_against_current_official_md5"
+        }
+      ]
+    },
+    {
+      "id": "rough_concrete",
+      "name": "Rough Concrete",
+      "authors": {
+        "Dimitrios Savva": "All"
+      },
+      "asset_url": "https://polyhaven.com/a/rough_concrete",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_dimensions_mm": [
+        1230.0000190734863,
+        1230.0000190734863
+      ],
+      "files": [
+        {
+          "kind": "diff",
+          "filename": "rough_concrete_diff_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/rough_concrete_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rough_concrete/rough_concrete_diff_1k.jpg",
+          "official_md5": "82909f2db1e0453500703ae54e806f5c",
+          "actual_md5": "82909f2db1e0453500703ae54e806f5c",
+          "sha256": "dd7fc03e152eb8c2fd511248aa2e9bf7428a645bd0e0b74ac1d887ad136cb0bc",
+          "size_bytes": 1042065,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified_against_current_official_md5"
+        },
+        {
+          "kind": "nor_gl",
+          "filename": "rough_concrete_nor_gl_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/rough_concrete_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rough_concrete/rough_concrete_nor_gl_1k.jpg",
+          "official_md5": "61f785d44cdbf0b9f3bc68e471177358",
+          "actual_md5": "61f785d44cdbf0b9f3bc68e471177358",
+          "sha256": "54c85854ad5cafb16840df91a605c857bdf3d07fa79f11921c8327fccf6423ae",
+          "size_bytes": 1447537,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified_against_current_official_md5"
+        },
+        {
+          "kind": "rough",
+          "filename": "rough_concrete_rough_1k.jpg",
+          "path": "scene_sources/urban_river_1km/source_textures/rough_concrete_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rough_concrete/rough_concrete_rough_1k.jpg",
+          "official_md5": "4b530c64e200c3190f527ccc04a4c919",
+          "actual_md5": "4b530c64e200c3190f527ccc04a4c919",
+          "sha256": "2d392a3e0d44087ddecc0cd3fd27367a6cc0c16f94bbba2e8fbfbdf77eb105be",
+          "size_bytes": 566436,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified_against_current_official_md5"
+        }
+      ]
+    }
+  ]
+}

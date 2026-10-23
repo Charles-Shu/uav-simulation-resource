@@ -1,0 +1,702 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sdf version="1.6"><world name="mountain_lakes_1km"><gravity>0 0 -9.81</gravity>
+<physics name="terrain_ode" type="ode"><max_step_size>.001</max_step_size><real_time_update_rate>1000</real_time_update_rate><ode><solver><type>quick</type><iters>100</iters><sor>1.3</sor></solver><constraints><cfm>0</cfm><erp>.2</erp><contact_max_correcting_vel>1</contact_max_correcting_vel><contact_surface_layer>.001</contact_surface_layer></constraints></ode></physics>
+<scene><ambient>.42 .44 .47 1</ambient><background>.58 .70 .82 1</background><shadows>false</shadows><grid>false</grid></scene>
+<light name="mountain_sun" type="directional"><cast_shadows>false</cast_shadows><pose>0 0 1000 0 0 0</pose><diffuse>.72 .70 .66 1</diffuse><specular>.6 .65 .7 1</specular><attenuation><range>10000</range><constant>1</constant><linear>0</linear><quadratic>0</quadratic></attenuation><direction>-.55 .3 -.78</direction></light>
+<include><uri>model://mountain_lakes_1km</uri></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_000</name><pose>-366.5196 -166.0608 42.8546 0 0 -1.787604</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_001</name><pose>-276.4123 -41.4182 61.2435 0 0 0.400675</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_002</name><pose>-356.6905 -97.4338 50.1029 0 0 1.433227</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_003</name><pose>-267.1857 -102.8084 50.6943 0 0 -2.701371</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_004</name><pose>-440.3717 -61.0972 76.7002 0 0 1.799316</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_005</name><pose>-320.6154 -70.9884 53.5187 0 0 2.370398</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_006</name><pose>-428.4049 -106.3560 65.3236 0 0 -1.642718</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_007</name><pose>-284.5442 -51.8222 58.0680 0 0 1.862532</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_008</name><pose>-342.2551 -127.4461 44.6542 0 0 -1.672003</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_009</name><pose>-294.5567 -130.4548 47.1634 0 0 0.787479</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_010</name><pose>-382.4809 -80.6838 60.3701 0 0 -2.293199</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_011</name><pose>-320.8575 -138.6473 45.3970 0 0 2.522201</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_012</name><pose>-332.1523 -118.5103 45.7896 0 0 1.795230</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_013</name><pose>-443.3990 -146.2565 61.0736 0 0 2.487995</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_014</name><pose>-288.2421 -112.4203 49.0267 0 0 -2.556978</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_015</name><pose>-440.0653 -122.9924 65.6981 0 0 -0.062090</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_016</name><pose>-335.9145 -96.1431 48.7362 0 0 -2.747390</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_017</name><pose>-404.5365 -41.6463 75.2131 0 0 0.667314</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_018</name><pose>-315.6898 -121.1528 46.7704 0 0 1.076091</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_019</name><pose>-374.5153 -116.8106 48.6122 0 0 -0.468563</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_020</name><pose>-416.5290 -82.0326 68.1093 0 0 -1.054496</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_021</name><pose>-472.4567 -60.1172 77.7172 0 0 -1.466935</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_022</name><pose>-401.6074 -127.9320 53.1209 0 0 2.720227</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_023</name><pose>-413.0781 -151.8761 51.0522 0 0 3.064911</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_024</name><pose>-341.6113 -105.1948 47.3490 0 0 2.761831</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_025</name><pose>-266.6868 -62.0501 55.8002 0 0 1.109962</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_026</name><pose>-398.4400 -110.5611 56.8250 0 0 -1.247173</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_027</name><pose>-381.1173 -172.6060 43.7331 0 0 0.477081</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_028</name><pose>-368.3156 -176.7466 43.1224 0 0 2.782327</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_029</name><pose>-278.7067 -78.5369 52.9180 0 0 -1.187639</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_030</name><pose>-266.7050 -86.4637 52.5200 0 0 0.663527</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_031</name><pose>-302.5279 -49.8195 59.3260 0 0 -1.396700</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_032</name><pose>-292.4281 -63.9816 54.9241 0 0 -1.354242</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_033</name><pose>-333.0624 -82.5668 51.8099 0 0 0.708888</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_034</name><pose>-425.5764 -136.4650 58.5713 0 0 0.713510</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_035</name><pose>-474.9276 -48.5439 79.8463 0 0 2.958945</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_036</name><pose>-364.3806 -153.3064 43.0011 0 0 0.014849</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_037</name><pose>-467.3706 -97.9341 72.3883 0 0 -0.616023</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_038</name><pose>-339.2054 -151.5608 43.4378 0 0 -0.589699</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_039</name><pose>-285.9914 -139.3539 46.4727 0 0 -1.359926</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_040</name><pose>-319.0781 -153.2685 44.1133 0 0 3.100567</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_041</name><pose>-311.9541 -77.2168 51.8555 0 0 1.801363</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_042</name><pose>-420.4901 -33.9121 82.4323 0 0 -2.350519</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_043</name><pose>-350.1241 -156.4161 43.0181 0 0 -1.705018</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_044</name><pose>-355.1541 -189.0720 42.4656 0 0 1.754052</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_045</name><pose>-453.4592 -100.5451 70.5023 0 0 1.004683</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_046</name><pose>-398.3134 -85.4301 63.9633 0 0 2.836391</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_047</name><pose>-353.4855 -134.8683 43.9593 0 0 2.287445</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_048</name><pose>-322.7422 -56.0810 58.5683 0 0 3.097822</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_049</name><pose>-408.8128 -108.8878 60.0280 0 0 2.738612</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_050</name><pose>-328.8720 -162.2335 43.1917 0 0 1.747532</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_051</name><pose>-392.0334 -160.2164 45.3767 0 0 -2.465887</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_052</name><pose>-440.3300 -80.6017 71.4956 0 0 1.628833</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_053</name><pose>-403.2686 -176.0646 45.0956 0 0 -0.117582</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_054</name><pose>-465.3789 -70.4486 75.5351 0 0 -2.839049</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_055</name><pose>-323.8966 -128.1598 45.8126 0 0 2.836887</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_056</name><pose>-419.2986 -163.6513 49.7794 0 0 -3.028347</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_057</name><pose>-343.2114 -170.8305 42.8820 0 0 0.333545</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_058</name><pose>-304.1779 -126.0227 47.2874 0 0 0.657649</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_059</name><pose>-277.9541 -60.9309 55.9369 0 0 -0.252392</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_060</name><pose>-458.8727 -31.0705 85.7808 0 0 -2.644811</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_061</name><pose>-453.4040 -89.0789 71.6693 0 0 2.836144</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_062</name><pose>-401.4742 -150.9657 48.2903 0 0 0.449199</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_063</name><pose>-294.9449 -158.7709 44.0004 0 0 0.923156</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_064</name><pose>-370.1524 -74.9920 58.6765 0 0 -3.099230</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_065</name><pose>-394.0659 -64.4833 66.9570 0 0 2.876800</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_066</name><pose>-356.8622 -144.9268 43.2879 0 0 2.122575</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_067</name><pose>-365.0164 -109.4823 48.4971 0 0 1.975177</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_068</name><pose>-375.6359 -148.7461 44.2256 0 0 2.391950</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_069</name><pose>-449.8495 -111.1092 69.1628 0 0 -0.659026</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_070</name><pose>-405.6285 -59.5683 70.7002 0 0 -1.187507</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_071</name><pose>-348.1229 -91.2301 50.8090 0 0 -0.382301</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_072</name><pose>-397.9135 -185.4611 44.0362 0 0 -1.665797</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_073</name><pose>-307.5075 -138.0778 46.3122 0 0 -1.512462</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_074</name><pose>-290.9085 -101.5553 49.6298 0 0 2.190785</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_075</name><pose>-296.1535 -142.3569 46.1154 0 0 0.059796</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_076</name><pose>-427.6673 -51.6848 79.0904 0 0 -0.442687</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_077</name><pose>-320.4147 -96.0240 48.5235 0 0 -0.335080</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_078</name><pose>-278.2978 -99.8676 50.6052 0 0 1.072160</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_079</name><pose>-376.2376 -89.5557 56.1231 0 0 2.795426</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_080</name><pose>-402.8162 -164.7374 46.3778 0 0 2.653339</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_081</name><pose>-281.0496 -120.8952 48.4069 0 0 -2.102086</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_082</name><pose>-381.5727 -108.4982 52.2137 0 0 -1.047867</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_083</name><pose>-394.9038 -138.4692 49.3096 0 0 -2.579807</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_084</name><pose>-319.3800 -110.2498 46.9268 0 0 -2.786955</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_085</name><pose>-386.3636 -186.9524 43.9207 0 0 -3.130605</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_086</name><pose>-458.8036 -54.0963 79.6225 0 0 -0.442140</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_087</name><pose>-474.9497 -37.4107 82.5255 0 0 2.245373</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_088</name><pose>-264.0726 -74.5938 54.2054 0 0 2.018761</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_089</name><pose>-364.0168 -129.8443 44.9608 0 0 -1.607579</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_090</name><pose>-420.8696 -60.4898 74.3675 0 0 -0.379793</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_091</name><pose>-306.5322 -66.2209 54.3244 0 0 1.641912</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_092</name><pose>-392.4985 -174.1608 44.3944 0 0 1.212765</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_093</name><pose>-309.3471 -91.0490 49.6429 0 0 1.398693</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_094</name><pose>-417.6618 -95.7531 65.0829 0 0 -2.874804</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_095</name><pose>-442.8266 -40.6482 84.7895 0 0 -1.145688</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_096</name><pose>-439.8624 -105.4632 67.8720 0 0 -0.117384</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_097</name><pose>-340.7491 -70.1258 56.5879 0 0 -1.643810</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_098</name><pose>-421.2369 -118.8099 61.1100 0 0 -0.581318</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_099</name><pose>-390.7317 -120.1982 51.8865 0 0 0.411815</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_100</name><pose>-303.9046 -110.5527 48.0006 0 0 -0.556089</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_101</name><pose>-412.3250 -125.3890 56.7825 0 0 1.280999</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_102</name><pose>-288.2037 -150.5485 45.2623 0 0 -1.961953</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_103</name><pose>-354.8310 -120.4035 45.5601 0 0 0.123877</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_104</name><pose>-402.9958 -97.8729 61.7768 0 0 1.593670</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_105</name><pose>-451.5560 -139.1443 65.0080 0 0 0.980761</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_106</name><pose>-429.4656 -86.8637 68.4553 0 0 -2.804063</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_107</name><pose>-374.3076 -191.7407 43.5565 0 0 -0.192635</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_108</name><pose>-381.2853 -136.3141 46.6622 0 0 3.040005</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_109</name><pose>-251.3577 -52.4075 60.1506 0 0 -0.239461</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_110</name><pose>-330.6688 -63.1259 57.1012 0 0 0.151743</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_111</name><pose>-255.3275 -82.2370 53.4621 0 0 1.968873</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_112</name><pose>-469.4718 -86.6730 73.0600 0 0 -2.842998</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_1_oak_tree_113</name><pose>-432.0657 -39.3843 83.6246 0 0 -1.859994</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_114</name><pose>-356.5896 -76.1537 56.1264 0 0 0.297709</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_115</name><pose>-431.6742 -72.6714 72.1739 0 0 0.529024</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_116</name><pose>-457.1914 -129.3334 68.1717 0 0 -0.285475</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_117</name><pose>-409.0417 -137.3956 53.1451 0 0 0.314888</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_118</name><pose>-433.9551 -152.6055 56.5945 0 0 2.703742</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_1_pine_tree_119</name><pose>-254.2929 -63.7107 56.7780 0 0 0.687028</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_000</name><pose>-227.2251 -350.7411 44.8877 0 0 2.334850</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_001</name><pose>-99.5228 -389.7600 51.1241 0 0 -1.503191</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_002</name><pose>-231.5803 -432.6609 44.4490 0 0 -2.148329</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_003</name><pose>-128.2672 -332.2654 49.0798 0 0 -2.264279</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_004</name><pose>-152.8402 -319.6120 47.6858 0 0 1.311545</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_005</name><pose>-176.5545 -463.1875 44.1492 0 0 2.372391</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_006</name><pose>-250.5268 -334.9786 42.9274 0 0 1.225818</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_007</name><pose>-116.4647 -369.3119 50.6772 0 0 2.284847</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_008</name><pose>-72.6026 -452.5249 48.7976 0 0 -0.263857</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_009</name><pose>-241.3415 -357.6346 44.3673 0 0 2.948163</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_010</name><pose>-215.3064 -441.8623 44.2338 0 0 -2.024874</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_011</name><pose>-231.7266 -375.7940 46.0369 0 0 0.239524</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_012</name><pose>-20.5175 -401.1347 51.6572 0 0 2.498169</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_013</name><pose>-163.5950 -462.1504 44.5462 0 0 -0.762704</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_014</name><pose>-255.5954 -345.3451 43.1219 0 0 0.142381</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_015</name><pose>-18.5268 -345.3341 50.2712 0 0 -3.071918</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_016</name><pose>-202.1101 -372.0641 48.2847 0 0 0.357892</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_017</name><pose>-160.9846 -311.4287 46.8844 0 0 1.265681</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_018</name><pose>-201.5654 -396.8492 48.8641 0 0 -0.054610</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_019</name><pose>-1.2871 -354.1738 49.9613 0 0 1.058256</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_020</name><pose>-283.3090 -404.7449 44.0797 0 0 -0.222976</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_021</name><pose>-141.8402 -456.7991 46.0214 0 0 3.123556</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_022</name><pose>-172.2999 -345.3160 48.2941 0 0 1.311388</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_023</name><pose>-219.8077 -378.2164 47.1056 0 0 -0.627536</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_024</name><pose>-140.7019 -357.4187 49.9366 0 0 2.437367</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_025</name><pose>-103.2254 -458.9624 47.4002 0 0 2.178830</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_026</name><pose>-96.0979 -418.1525 50.8612 0 0 0.920755</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_027</name><pose>-14.1274 -357.0588 50.8206 0 0 -2.929828</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_028</name><pose>-127.6827 -361.1304 50.2054 0 0 -1.288404</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_029</name><pose>-139.4629 -336.7057 48.9093 0 0 -0.406003</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_030</name><pose>-197.2303 -415.9250 48.5214 0 0 1.460331</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_031</name><pose>-81.8499 -336.7894 50.3389 0 0 2.688906</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_032</name><pose>-196.6295 -336.4633 45.5693 0 0 1.338287</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_033</name><pose>-85.9660 -407.5723 51.5450 0 0 1.570624</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_034</name><pose>-125.7296 -401.2837 50.2324 0 0 -1.631114</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_035</name><pose>-296.3263 -396.3037 43.5480 0 0 -1.916893</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_036</name><pose>-275.7127 -415.9064 43.9627 0 0 -2.151410</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_037</name><pose>-131.5712 -312.2769 48.1749 0 0 -2.579948</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_038</name><pose>-146.5129 -430.8130 48.3912 0 0 1.948857</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_039</name><pose>-114.2603 -462.3784 46.4619 0 0 2.324221</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_040</name><pose>-144.4571 -400.5884 50.2677 0 0 -2.603777</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_041</name><pose>-131.6659 -461.2945 45.8881 0 0 -1.280011</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_042</name><pose>-214.4770 -392.3467 47.8026 0 0 0.057731</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_043</name><pose>-262.9781 -424.4299 43.9711 0 0 -1.036357</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_044</name><pose>-122.3953 -452.6834 47.3475 0 0 -0.199811</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_045</name><pose>-252.8384 -357.7369 43.7057 0 0 1.676101</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_046</name><pose>-133.7280 -417.1939 49.4569 0 0 -1.083441</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_047</name><pose>-150.0388 -464.7657 44.8219 0 0 2.758214</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_048</name><pose>-152.3621 -350.4574 49.5074 0 0 2.145696</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_049</name><pose>-203.0107 -425.7904 47.2241 0 0 2.563373</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_050</name><pose>-173.9344 -388.1600 50.5169 0 0 2.748318</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_051</name><pose>-281.8901 -389.9874 44.1294 0 0 0.528764</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_052</name><pose>-184.2819 -356.9102 48.3180 0 0 0.672109</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_053</name><pose>-162.0548 -421.8338 48.9041 0 0 -0.776238</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_054</name><pose>-77.1825 -347.1913 50.8749 0 0 -2.427329</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_055</name><pose>-161.6425 -398.9227 50.3739 0 0 -3.117992</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_056</name><pose>-145.6236 -288.5077 46.6661 0 0 0.596196</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_057</name><pose>-118.5956 -295.6154 47.8850 0 0 2.419736</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_058</name><pose>-221.9627 -366.2099 46.3503 0 0 0.589714</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_059</name><pose>-209.9961 -365.0853 47.1640 0 0 2.352425</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_060</name><pose>-248.6131 -401.0465 45.6735 0 0 1.386752</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_061</name><pose>-181.7923 -426.7061 48.3611 0 0 2.704550</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_062</name><pose>-2.2378 -385.7223 51.3225 0 0 0.909129</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_063</name><pose>-211.7291 -340.8832 45.0846 0 0 1.221547</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_064</name><pose>-87.6895 -451.2699 48.5848 0 0 1.550883</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_065</name><pose>-62.5348 -448.7873 49.5445 0 0 -1.617614</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_066</name><pose>-184.1254 -385.2989 49.9871 0 0 -0.360846</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_067</name><pose>-215.0253 -409.1529 47.6372 0 0 -1.173710</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_068</name><pose>-213.0621 -419.4856 47.1153 0 0 -0.620429</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_069</name><pose>-287.3884 -345.1718 42.8193 0 0 -2.511999</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_070</name><pose>-173.5620 -314.6902 45.9691 0 0 -2.950645</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_071</name><pose>-72.0399 -421.8751 51.0269 0 0 0.001707</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_072</name><pose>-240.4395 -422.3117 45.3210 0 0 -2.072082</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_073</name><pose>-22.5118 -424.6837 51.1491 0 0 0.579499</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_074</name><pose>-275.4110 -332.4387 42.6588 0 0 0.414688</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_075</name><pose>-134.2099 -349.1251 49.5343 0 0 2.075060</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_076</name><pose>-116.9240 -311.3308 48.5498 0 0 3.064260</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_077</name><pose>-123.7122 -350.5661 49.8237 0 0 -2.397764</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_078</name><pose>-268.1725 -396.0550 44.5570 0 0 -1.829711</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_079</name><pose>-183.7788 -320.7502 45.2123 0 0 -2.385222</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_080</name><pose>-160.8687 -377.9794 50.8012 0 0 1.263683</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_081</name><pose>-100.0565 -341.3421 50.0305 0 0 -0.432325</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_082</name><pose>-214.4474 -353.0947 45.8859 0 0 -1.518850</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_083</name><pose>-11.9098 -374.5028 51.6381 0 0 -1.286897</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_084</name><pose>-134.5352 -390.9020 50.6152 0 0 -3.051196</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_085</name><pose>-105.5301 -436.2602 49.4534 0 0 1.922654</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_086</name><pose>-293.0296 -364.8441 43.1157 0 0 -0.324134</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_087</name><pose>9.0533 -361.5011 50.1061 0 0 1.642683</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_088</name><pose>-68.2833 -356.7111 51.4326 0 0 -3.133169</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_089</name><pose>-77.4242 -439.7398 49.8589 0 0 0.997080</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_090</name><pose>-153.9181 -302.5526 46.8292 0 0 0.509457</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_091</name><pose>-299.6876 -356.5057 42.6989 0 0 -2.688304</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_092</name><pose>-268.5754 -363.1060 43.5781 0 0 0.510919</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_093</name><pose>-83.0377 -314.1724 49.3035 0 0 1.953713</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_094</name><pose>-161.2386 -344.7136 48.8810 0 0 0.946770</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_095</name><pose>-127.5814 -432.2234 48.9910 0 0 1.484268</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_096</name><pose>-303.4176 -386.2037 43.0491 0 0 -0.848499</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_097</name><pose>-84.7614 -418.6061 51.0520 0 0 -0.646644</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_098</name><pose>-229.4410 -422.1412 45.8018 0 0 2.597567</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_099</name><pose>-69.4738 -397.9937 52.1134 0 0 -1.369215</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_100</name><pose>-97.3642 -325.7225 49.3810 0 0 -3.110261</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_101</name><pose>-251.9295 -369.0399 44.1566 0 0 -0.201751</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_102</name><pose>-240.6518 -342.2429 43.5959 0 0 -0.219115</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_103</name><pose>-265.4654 -382.0495 44.1114 0 0 -0.333257</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_104</name><pose>-251.8170 -424.1595 44.5815 0 0 -2.144494</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_105</name><pose>-109.0918 -413.6447 50.4921 0 0 -1.931160</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_106</name><pose>-113.2025 -400.8429 50.6653 0 0 1.942087</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_107</name><pose>-163.6485 -364.0048 50.1566 0 0 -3.056333</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_108</name><pose>-107.5281 -288.2617 47.5624 0 0 -2.722200</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_109</name><pose>-184.9198 -398.9978 49.9577 0 0 2.915772</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_110</name><pose>-71.0897 -371.3708 52.2921 0 0 -0.925181</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_111</name><pose>-122.3948 -416.7157 49.6216 0 0 2.230277</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_112</name><pose>-197.3733 -360.3679 47.6901 0 0 -2.524602</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_113</name><pose>-71.4312 -326.1217 50.0192 0 0 2.295756</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_114</name><pose>-262.1362 -408.7993 44.9485 0 0 -0.447844</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_115</name><pose>-26.3098 -355.7023 51.4971 0 0 -0.559960</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_116</name><pose>5.1583 -403.8170 50.3250 0 0 0.277933</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_2_oak_tree_117</name><pose>-192.7395 -348.5747 46.9780 0 0 -0.547156</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_118</name><pose>-165.6653 -334.0637 47.9223 0 0 2.829646</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_2_pine_tree_119</name><pose>-250.0774 -413.0439 45.4752 0 0 -2.563932</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_000</name><pose>347.9969 -416.0483 57.7145 0 0 1.020155</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_001</name><pose>437.5805 -255.3768 61.4483 0 0 -1.217748</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_002</name><pose>422.1082 -259.7603 60.5432 0 0 -2.980991</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_003</name><pose>334.6518 -352.6029 57.9315 0 0 1.399642</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_004</name><pose>377.1900 -220.5534 57.0390 0 0 -0.354695</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_005</name><pose>387.8716 -322.0000 59.5257 0 0 -1.976433</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_006</name><pose>352.4221 -266.4463 55.8176 0 0 -0.128502</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_007</name><pose>426.1095 -318.2122 61.5402 0 0 2.925833</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_008</name><pose>406.0476 -315.2827 61.0003 0 0 -0.144224</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_009</name><pose>420.5813 -387.7486 57.8502 0 0 -2.312643</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_010</name><pose>379.5661 -269.4310 57.5416 0 0 -0.464875</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_011</name><pose>460.7210 -236.5723 62.0598 0 0 0.122719</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_012</name><pose>406.7694 -377.2717 59.5073 0 0 0.240430</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_013</name><pose>358.3671 -357.3673 59.7281 0 0 -1.816923</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_014</name><pose>385.8441 -415.7934 58.1140 0 0 2.326886</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_015</name><pose>420.4286 -335.6527 60.8683 0 0 2.782150</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_016</name><pose>336.3320 -396.0586 57.9002 0 0 -1.998343</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_017</name><pose>381.8500 -283.8473 58.0674 0 0 1.148119</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_018</name><pose>435.6731 -334.4729 60.9012 0 0 1.292810</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_019</name><pose>365.3832 -338.4867 58.9651 0 0 -1.614730</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_020</name><pose>326.2162 -260.0692 54.6119 0 0 -2.596066</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_021</name><pose>349.6794 -312.4969 56.6822 0 0 0.589006</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_022</name><pose>411.0689 -294.6871 61.2500 0 0 -1.915791</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_023</name><pose>373.1597 -299.7579 57.6798 0 0 0.923579</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_024</name><pose>444.0526 -309.9670 62.4977 0 0 -1.600789</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_025</name><pose>363.7854 -326.3346 58.0007 0 0 -2.052924</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_026</name><pose>302.5636 -302.8961 54.6634 0 0 1.577315</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_027</name><pose>370.0815 -368.0662 59.9885 0 0 0.222879</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_028</name><pose>400.4355 -339.4093 60.6913 0 0 2.969535</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_029</name><pose>415.5814 -350.8498 60.2895 0 0 -0.098319</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_030</name><pose>336.6749 -363.1200 58.4117 0 0 -1.005098</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_031</name><pose>349.4442 -168.3168 51.8826 0 0 -1.072558</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_032</name><pose>298.1579 -247.8433 52.2468 0 0 -0.111869</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_033</name><pose>423.8154 -359.9585 59.3434 0 0 1.171054</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_034</name><pose>358.6777 -301.1043 56.7373 0 0 -0.615230</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_035</name><pose>396.6088 -405.8925 58.2425 0 0 -0.609421</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_036</name><pose>327.4459 -274.6450 54.5839 0 0 -2.478246</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_037</name><pose>425.7681 -249.3172 60.3901 0 0 1.104569</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_038</name><pose>435.1758 -295.7896 62.3938 0 0 2.202628</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_039</name><pose>313.3938 -258.7587 53.7921 0 0 2.624903</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_040</name><pose>322.3077 -363.9124 56.5310 0 0 0.694691</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_041</name><pose>361.2410 -398.4360 59.0315 0 0 -1.973417</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_042</name><pose>295.7786 -330.6802 54.1447 0 0 -0.672396</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_043</name><pose>342.8788 -260.9155 55.4659 0 0 2.368613</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_044</name><pose>343.1851 -188.5689 53.1917 0 0 -0.694742</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_045</name><pose>377.6299 -375.9565 59.9390 0 0 2.317346</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_046</name><pose>333.2278 -197.7667 53.2391 0 0 1.653674</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_047</name><pose>365.4792 -268.5224 56.4894 0 0 2.371081</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_048</name><pose>391.4443 -222.0525 57.2268 0 0 -2.060871</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_049</name><pose>361.2531 -248.0748 56.4343 0 0 -2.202558</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_050</name><pose>311.9526 -226.7866 52.1981 0 0 1.880081</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_051</name><pose>318.4084 -303.2945 55.0369 0 0 -1.847879</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_052</name><pose>451.5167 -289.7990 63.6172 0 0 -2.935284</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_053</name><pose>351.5079 -367.9863 59.4336 0 0 -2.318001</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_054</name><pose>449.2399 -354.6391 58.4563 0 0 0.293929</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_055</name><pose>384.0433 -311.8128 58.9123 0 0 2.821429</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_056</name><pose>405.7014 -416.5428 57.2147 0 0 -2.036356</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_057</name><pose>405.4144 -397.2032 58.4208 0 0 3.079773</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_058</name><pose>368.3424 -280.7705 56.8833 0 0 3.026670</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_059</name><pose>461.7632 -302.7803 63.0764 0 0 -3.029635</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_060</name><pose>335.3707 -215.0106 54.3549 0 0 2.509417</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_061</name><pose>353.8532 -212.2031 55.2584 0 0 -1.473018</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_062</name><pose>424.5579 -370.4965 58.5108 0 0 1.518631</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_063</name><pose>328.9639 -324.3609 56.1396 0 0 -2.843936</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_064</name><pose>449.7434 -271.7778 63.1030 0 0 2.192601</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_065</name><pose>396.3474 -384.6417 59.8088 0 0 1.344722</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_066</name><pose>400.1088 -363.7712 60.3201 0 0 3.049678</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_067</name><pose>372.5689 -416.4325 58.2289 0 0 -1.876308</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_068</name><pose>336.0003 -244.5483 55.2012 0 0 -2.283208</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_069</name><pose>455.3691 -250.3524 62.4543 0 0 -2.822785</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_070</name><pose>340.7788 -328.6692 57.0149 0 0 1.466160</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_071</name><pose>344.1269 -236.5006 55.6494 0 0 -2.579485</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_072</name><pose>374.1542 -316.2469 58.1554 0 0 2.712388</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_073</name><pose>392.9684 -295.0488 59.6019 0 0 2.763530</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_074</name><pose>411.7308 -325.9467 61.1082 0 0 3.004542</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_075</name><pose>357.4008 -150.3118 52.4352 0 0 2.779698</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_076</name><pose>324.7064 -210.7548 53.1282 0 0 1.268572</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_077</name><pose>353.4852 -382.8577 59.2985 0 0 1.368186</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_078</name><pose>338.1537 -340.8166 57.5846 0 0 -0.653359</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_079</name><pose>436.8044 -276.3319 62.2926 0 0 1.621895</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_080</name><pose>304.7152 -218.4199 50.9920 0 0 2.263252</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_081</name><pose>317.8368 -239.6669 53.5110 0 0 -2.038641</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_082</name><pose>372.8678 -392.9440 59.4374 0 0 -0.929506</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_083</name><pose>382.5610 -334.6208 59.6555 0 0 -0.576861</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_084</name><pose>373.2969 -349.6347 60.0154 0 0 1.622627</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_085</name><pose>416.3402 -403.1245 57.2974 0 0 -1.253348</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_086</name><pose>434.8982 -390.7567 56.6463 0 0 3.112727</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_087</name><pose>288.0088 -296.1640 53.9437 0 0 2.772410</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_088</name><pose>360.3731 -314.7624 57.2626 0 0 0.558417</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_089</name><pose>353.6935 -343.0533 58.7134 0 0 -0.801695</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_090</name><pose>450.1168 -321.5837 61.9748 0 0 -0.448464</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_091</name><pose>308.4689 -325.8015 55.1429 0 0 -3.003839</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_092</name><pose>376.2240 -199.6634 55.4526 0 0 2.585933</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_093</name><pose>349.4615 -289.4899 55.7370 0 0 1.088573</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_094</name><pose>294.9843 -222.4034 50.1705 0 0 -2.437900</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_095</name><pose>461.2928 -275.6847 63.6106 0 0 -1.244333</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_096</name><pose>426.6449 -303.6003 61.9328 0 0 3.123583</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_097</name><pose>445.9026 -336.8778 60.5105 0 0 -1.930060</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_098</name><pose>302.7738 -199.8796 50.1391 0 0 2.542354</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_099</name><pose>324.0345 -338.7262 56.4159 0 0 -1.650371</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_100</name><pose>310.6274 -295.4299 54.6045 0 0 -3.085410</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_101</name><pose>294.2037 -235.6242 50.9478 0 0 -0.556810</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_102</name><pose>422.3725 -291.7389 61.7785 0 0 -2.148137</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_103</name><pose>327.9431 -403.6532 56.4387 0 0 0.057971</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_104</name><pose>438.7282 -377.8261 57.2409 0 0 -1.241009</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_105</name><pose>303.3030 -359.0637 53.6769 0 0 0.989838</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_106</name><pose>408.5019 -272.0394 60.5677 0 0 -2.262728</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_107</name><pose>365.1720 -213.4080 55.9827 0 0 -0.230474</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_108</name><pose>394.9222 -276.7772 59.3536 0 0 -2.549758</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_109</name><pose>438.4797 -366.7359 58.0738 0 0 0.244757</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_110</name><pose>323.5553 -180.5566 50.9401 0 0 -0.862744</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_111</name><pose>440.2655 -244.3185 61.5211 0 0 -0.607596</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_112</name><pose>371.1754 -259.5322 56.8206 0 0 -2.993788</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_113</name><pose>334.3414 -373.9761 58.1359 0 0 1.946683</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_114</name><pose>354.6818 -223.8415 56.0608 0 0 -1.658360</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_115</name><pose>300.7857 -283.8702 54.0981 0 0 -1.126081</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_116</name><pose>294.6158 -345.4857 53.2057 0 0 -0.975189</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_117</name><pose>344.1983 -222.3677 55.2561 0 0 -2.517406</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_3_pine_tree_118</name><pose>367.6441 -406.8866 58.7824 0 0 0.457116</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_3_oak_tree_119</name><pose>339.1940 -174.3797 51.5090 0 0 -0.925577</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_000</name><pose>56.6404 199.4570 64.4318 0 0 1.132591</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_001</name><pose>34.3919 184.1197 56.5044 0 0 -2.735491</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_002</name><pose>68.5324 142.2524 56.2528 0 0 -2.397441</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_003</name><pose>96.1950 0.6773 42.5779 0 0 2.756274</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_004</name><pose>41.5325 220.9413 69.9438 0 0 0.911959</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_005</name><pose>149.7211 66.0921 66.4794 0 0 -2.839770</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_006</name><pose>67.6466 119.9002 52.5545 0 0 1.146308</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_007</name><pose>151.9722 13.1751 58.0382 0 0 0.438098</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_008</name><pose>134.7968 24.2972 56.3410 0 0 -1.008807</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_009</name><pose>21.0593 140.9712 43.8848 0 0 -0.829848</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_010</name><pose>146.3253 40.3803 62.3202 0 0 1.582342</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_011</name><pose>29.6364 110.8907 43.1825 0 0 -1.435609</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_012</name><pose>33.8948 200.5198 63.6602 0 0 2.796821</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_013</name><pose>64.9449 24.7689 40.1886 0 0 1.247912</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_014</name><pose>157.7023 45.3207 66.0227 0 0 -0.696845</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_015</name><pose>116.9498 65.2442 56.5192 0 0 -2.089903</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_016</name><pose>66.1605 82.9647 47.4289 0 0 -1.920750</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_017</name><pose>37.0319 256.4584 77.1951 0 0 1.085857</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_018</name><pose>19.1538 60.2173 39.5965 0 0 2.545961</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_019</name><pose>136.4388 151.4096 74.6378 0 0 -1.364117</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_020</name><pose>109.0752 132.6230 62.3890 0 0 -1.967399</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_021</name><pose>23.1935 226.2619 71.2168 0 0 -0.426897</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_022</name><pose>150.2081 110.6825 72.8828 0 0 -2.790209</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_023</name><pose>93.3609 161.6475 65.1750 0 0 -0.265480</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_024</name><pose>80.9382 113.9406 53.9863 0 0 -0.884423</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_025</name><pose>57.6477 188.3326 61.8845 0 0 -1.478720</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_026</name><pose>110.1177 27.2425 48.9188 0 0 -0.577742</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_027</name><pose>90.6723 43.3815 47.3481 0 0 0.102329</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_028</name><pose>150.7894 90.4306 71.1869 0 0 -2.157218</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_029</name><pose>73.9375 158.5389 60.5308 0 0 1.139542</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_030</name><pose>20.8085 26.2218 36.2345 0 0 -2.026902</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_031</name><pose>39.8582 8.1569 36.0366 0 0 -0.884124</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_032</name><pose>55.4766 91.9635 46.5649 0 0 -2.550582</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_033</name><pose>127.5666 159.1916 73.1283 0 0 -1.382770</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_034</name><pose>46.7531 79.1789 43.9090 0 0 -2.316734</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_035</name><pose>46.1943 38.8794 40.1262 0 0 -2.212776</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_036</name><pose>23.7521 99.4873 41.8877 0 0 -1.377856</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_037</name><pose>56.9422 216.0113 67.9578 0 0 1.403375</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_038</name><pose>37.3621 165.3187 51.2722 0 0 -2.178639</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_039</name><pose>100.8416 178.5076 71.3626 0 0 -0.872821</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_040</name><pose>86.6333 90.2855 52.3716 0 0 1.735804</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_041</name><pose>37.6605 73.9226 42.3875 0 0 -0.646209</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_042</name><pose>23.2098 128.0944 42.9235 0 0 -0.797381</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_043</name><pose>49.1301 115.4041 47.8939 0 0 2.574674</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_044</name><pose>83.0013 2.4989 40.6361 0 0 -1.045735</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_045</name><pose>52.0128 66.0307 43.7407 0 0 -0.277826</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_046</name><pose>73.0434 174.9210 62.6367 0 0 0.957997</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_047</name><pose>79.7029 139.8310 58.9004 0 0 -0.263458</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_048</name><pose>137.9794 96.0888 66.8228 0 0 0.764740</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_049</name><pose>45.1877 138.9092 49.3849 0 0 1.781892</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_050</name><pose>38.9968 236.9275 72.7081 0 0 0.962030</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_051</name><pose>81.1094 167.4248 64.0259 0 0 -0.235814</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_052</name><pose>23.9787 158.3132 47.5278 0 0 -0.419500</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_053</name><pose>61.8556 106.2822 49.5557 0 0 2.670670</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_054</name><pose>60.8375 162.3623 56.9235 0 0 -1.761082</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_055</name><pose>34.1287 28.2971 37.6369 0 0 2.428611</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_056</name><pose>49.9414 157.2163 53.0757 0 0 -2.941349</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_057</name><pose>115.3882 41.4210 52.3098 0 0 -1.364382</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_058</name><pose>60.3333 3.2068 37.9105 0 0 0.359522</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_059</name><pose>79.8541 71.3646 49.0606 0 0 -1.463713</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_060</name><pose>89.7329 175.7311 67.7669 0 0 1.170070</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_061</name><pose>45.4772 19.4169 37.7706 0 0 1.033341</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_062</name><pose>45.8639 183.0687 57.8489 0 0 0.716571</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_063</name><pose>33.7478 140.8206 46.4898 0 0 -1.598243</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_064</name><pose>58.6603 54.5902 43.6536 0 0 -0.026910</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_065</name><pose>84.9568 129.3018 57.4895 0 0 -1.444271</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_066</name><pose>122.7629 9.0170 49.8061 0 0 0.870951</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_067</name><pose>7.3476 96.4247 40.1955 0 0 1.145005</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_068</name><pose>18.6403 71.2959 40.3281 0 0 0.959666</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_069</name><pose>124.7037 89.8978 61.8457 0 0 -2.313331</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_070</name><pose>99.6701 127.2021 59.5043 0 0 -0.829741</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_071</name><pose>14.9647 202.3371 66.2376 0 0 1.794897</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_072</name><pose>78.0797 191.8177 67.7120 0 0 -2.053178</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_073</name><pose>9.9181 107.3350 40.3991 0 0 -1.179913</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_074</name><pose>68.2335 -5.8479 38.2315 0 0 2.754989</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_075</name><pose>126.6367 105.8257 63.9130 0 0 2.452531</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_076</name><pose>15.9660 1.7690 33.0901 0 0 0.784791</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_077</name><pose>90.9027 76.7205 51.7066 0 0 1.305792</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_078</name><pose>76.1870 54.7661 46.4588 0 0 -0.976343</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_079</name><pose>77.7520 30.9213 43.0113 0 0 -1.412693</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_080</name><pose>44.3089 126.8559 47.9106 0 0 2.710436</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_081</name><pose>96.0689 109.2202 56.2899 0 0 2.011685</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_082</name><pose>75.7123 12.4947 40.6419 0 0 2.455861</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_083</name><pose>20.6121 174.4629 51.9608 0 0 2.656215</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_084</name><pose>94.2614 28.6584 45.5489 0 0 -0.901891</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_085</name><pose>128.8426 48.2723 57.5789 0 0 2.154260</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_086</name><pose>3.2839 59.5849 38.4340 0 0 -2.748430</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_087</name><pose>15.4362 88.6593 40.6448 0 0 1.076781</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_088</name><pose>70.6445 43.7436 43.9426 0 0 2.899437</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_089</name><pose>111.5604 145.3903 65.4075 0 0 1.962167</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_090</name><pose>15.2311 151.6007 45.2449 0 0 -0.446815</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_091</name><pose>28.8052 10.4484 35.0800 0 0 -1.488478</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_092</name><pose>102.3377 9.8523 44.9122 0 0 -1.332839</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_093</name><pose>41.1728 59.5625 41.7507 0 0 2.194334</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_094</name><pose>30.6912 244.9816 73.3966 0 0 2.866466</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_095</name><pose>161.1920 57.0675 69.1048 0 0 2.121624</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_096</name><pose>137.3397 77.8367 64.8597 0 0 2.771296</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_097</name><pose>74.6118 92.0722 50.3556 0 0 -0.475771</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_098</name><pose>36.2018 94.0362 43.4695 0 0 -2.441512</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_099</name><pose>14.1312 45.2145 37.8348 0 0 2.416199</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_100</name><pose>110.7268 -0.7647 45.2349 0 0 -1.301445</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_101</name><pose>147.8466 52.2514 64.0956 0 0 1.910151</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_102</name><pose>9.9288 28.7870 35.7844 0 0 -1.704675</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_103</name><pose>1.4871 39.7101 36.6945 0 0 -2.301087</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_104</name><pose>45.8771 206.3807 64.9088 0 0 -2.950088</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_105</name><pose>124.5949 33.7303 54.0321 0 0 1.230664</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_106</name><pose>20.8492 215.4207 69.3710 0 0 0.996889</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_107</name><pose>90.8705 59.8963 49.9742 0 0 -0.272779</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_108</name><pose>133.6093 63.4455 61.4619 0 0 2.293743</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_109</name><pose>157.5488 34.0585 64.1043 0 0 -0.666775</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_110</name><pose>141.0629 141.1161 74.3447 0 0 -3.030466</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_111</name><pose>28.6195 85.4403 41.9376 0 0 0.218595</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_112</name><pose>116.6816 80.6883 58.4338 0 0 0.040955</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_113</name><pose>86.0620 -8.4848 39.8983 0 0 0.552435</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_114</name><pose>66.4873 69.3561 46.3030 0 0 -0.004292</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_115</name><pose>106.4724 62.0877 53.4091 0 0 -0.964152</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_116</name><pose>56.4400 41.8796 41.6879 0 0 1.097070</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_117</name><pose>110.1455 51.5862 52.4832 0 0 1.671666</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_4_pine_tree_118</name><pose>88.2942 100.9198 54.0002 0 0 -2.474243</pose></include>
+<include><uri>model://oak_tree</uri><name>grove_4_oak_tree_119</name><pose>41.4933 266.1754 80.5685 0 0 1.856018</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_5_pine_tree_000</name><pose>-27.5633 127.5764 48.2010 0 0 -1.408345</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_5_pine_tree_001</name><pose>-46.2258 272.2117 82.9997 0 0 0.917177</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_5_pine_tree_002</name><pose>-37.2499 257.4071 83.4499 0 0 -2.238410</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_5_pine_tree_003</name><pose>-29.1809 111.7418 46.4971 0 0 0.126340</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_5_pine_tree_004</name><pose>-56.7683 287.6244 84.9621 0 0 2.957194</pose></include>
+<include><uri>model://pine_tree</uri><name>grove_5_pine_tree_005</name><pose>-41.3490 54.6815 46.1756 0 0 1.950784</pose></include>
+
+<plugin name="bounded_lake_water" filename="libLakeWaterPlugin.so">
+  <density>1000</density>
+  <linear_drag>0.7</linear_drag>
+  <quadratic_drag>1.0</quadratic_drag>
+  <angular_drag>1.5</angular_drag>
+  <samples_per_axis>12</samples_per_axis>
+  <lake name="main_lake">
+    <level>22</level>
+    <bottom>10</bottom>
+    <point>284.336646 -130.000000</point>
+    <point>286.126326 -123.737706</point>
+    <point>285.450623 -117.479541</point>
+    <point>282.624119 -111.450580</point>
+    <point>278.262232 -105.776796</point>
+    <point>273.068968 -100.465228</point>
+    <point>267.619484 -95.436567</point>
+    <point>262.213533 -90.593317</point>
+    <point>256.845599 -85.890991</point>
+    <point>251.291246 -81.378409</point>
+    <point>245.265352 -77.186920</point>
+    <point>238.583441 -73.471497</point>
+    <point>231.261138 -70.329256</point>
+    <point>223.516068 -67.733038</point>
+    <point>215.678610 -65.513583</point>
+    <point>208.055143 -63.404646</point>
+    <point>200.804947 -61.138716</point>
+    <point>193.883232 -58.557902</point>
+    <point>187.072472 -55.694962</point>
+    <point>180.085698 -52.788184</point>
+    <point>172.695049 -50.217963</point>
+    <point>164.829310 -48.383411</point>
+    <point>156.598959 -47.562025</point>
+    <point>148.239551 -47.804180</point>
+    <point>140.000000 -48.903143</point>
+    <point>132.026089 -50.454145</point>
+    <point>124.291248 -51.983198</point>
+    <point>116.605700 -53.100442</point>
+    <point>108.700678 -53.623799</point>
+    <point>100.351441 -53.630188</point>
+    <point>91.485590 -53.418827</point>
+    <point>82.229270 -53.403589</point>
+    <point>72.870763 -53.976491</point>
+    <point>63.757232 -55.392645</point>
+    <point>55.170287 -57.715846</point>
+    <point>47.236371 -60.838347</point>
+    <point>39.913769 -64.559003</point>
+    <point>33.064742 -68.682501</point>
+    <point>26.582874 -73.097063</point>
+    <point>20.518557 -77.800227</point>
+    <point>15.142046 -82.866340</point>
+    <point>10.906121 -88.374810</point>
+    <point>8.310902 -94.334385</point>
+    <point>7.715448 -100.639330</point>
+    <point>9.167134 -107.078403</point>
+    <point>12.318694 -113.394014</point>
+    <point>16.473601 -119.366788</point>
+    <point>20.753700 -124.889659</point>
+    <point>24.336646 -130.000000</point>
+    <point>26.683006 -134.856238</point>
+    <point>27.674959 -139.668993</point>
+    <point>27.619946 -144.615935</point>
+    <point>27.121517 -149.776034</point>
+    <point>26.867134 -155.109937</point>
+    <point>27.410805 -160.492751</point>
+    <point>29.026620 -165.782394</point>
+    <point>31.678994 -170.890991</point>
+    <point>35.109147 -175.825349</point>
+    <point>38.993483 -180.676363</point>
+    <point>43.105091 -185.560285</point>
+    <point>47.413375 -190.537409</point>
+    <point>52.086156 -195.545805</point>
+    <point>57.400638 -200.383651</point>
+    <point>63.606882 -204.754480</point>
+    <point>70.804947 -208.363035</point>
+    <point>78.888172 -211.026268</point>
+    <point>87.574779 -212.754483</point>
+    <point>96.511437 -213.766307</point>
+    <point>105.402098 -214.425354</point>
+    <point>114.105826 -215.116909</point>
+    <point>122.662149 -216.107651</point>
+    <point>131.234737 -217.440197</point>
+    <point>140.000000 -218.903143</point>
+    <point>149.030903 -220.090162</point>
+    <point>158.228058 -220.528824</point>
+    <point>167.329184 -219.833940</point>
+    <point>175.993630 -217.831189</point>
+    <point>183.925702 -214.608310</point>
+    <point>190.983282 -210.478348</point>
+    <point>197.224329 -205.871955</point>
+    <point>202.870763 -201.200809</point>
+    <point>208.205492 -196.742479</point>
+    <point>213.448258 -192.585914</point>
+    <point>218.666283 -188.651114</point>
+    <point>223.761532 -184.767155</point>
+    <point>228.543092 -180.771289</point>
+    <point>232.854742 -176.586506</point>
+    <point>236.700656 -172.247166</point>
+    <point>240.308651 -167.866340</point>
+    <point>244.093034 -163.563887</point>
+    <point>248.519580 -159.390569</point>
+    <point>253.917281 -155.284039</point>
+    <point>260.307849 -151.077640</point>
+    <point>267.322867 -146.559368</point>
+    <point>274.249265 -141.556241</point>
+    <point>280.197020 -136.008191</point>
+  </lake>
+  <lake name="secondary_lake">
+    <level>26</level>
+    <bottom>18</bottom>
+    <point>-182.072061 -250.000000</point>
+    <point>-181.935700 -246.031723</point>
+    <point>-183.088926 -242.133584</point>
+    <point>-185.374322 -238.427248</point>
+    <point>-188.465895 -234.980189</point>
+    <point>-191.986555 -231.793628</point>
+    <point>-195.629392 -228.821346</point>
+    <point>-199.238027 -226.009039</point>
+    <point>-202.819472 -223.334146</point>
+    <point>-206.490648 -220.825530</point>
+    <point>-210.385825 -218.551299</point>
+    <point>-214.566417 -216.577911</point>
+    <point>-218.971506 -214.917910</point>
+    <point>-223.428956 -213.490933</point>
+    <point>-227.720990 -212.119383</point>
+    <point>-231.675378 -210.567166</point>
+    <point>-235.243213 -208.612142</point>
+    <point>-238.530346 -206.127776</point>
+    <point>-241.769139 -203.143212</point>
+    <point>-245.241774 -199.856924</point>
+    <point>-249.185759 -196.595134</point>
+    <point>-253.718575 -193.726579</point>
+    <point>-258.809416 -191.561866</point>
+    <point>-264.305771 -190.271961</point>
+    <point>-270.000000 -189.853733</point>
+    <point>-275.705548 -190.153233</point>
+    <point>-281.310403 -190.936159</point>
+    <point>-286.787341 -191.977983</point>
+    <point>-292.160891 -193.139921</point>
+    <point>-297.450768 -194.403693</point>
+    <point>-302.622009 -195.854909</point>
+    <point>-307.568584 -197.625184</point>
+    <point>-312.141346 -199.818720</point>
+    <point>-316.209744 -202.454033</point>
+    <point>-319.729364 -205.444109</point>
+    <point>-322.782020 -208.621878</point>
+    <point>-325.564708 -211.799263</point>
+    <point>-328.324733 -214.834775</point>
+    <point>-331.262232 -217.681887</point>
+    <point>-334.437717 -220.399065</point>
+    <point>-337.723907 -223.118464</point>
+    <point>-340.826323 -225.987222</point>
+    <point>-343.371186 -229.105954</point>
+    <point>-345.032263 -232.489360</point>
+    <point>-345.651242 -236.063901</point>
+    <point>-345.306275 -239.701697</point>
+    <point>-344.301120 -243.274925</point>
+    <point>-343.076214 -246.707103</point>
+    <point>-342.072061 -250.000000</point>
+    <point>-341.593128 -253.226067</point>
+    <point>-341.720104 -256.491465</point>
+    <point>-342.299967 -259.887183</point>
+    <point>-343.014027 -263.450284</point>
+    <point>-343.495376 -267.151969</point>
+    <point>-343.450117 -270.916524</point>
+    <point>-342.737665 -274.660795</point>
+    <point>-341.383536 -278.334146</point>
+    <point>-339.525785 -281.938256</point>
+    <point>-337.322359 -285.515056</point>
+    <point>-334.860786 -289.105951</point>
+    <point>-332.108591 -292.699656</point>
+    <point>-328.924287 -296.193312</point>
+    <point>-325.122819 -299.388251</point>
+    <point>-320.566615 -302.028823</point>
+    <point>-315.243213 -303.874937</point>
+    <point>-309.296537 -304.783777</point>
+    <point>-302.998488 -304.769961</point>
+    <point>-296.672088 -304.019239</point>
+    <point>-290.596806 -302.846975</point>
+    <point>-284.933027 -301.612960</point>
+    <point>-279.693607 -300.620801</point>
+    <point>-274.770272 -300.036443</point>
+    <point>-270.000000 -299.853733</point>
+    <point>-265.241047 -299.917715</point>
+    <point>-260.426212 -299.995094</point>
+    <point>-255.572889 -299.864364</point>
+    <point>-250.749844 -299.391761</point>
+    <point>-246.020454 -298.566007</point>
+    <point>-241.392659 -297.481658</point>
+    <point>-236.802393 -296.281185</point>
+    <point>-232.141346 -295.081514</point>
+    <point>-227.318507 -293.915691</point>
+    <point>-222.327535 -292.712977</point>
+    <point>-217.286690 -291.324257</point>
+    <point>-212.427623 -289.581009</point>
+    <point>-208.030364 -287.362815</point>
+    <point>-204.325698 -284.645644</point>
+    <point>-201.402579 -281.511790</point>
+    <point>-199.159843 -278.118464</point>
+    <point>-197.326685 -274.638978</point>
+    <point>-195.550461 -271.201131</point>
+    <point>-193.523442 -267.847702</point>
+    <point>-191.103110 -264.533996</point>
+    <point>-188.380630 -261.161633</point>
+    <point>-185.669942 -257.632806</point>
+    <point>-183.418786 -253.901447</point>
+  </lake>
+</plugin>
+
+<gui><camera name="user_camera"><pose>830 -1060 930 0 .58 2.235</pose><clip><near>.1</near><far>6000</far></clip></camera></gui></world></sdf>

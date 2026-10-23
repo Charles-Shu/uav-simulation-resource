@@ -1,0 +1,21 @@
+{
+  "createdAt": "2018-01-27T00:32:22Z",
+  "updatedAt": "2026-10-21T07:27:20Z",
+  "name": "Apartment",
+  "owner": "OpenRobotics",
+  "description": "An apartment building.",
+  "likes": 1,
+  "downloads": 1126,
+  "filesize": 1321165,
+  "upload_date": "2018-01-27T00:32:21Z",
+  "modify_date": "2023-09-27T17:17:38Z",
+  "license_id": 1,
+  "license_name": "Creative Commons Zero v1.0 Universal",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "license_image": "https://i.creativecommons.org/p/88x31.png",
+  "permission": 0,
+  "url_name": "",
+  "thumbnail_url": "/OpenRobotics/models/Apartment/tip/files/thumbnails/1.png",
+  "version": 3,
+  "private": false
+}

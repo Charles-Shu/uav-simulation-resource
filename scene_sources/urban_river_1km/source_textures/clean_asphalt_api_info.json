@@ -1,0 +1,56 @@
+{
+  "type": 1,
+  "name": "Clean Asphalt",
+  "categories": [
+    "floor",
+    "asphalt"
+  ],
+  "tags": [
+    "rough",
+    "asphalt",
+    "grey",
+    "gray",
+    "course",
+    "gritty",
+    "fine-grained",
+    "road",
+    "asphalt road",
+    "roadway",
+    "tarmac road",
+    "tar",
+    "scratches",
+    "racing",
+    "bitumen",
+    "speedway",
+    "race track",
+    "pit lane"
+  ],
+  "description": "Free 8k asphalt texture: clean dark-gray surface with fine rough grain, subtle micro-roughness and faint seam line, low sheen and even tonality.",
+  "authors": {
+    "Dimitrios Savva": "All"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "dimensions": [
+    2099.9999046325684,
+    2099.9999046325684
+  ],
+  "files_hash": "402035bf9077d331e5de76b938c8b6d818aed6a0",
+  "staging": null,
+  "date_published": 1768262400,
+  "category_id": "bc174825-be31-5e80-9911-2eb9128cfee9",
+  "category": "Asphalt & Bitumen/Asphalt/Fresh Asphalt",
+  "attributes": {
+    "surface_use": "floor",
+    "origin": "man_made",
+    "setting": "outdoor",
+    "condition": [
+      "clean"
+    ]
+  },
+  "img_version": "547f00f6",
+  "download_count": 29130,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/clean_asphalt.png?width=256&height=256&format=webp&v=547f00f6"
+}

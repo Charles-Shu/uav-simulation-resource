@@ -1,0 +1,47 @@
+{
+  "name": "Sand 02",
+  "categories": [
+    "floor",
+    "sand"
+  ],
+  "type": 1,
+  "tags": [
+    "dirty",
+    "sand",
+    "sandy",
+    "beach",
+    "gritty",
+    "coast",
+    "shore",
+    "granular"
+  ],
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "info": null,
+  "dimensions": [
+    2140.000104904175,
+    2140.000104904175
+  ],
+  "date_published": 1707782400,
+  "staging": null,
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "files_hash": "e4b4c84cec65751c379c57d51d2c60dc40fd3828",
+  "description": "Free 8K texture: dark, gritty coastal sand with granular detail, wet-looking patches, subtle ripples and footprints for a dirty beach/shore surface.",
+  "category_id": "2bed9a9d-8f5f-5f1f-815c-e33cfa63bf69",
+  "category": "Ground & Terrain/Sand/Beach & Coastal Sand",
+  "attributes": {
+    "surface_use": "ground",
+    "condition": [
+      "weathered"
+    ],
+    "origin": "natural",
+    "setting": "outdoor"
+  },
+  "img_version": "079b0255",
+  "download_count": 13546,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/sand_02.png?width=256&height=256&format=webp&v=079b0255"
+}

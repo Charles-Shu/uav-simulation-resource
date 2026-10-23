@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sdf version="1.6"><world name="alpine_snow_1km">
+<gravity>0 0 -9.81</gravity>
+<physics name="terrain_ode" type="ode"><max_step_size>.001</max_step_size><real_time_update_rate>1000</real_time_update_rate><ode><solver><type>quick</type><iters>100</iters><sor>1.3</sor></solver><constraints><cfm>0</cfm><erp>.2</erp><contact_max_correcting_vel>1</contact_max_correcting_vel><contact_surface_layer>.001</contact_surface_layer></constraints></ode></physics>
+<scene><ambient>.38 .40 .43 1</ambient><background>.53 .64 .74 1</background><shadows>false</shadows><grid>false</grid></scene>
+<light name="winter_sun" type="directional"><cast_shadows>false</cast_shadows><pose>0 0 1000 0 0 0</pose><diffuse>.74 .72 .68 1</diffuse><specular>.5 .52 .56 1</specular><attenuation><range>10000</range><constant>1</constant><linear>0</linear><quadratic>0</quadratic></attenuation><direction>-.55 .3 -.78</direction></light>
+<include><uri>model://alpine_snow_1km</uri></include>
+<gui><camera name="user_camera"><pose>830 -1060 930 0 .58 2.235</pose><clip><near>.1</near><far>6000</far></clip></camera></gui>
+</world></sdf>
