@@ -1,0 +1,157 @@
+{
+  "commit": "8163eb4b5e7e21985c6591d1c0bfb56468c0093f",
+  "files": [
+    {
+      "model": "pine_tree",
+      "path": "materials/textures/bark_diffuse.png",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/pine_tree/materials/textures/bark_diffuse.png",
+      "upstream_sha256": "344e17ef587dc7d0e2e36d3094c7aa0d0dbd048b3f5af05e917a84f21d9abd17",
+      "packaged_sha256": "344e17ef587dc7d0e2e36d3094c7aa0d0dbd048b3f5af05e917a84f21d9abd17",
+      "identical": true
+    },
+    {
+      "model": "pine_tree",
+      "path": "materials/textures/branch_2_diffuse.png",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/pine_tree/materials/textures/branch_2_diffuse.png",
+      "upstream_sha256": "aece9329148a3cb072c252029bd00624d7e62541b25c3303c0e0152e6bdd0c99",
+      "packaged_sha256": "aece9329148a3cb072c252029bd00624d7e62541b25c3303c0e0152e6bdd0c99",
+      "identical": true
+    },
+    {
+      "model": "pine_tree",
+      "path": "materials/scripts/pine_tree.material",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/pine_tree/materials/scripts/pine_tree.material",
+      "upstream_sha256": "ce9df2f64da08083bddebc404032bf535cf5d3657a578811733b42d43acd28f1",
+      "packaged_sha256": "ce9df2f64da08083bddebc404032bf535cf5d3657a578811733b42d43acd28f1",
+      "identical": true
+    },
+    {
+      "model": "pine_tree",
+      "path": "meshes/pine_tree.dae",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/pine_tree/meshes/pine_tree.dae",
+      "upstream_sha256": "59ed97a15067ff158d2e165f651bb71756ebbe8261146672e0cce085eb1e99c4",
+      "packaged_sha256": "59ed97a15067ff158d2e165f651bb71756ebbe8261146672e0cce085eb1e99c4",
+      "identical": true
+    },
+    {
+      "model": "oak_tree",
+      "path": "materials/textures/branch_diffuse.png",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/oak_tree/materials/textures/branch_diffuse.png",
+      "upstream_sha256": "f378bfa2f09f309ac79729afc0a4b6b482e5caa47ac6d982cadf1ebea880d872",
+      "packaged_sha256": "f378bfa2f09f309ac79729afc0a4b6b482e5caa47ac6d982cadf1ebea880d872",
+      "identical": true
+    },
+    {
+      "model": "oak_tree",
+      "path": "materials/textures/bark_diffuse.png",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/oak_tree/materials/textures/bark_diffuse.png",
+      "upstream_sha256": "35b52144a8c5522df4e97a9a2125231699ad143f6f7273815a47a5064660f794",
+      "packaged_sha256": "35b52144a8c5522df4e97a9a2125231699ad143f6f7273815a47a5064660f794",
+      "identical": true
+    },
+    {
+      "model": "oak_tree",
+      "path": "materials/scripts/oak_tree.material",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/oak_tree/materials/scripts/oak_tree.material",
+      "upstream_sha256": "da1045a12bc2e1f889eb855116c13e514a3b1ec8d780d94bf76ccf1a29defb7a",
+      "packaged_sha256": "da1045a12bc2e1f889eb855116c13e514a3b1ec8d780d94bf76ccf1a29defb7a",
+      "identical": true
+    },
+    {
+      "model": "oak_tree",
+      "path": "meshes/oak_tree.dae",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/oak_tree/meshes/oak_tree.dae",
+      "upstream_sha256": "b3edcfcf4875d2898103ee841ae6530d251730548c0575de8334d4e96d19bd27",
+      "packaged_sha256": "b3edcfcf4875d2898103ee841ae6530d251730548c0575de8334d4e96d19bd27",
+      "identical": true
+    },
+    {
+      "model": "house_1",
+      "path": "materials/textures/House_1_Spec.png",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/house_1/materials/textures/House_1_Spec.png",
+      "upstream_sha256": "21a0809c7dbe6d40e702f3680449f9ce93bdc0b77c230d0609658719ecf57015",
+      "packaged_sha256": "21a0809c7dbe6d40e702f3680449f9ce93bdc0b77c230d0609658719ecf57015",
+      "identical": true
+    },
+    {
+      "model": "house_1",
+      "path": "materials/textures/House_1_Normal.png",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/house_1/materials/textures/House_1_Normal.png",
+      "upstream_sha256": "12dc7a0d7baa237f904900ea9f13ca41e67ac0d91fbdf0c0de6d849d6520f94f",
+      "packaged_sha256": "12dc7a0d7baa237f904900ea9f13ca41e67ac0d91fbdf0c0de6d849d6520f94f",
+      "identical": true
+    },
+    {
+      "model": "house_1",
+      "path": "materials/textures/House_1_Diffuse.png",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/house_1/materials/textures/House_1_Diffuse.png",
+      "upstream_sha256": "5f4369cc3e8a0b5642be1b9bebb650cdae6fd73d1c10049d5597c67081b24f39",
+      "packaged_sha256": "5f4369cc3e8a0b5642be1b9bebb650cdae6fd73d1c10049d5597c67081b24f39",
+      "identical": true
+    },
+    {
+      "model": "house_1",
+      "path": "materials/scripts/house_1.material",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/house_1/materials/scripts/house_1.material",
+      "upstream_sha256": "601c05b0c82cf6d13ba1e61e4fcadfb49327b941dd58da9e3ba8ecd946f61f17",
+      "packaged_sha256": "601c05b0c82cf6d13ba1e61e4fcadfb49327b941dd58da9e3ba8ecd946f61f17",
+      "identical": true
+    },
+    {
+      "model": "house_1",
+      "path": "meshes/house_1.dae",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/house_1/meshes/house_1.dae",
+      "upstream_sha256": "0e4d77fe3369dea0d06957cf2571aa8d4509256510dc285b6423230cf94753ee",
+      "packaged_sha256": "0e4d77fe3369dea0d06957cf2571aa8d4509256510dc285b6423230cf94753ee",
+      "identical": true
+    },
+    {
+      "model": "house_2",
+      "path": "materials/textures/House_2_Diffuse.png",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/house_2/materials/textures/House_2_Diffuse.png",
+      "upstream_sha256": "bc6b3931f200c23a6bbe8ca95bd2f78f2ec3af352e26cd88ddac89a92747ead3",
+      "packaged_sha256": "bc6b3931f200c23a6bbe8ca95bd2f78f2ec3af352e26cd88ddac89a92747ead3",
+      "identical": true
+    },
+    {
+      "model": "house_2",
+      "path": "materials/scripts/house_2.material",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/house_2/materials/scripts/house_2.material",
+      "upstream_sha256": "2cddf1f6e4913ce89a448727275e07665c2aebb12c02fb539d6c1989526a148f",
+      "packaged_sha256": "2cddf1f6e4913ce89a448727275e07665c2aebb12c02fb539d6c1989526a148f",
+      "identical": true
+    },
+    {
+      "model": "house_2",
+      "path": "meshes/house_2.dae",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/house_2/meshes/house_2.dae",
+      "upstream_sha256": "99a279004e1bc14b5323e98503cb2b788f8390465596fe7e17700e0631395fcf",
+      "packaged_sha256": "99a279004e1bc14b5323e98503cb2b788f8390465596fe7e17700e0631395fcf",
+      "identical": true
+    },
+    {
+      "model": "house_3",
+      "path": "materials/textures/House_3_Diffuse.png",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/house_3/materials/textures/House_3_Diffuse.png",
+      "upstream_sha256": "af602fa919b22b617b8dafd0d68f9dcfd4f181403d09fe434c4e9294462518aa",
+      "packaged_sha256": "af602fa919b22b617b8dafd0d68f9dcfd4f181403d09fe434c4e9294462518aa",
+      "identical": true
+    },
+    {
+      "model": "house_3",
+      "path": "materials/scripts/house_3.material",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/house_3/materials/scripts/house_3.material",
+      "upstream_sha256": "b132aec7359c58b590ad37cb83d0d3e4dea7b208d82c1a9d91178ad84d3abebe",
+      "packaged_sha256": "b132aec7359c58b590ad37cb83d0d3e4dea7b208d82c1a9d91178ad84d3abebe",
+      "identical": true
+    },
+    {
+      "model": "house_3",
+      "path": "meshes/house_3.dae",
+      "url": "https://raw.githubusercontent.com/osrf/gazebo_models/8163eb4b5e7e21985c6591d1c0bfb56468c0093f/house_3/meshes/house_3.dae",
+      "upstream_sha256": "712e1a3f2947a3fd354fe15f8ca36b2a1315ae76737387dbe815cd6112f56a2d",
+      "packaged_sha256": "712e1a3f2947a3fd354fe15f8ca36b2a1315ae76737387dbe815cd6112f56a2d",
+      "identical": true
+    }
+  ]
+}

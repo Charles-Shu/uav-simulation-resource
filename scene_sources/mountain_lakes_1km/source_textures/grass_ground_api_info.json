@@ -1,0 +1,50 @@
+{
+  "type": 1,
+  "name": "Grass Ground",
+  "categories": [
+    "outdoor",
+    "natural",
+    "terrain",
+    "dirty"
+  ],
+  "category": "Ground & Terrain/Grass & Vegetation/Dry & Sparse Grass",
+  "attributes": {
+    "surface_use": "ground",
+    "origin": "natural",
+    "setting": "outdoor",
+    "condition": [
+      "dirty"
+    ]
+  },
+  "tags": [
+    "grass",
+    "dry grass",
+    "dirt",
+    "root",
+    "dead grass",
+    "turf",
+    "dry"
+  ],
+  "description": "Free 16K texture of worn grass on soil, matte and rough, with fine micro-bumps, subtle height, and natural brown-green variation.",
+  "authors": {
+    "Charlotte Baglioni": "All"
+  },
+  "category_id": "e9516d71-1efd-51d6-b3c4-ce945ee92604",
+  "max_resolution": [
+    16384,
+    16384
+  ],
+  "dimensions": [
+    2509.999990463257,
+    2509.999990463257
+  ],
+  "files_hash": "0835c92f7cacee85b306c2a35d2c006be11ea3c2",
+  "date_published": 1789689600,
+  "staging": null,
+  "img_version": "6fb7fdcf",
+  "sponsors": [
+    "121968951"
+  ],
+  "download_count": 11140,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/grass_ground.png?width=256&height=256&format=webp&v=6fb7fdcf"
+}

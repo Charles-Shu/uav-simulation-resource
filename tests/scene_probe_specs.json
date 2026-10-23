@@ -1,0 +1,277 @@
+{
+  "alpine_snow_1km": {
+    "includes": 1,
+    "probes": [
+      {
+        "name": "probe_snow",
+        "x": -10.0,
+        "y": -116.0,
+        "z": 15.74044238963854,
+        "ground_z": 14.24044238963854,
+        "mass": 400,
+        "expected_contact": "snow_collision"
+      },
+      {
+        "name": "probe_rock",
+        "x": -302.0,
+        "y": 314.0,
+        "z": 138.89606834648689,
+        "ground_z": 137.39606834648689,
+        "mass": 400,
+        "expected_contact": "rock_collision"
+      },
+      {
+        "name": "probe_mud",
+        "x": -368.0,
+        "y": -306.0,
+        "z": 15.718191062775654,
+        "ground_z": 14.218191062775654,
+        "mass": 400,
+        "expected_contact": "mud_collision"
+      },
+      {
+        "name": "probe_grass",
+        "x": -10.0,
+        "y": -142.0,
+        "z": 15.704339696636815,
+        "ground_z": 14.204339696636815,
+        "mass": 400,
+        "expected_contact": "grass_collision"
+      },
+      {
+        "name": "probe_ice",
+        "x": 140.0,
+        "y": -170.0,
+        "z": 12.8,
+        "ground_z": 11.3,
+        "mass": 400,
+        "expected_contact": "ice_plate_0"
+      }
+    ],
+    "rays": []
+  },
+  "mountain_lakes_1km": {
+    "includes": 487,
+    "probes": [
+      {
+        "name": "probe_rock",
+        "x": -20.0,
+        "y": 370.0,
+        "z": 78.57082744262263,
+        "ground_z": 77.07082744262263,
+        "mass": 400,
+        "expected_contact": "rock",
+        "slope_deg": 0.37287959848512797
+      },
+      {
+        "name": "probe_grass",
+        "x": -440.0,
+        "y": -380.0,
+        "z": 46.376101212864974,
+        "ground_z": 44.876101212864974,
+        "mass": 400,
+        "expected_contact": "grass",
+        "slope_deg": 0.07954793234418323
+      },
+      {
+        "name": "probe_mud",
+        "x": -190.0,
+        "y": -165.0,
+        "z": 41.927476646195025,
+        "ground_z": 40.427476646195025,
+        "mass": 400,
+        "expected_contact": "mud",
+        "slope_deg": 0.1555000914205409
+      },
+      {
+        "name": "probe_sand",
+        "x": 15.0,
+        "y": -80.0,
+        "z": 23.502206705848685,
+        "ground_z": 22.002206705848685,
+        "mass": 400,
+        "expected_contact": "sand",
+        "slope_deg": 0.20494862557590998
+      },
+      {
+        "name": "probe_eastern_lake_float",
+        "x": 132.0,
+        "y": -130.0,
+        "z": 23.7,
+        "mass": 400,
+        "level": 22.0,
+        "ground_z": 10.080293717276737,
+        "expected_contact": null
+      },
+      {
+        "name": "probe_eastern_lake_sink",
+        "x": 148.0,
+        "y": -130.0,
+        "z": 23.7,
+        "mass": 1600,
+        "level": 22.0,
+        "ground_z": 10.05157852956319,
+        "expected_contact": "lakebed"
+      },
+      {
+        "name": "probe_western_lake_float",
+        "x": -278.0,
+        "y": -250.0,
+        "z": 27.7,
+        "mass": 400,
+        "level": 26.0,
+        "ground_z": 18.137654351323647,
+        "expected_contact": null
+      },
+      {
+        "name": "probe_western_lake_sink",
+        "x": -262.0,
+        "y": -250.0,
+        "z": 27.7,
+        "mass": 1600,
+        "level": 26.0,
+        "ground_z": 18.09256001166184,
+        "expected_contact": "lakebed"
+      }
+    ],
+    "rays": []
+  },
+  "urban_river_1km": {
+    "includes": 819,
+    "probes": [
+      {
+        "name": "probe_road",
+        "x": -290.0,
+        "y": -400.0,
+        "z": 9.52,
+        "ground_z": 8.02,
+        "mass": 400,
+        "expected_contact": "city_roads_bridges::roads_bridges::avenue_1"
+      },
+      {
+        "name": "probe_bridge",
+        "x": 160.0,
+        "y": -240.0,
+        "z": 9.52,
+        "ground_z": 8.02,
+        "mass": 400,
+        "expected_contact": "city_roads_bridges::roads_bridges::bridge_deck_0"
+      },
+      {
+        "name": "probe_roof",
+        "x": -340.0,
+        "y": -288.0,
+        "z": 81.9,
+        "ground_z": 80.4,
+        "mass": 400,
+        "expected_contact": "block_0_0_3::building::roof"
+      },
+      {
+        "name": "probe_grass",
+        "x": 320.0,
+        "y": -470.0,
+        "z": 9.5,
+        "ground_z": 8.0,
+        "mass": 400,
+        "expected_contact": "urban_river_terrain::terrain::grass",
+        "slope_deg": 0.0
+      },
+      {
+        "name": "probe_rock",
+        "x": -130.0,
+        "y": 455.0,
+        "z": 122.47575441757729,
+        "ground_z": 120.97575441757729,
+        "mass": 400,
+        "expected_contact": "urban_river_terrain::terrain::rock",
+        "slope_deg": 0.947799472112696
+      },
+      {
+        "name": "probe_river_float",
+        "x": 148.09144063750765,
+        "y": -300.0,
+        "z": 6.5,
+        "ground_z": 5.0,
+        "mass": 400,
+        "expected_contact": null,
+        "level": 5,
+        "bed_z": -1.0
+      },
+      {
+        "name": "probe_river_sink",
+        "x": 148.64276226376796,
+        "y": -310.0,
+        "z": 6.5,
+        "ground_z": -1.0,
+        "mass": 1600,
+        "expected_contact": "urban_river_terrain::terrain::riverbed",
+        "level": 5,
+        "bed_z": -1.0
+      }
+    ],
+    "rays": [
+      {
+        "name": "bridge_top",
+        "start": [
+          160.0,
+          80.0,
+          15.0
+        ],
+        "end": [
+          160.0,
+          80.0,
+          -2.0
+        ],
+        "expected_entity": "city_roads_bridges::roads_bridges::bridge_deck_1",
+        "expected_distance": 6.98
+      },
+      {
+        "name": "building_wall",
+        "start": [
+          -330.0,
+          -310.0,
+          38.0
+        ],
+        "end": [
+          -330.0,
+          -280.0,
+          38.0
+        ],
+        "expected_entity": "block_0_0_3::building::main",
+        "expected_distance": 16
+      },
+      {
+        "name": "roof_top",
+        "start": [
+          -340.0,
+          -272.0,
+          108.0
+        ],
+        "end": [
+          -340.0,
+          -272.0,
+          58.0
+        ],
+        "expected_entity": "block_0_0_3::building::roof",
+        "expected_distance": 27.599999999999994
+      },
+      {
+        "name": "river_bed_no_surface",
+        "start": [
+          149.1732349193382,
+          -330.0,
+          10.0
+        ],
+        "end": [
+          149.1732349193382,
+          -330.0,
+          -3.0
+        ],
+        "expected_entity": "urban_river_terrain::terrain::riverbed",
+        "expected_distance": 11.0,
+        "distance_tolerance": 0.05,
+        "note": "The continuous riverbed is -1 m at the channel center; the exported 2.5 m triangle grid interpolates the cross-section within 5 cm at this ray."
+      }
+    ]
+  }
+}

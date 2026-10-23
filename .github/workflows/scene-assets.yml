@@ -1,0 +1,21 @@
+name: Scene asset validation
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  portable-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate model, mesh and texture references
+        run: python3 tools/validate_scene_assets.py
+      - name: Check launcher syntax
+        run: bash -n scripts/scene_env.sh scripts/prepare_scenes.sh scripts/run_scene.sh
+      - name: Resolve the three world aliases
+        run: |
+          ./scripts/run_scene.sh snow --print-world
+          ./scripts/run_scene.sh mountain --print-world
+          ./scripts/run_scene.sh city --print-world

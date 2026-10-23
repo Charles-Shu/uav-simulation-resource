@@ -1,0 +1,16 @@
+<sdf version="1.6"><model name="mountain_lakes_1km"><static>true</static><link name="terrain">
+<visual name="rock"><geometry><mesh><uri>model://mountain_lakes_1km/meshes/rock_visual.dae</uri></mesh></geometry></visual>
+<collision name="rock"><geometry><mesh><uri>model://mountain_lakes_1km/meshes/rock_collision.dae</uri></mesh></geometry><max_contacts>8</max_contacts><surface><friction><ode><mu>0.9</mu><mu2>0.9</mu2></ode></friction><contact><ode><kp>10000000000.0</kp><kd>1000</kd><max_vel>0.2</max_vel><min_depth>.001</min_depth></ode></contact></surface></collision>
+<visual name="grass"><geometry><mesh><uri>model://mountain_lakes_1km/meshes/grass_visual.dae</uri></mesh></geometry></visual>
+<collision name="grass"><geometry><mesh><uri>model://mountain_lakes_1km/meshes/grass_collision.dae</uri></mesh></geometry><max_contacts>8</max_contacts><surface><friction><ode><mu>0.75</mu><mu2>0.75</mu2></ode></friction><contact><ode><kp>100000000.0</kp><kd>1000</kd><max_vel>0.2</max_vel><min_depth>.001</min_depth></ode></contact></surface></collision>
+<visual name="mud"><geometry><mesh><uri>model://mountain_lakes_1km/meshes/mud_visual.dae</uri></mesh></geometry></visual>
+<collision name="mud"><geometry><mesh><uri>model://mountain_lakes_1km/meshes/mud_collision.dae</uri></mesh></geometry><max_contacts>8</max_contacts><surface><friction><ode><mu>0.45</mu><mu2>0.45</mu2></ode></friction><contact><ode><kp>500000</kp><kd>10000</kd><max_vel>1</max_vel><min_depth>.001</min_depth></ode></contact></surface></collision>
+<visual name="sand"><geometry><mesh><uri>model://mountain_lakes_1km/meshes/sand_visual.dae</uri></mesh></geometry></visual>
+<collision name="sand"><geometry><mesh><uri>model://mountain_lakes_1km/meshes/sand_collision.dae</uri></mesh></geometry><max_contacts>8</max_contacts><surface><friction><ode><mu>0.6</mu><mu2>0.6</mu2></ode></friction><contact><ode><kp>250000</kp><kd>10000</kd><max_vel>1</max_vel><min_depth>.001</min_depth></ode></contact></surface></collision>
+<visual name="lakebed"><geometry><mesh><uri>model://mountain_lakes_1km/meshes/lakebed_visual.dae</uri></mesh></geometry></visual>
+<collision name="lakebed"><geometry><mesh><uri>model://mountain_lakes_1km/meshes/lakebed_collision.dae</uri></mesh></geometry><max_contacts>8</max_contacts><surface><friction><ode><mu>0.35</mu><mu2>0.35</mu2></ode></friction><contact><ode><kp>500000</kp><kd>10000</kd><max_vel>1</max_vel><min_depth>.001</min_depth></ode></contact></surface></collision>
+<collision name="substrate"><geometry><mesh><uri>model://mountain_lakes_1km/meshes/substrate_collision.dae</uri></mesh></geometry><surface><friction><ode><mu>0.75</mu><mu2>0.75</mu2></ode></friction><contact><ode><kp>10000000000.0</kp><kd>1000</kd><max_vel>0.2</max_vel><min_depth>.001</min_depth></ode></contact></surface></collision>
+</link>
+<link name="eastern_lake"><visual name="liquid_water"><geometry><mesh><uri>model://mountain_lakes_1km/meshes/eastern_lake_water.dae</uri></mesh></geometry><transparency>.18</transparency><cast_shadows>false</cast_shadows></visual></link>
+<link name="western_lake"><visual name="liquid_water"><geometry><mesh><uri>model://mountain_lakes_1km/meshes/western_lake_water.dae</uri></mesh></geometry><transparency>.18</transparency><cast_shadows>false</cast_shadows></visual></link>
+</model></sdf>

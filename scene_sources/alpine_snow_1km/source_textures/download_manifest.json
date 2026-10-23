@@ -1,0 +1,158 @@
+[
+  {
+    "asset": "snow_02",
+    "kind": "diff",
+    "path": "scene_sources/alpine_snow_1km/source_textures/snow_02_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_02/snow_02_diff_1k.jpg",
+    "sha256": "523a4e69c90b96d787dd69b897f29a2b3761a017024405c60aa630d1e8e9009a",
+    "size_bytes": 325497,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "snow_02",
+    "kind": "nor_gl",
+    "path": "scene_sources/alpine_snow_1km/source_textures/snow_02_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_02/snow_02_nor_gl_1k.jpg",
+    "sha256": "9495ec680616b8340e2cbecbd151bff84c690cfad4209e90cc98d2d0ba81f810",
+    "size_bytes": 1081858,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "snow_02",
+    "kind": "rough",
+    "path": "scene_sources/alpine_snow_1km/source_textures/snow_02_rough_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/snow_02/snow_02_rough_1k.jpg",
+    "sha256": "b6dea8039ac2a5beaed6fd41834fb55540cc76b492edd1d48ba2da2f30f1cb75",
+    "size_bytes": 146089,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "aerial_rocks_04",
+    "kind": "diff",
+    "path": "scene_sources/alpine_snow_1km/source_textures/aerial_rocks_04_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_rocks_04/aerial_rocks_04_diff_1k.jpg",
+    "sha256": "5ac472016a6740bd3c62b1d719bf128e0659022fb35853f4e847737522337ffa",
+    "size_bytes": 841479,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "aerial_rocks_04",
+    "kind": "nor_gl",
+    "path": "scene_sources/alpine_snow_1km/source_textures/aerial_rocks_04_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_rocks_04/aerial_rocks_04_nor_gl_1k.jpg",
+    "sha256": "b4fe185783020d81b595397ef3b920475268a4873dc8b6efdd58f4312e07140b",
+    "size_bytes": 1242717,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "aerial_rocks_04",
+    "kind": "rough",
+    "path": "scene_sources/alpine_snow_1km/source_textures/aerial_rocks_04_rough_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_rocks_04/aerial_rocks_04_rough_1k.jpg",
+    "sha256": "1188f103fb1e1b08793cbbe2da73440cbedfdf4eefc576429990da905964a573",
+    "size_bytes": 449735,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "aerial_grass_rock",
+    "kind": "diff",
+    "path": "scene_sources/alpine_snow_1km/source_textures/aerial_grass_rock_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_grass_rock/aerial_grass_rock_diff_1k.jpg",
+    "sha256": "57b8041bfe0d0f01430e4dbaad45e7ddddf0a9fc97317f90dbc51f7b0d9e1b5d",
+    "size_bytes": 666655,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "aerial_grass_rock",
+    "kind": "nor_gl",
+    "path": "scene_sources/alpine_snow_1km/source_textures/aerial_grass_rock_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_grass_rock/aerial_grass_rock_nor_gl_1k.jpg",
+    "sha256": "1aa3e23bff453f152e089b9f83aa36b4901651e019f7e2ca01d5331a9bbbda78",
+    "size_bytes": 904956,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "aerial_grass_rock",
+    "kind": "rough",
+    "path": "scene_sources/alpine_snow_1km/source_textures/aerial_grass_rock_rough_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_grass_rock/aerial_grass_rock_rough_1k.jpg",
+    "sha256": "b9f3f76aba74007f708333c0dbe73c52eb83ea0c4187a13e2e994f888a25114a",
+    "size_bytes": 362214,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "brown_mud_leaves_01",
+    "kind": "diff",
+    "path": "scene_sources/alpine_snow_1km/source_textures/brown_mud_leaves_01_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_leaves_01/brown_mud_leaves_01_diff_1k.jpg",
+    "sha256": "c598c555f13cd5328409fd5e2a45496a26e319e52299e3959042f1449c2f1b06",
+    "size_bytes": 1206953,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "brown_mud_leaves_01",
+    "kind": "nor_gl",
+    "path": "scene_sources/alpine_snow_1km/source_textures/brown_mud_leaves_01_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_leaves_01/brown_mud_leaves_01_nor_gl_1k.jpg",
+    "sha256": "8dd5166ddcc293cefd331d491ce6b9162bc9202ddd999ac1e4141697560d38e0",
+    "size_bytes": 1486072,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "brown_mud_leaves_01",
+    "kind": "rough",
+    "path": "scene_sources/alpine_snow_1km/source_textures/brown_mud_leaves_01_rough_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_leaves_01/brown_mud_leaves_01_rough_1k.jpg",
+    "sha256": "9f84b7e7b5fdd2ff9798645fdec243b994fced05e543692761994b793211b5d0",
+    "size_bytes": 644332,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "asset": "brown_mud",
+    "kind": "diff",
+    "path": "scene_sources/alpine_snow_1km/source_textures/brown_mud_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud/brown_mud_diff_1k.jpg",
+    "sha256": "df3f135c899f10a3b018738343b222cbc67d13e7c76c5d8da834a3d34c984417",
+    "size_bytes": 501955,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "brown_mud",
+    "kind": "nor_gl",
+    "path": "scene_sources/alpine_snow_1km/source_textures/brown_mud_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud/brown_mud_nor_gl_1k.jpg",
+    "sha256": "ac517ca39eb507ae0f27e2b3db431c60888f9b5c3c52bec49d2c0775da0920cb",
+    "size_bytes": 1011780,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "brown_mud",
+    "kind": "rough",
+    "path": "scene_sources/alpine_snow_1km/source_textures/brown_mud_rough_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud/brown_mud_rough_1k.jpg",
+    "sha256": "ae9fb57c1173ccb4579f40edf8321a30bdca815042ffd72015a2a707c7e2e7ba",
+    "size_bytes": 340815,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "rock_boulder_dry",
+    "kind": "diff",
+    "path": "scene_sources/alpine_snow_1km/source_textures/rock_boulder_dry_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_diff_1k.jpg",
+    "sha256": "20f653a42fb24f42aa40641663070d578678da49af18cc1049dbdd4ed8679f3c",
+    "size_bytes": 859211,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "rock_boulder_dry",
+    "kind": "nor_gl",
+    "path": "scene_sources/alpine_snow_1km/source_textures/rock_boulder_dry_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_nor_gl_1k.jpg",
+    "sha256": "5915fea28a97357c78a04fb31c2516f1f7ed1b3a9cef4ae25aa93e4655e6c595",
+    "size_bytes": 802497,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "rock_boulder_dry",
+    "kind": "rough",
+    "path": "scene_sources/alpine_snow_1km/source_textures/rock_boulder_dry_rough_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_rough_1k.jpg",
+    "sha256": "cc5229dd6bbdc4e817cb647e60242224b8e4f0237473ac018861ea243f2e8130",
+    "size_bytes": 668127,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "grass_path_2",
+    "kind": "diff",
+    "path": "scene_sources/alpine_snow_1km/source_textures/grass_path_2_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_path_2/grass_path_2_diff_1k.jpg",
+    "sha256": "7f30b163739435c11f500f3818c7bb4922bab5f2734cc9ba6dd36817f0c9a8ab",
+    "size_bytes": 716010,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "grass_path_2",
+    "kind": "nor_gl",
+    "path": "scene_sources/alpine_snow_1km/source_textures/grass_path_2_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_path_2/grass_path_2_nor_gl_1k.jpg",
+    "sha256": "4f6e911619d4c79a6bc340a64eac1e5fcbae8e54ea2674ed1892f6a9a1dfb5fa",
+    "size_bytes": 831959,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  },
+  {
+    "asset": "grass_path_2",
+    "kind": "rough",
+    "path": "scene_sources/alpine_snow_1km/source_textures/grass_path_2_rough_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_path_2/grass_path_2_rough_1k.jpg",
+    "sha256": "2aaf4400e7892d643a4f64d7347f2a0ca65051b5cb0c1b5d0ef383a65a5fa172",
+    "size_bytes": 335245,
+    "resolution": [
+      1024,
+      1024
+    ],
+    "status": "downloaded"
+  }
+]

@@ -1,0 +1,5 @@
+<sdf version="1.6"><model name="uav_power_corridor"><static>true</static><link name="structure">
+<visual name="steel"><geometry><mesh><uri>model://uav_power_corridor/meshes/steel.dae</uri></mesh></geometry></visual><collision name="steel"><geometry><mesh><uri>model://uav_power_corridor/meshes/steel.dae</uri></mesh></geometry></collision>
+<visual name="conductors"><geometry><mesh><uri>model://uav_power_corridor/meshes/conductors.dae</uri></mesh></geometry></visual><collision name="conductors"><geometry><mesh><uri>model://uav_power_corridor/meshes/conductors.dae</uri></mesh></geometry></collision>
+<visual name="insulators"><geometry><mesh><uri>model://uav_power_corridor/meshes/insulators.dae</uri></mesh></geometry></visual><collision name="insulators"><geometry><mesh><uri>model://uav_power_corridor/meshes/insulators.dae</uri></mesh></geometry></collision>
+</link></model></sdf>

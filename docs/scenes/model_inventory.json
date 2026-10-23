@@ -1,0 +1,112 @@
+[
+  {
+    "model": "alpine_snow_1km",
+    "files": 13,
+    "bytes": 71318061
+  },
+  {
+    "model": "apartment",
+    "files": 14,
+    "bytes": 2744572
+  },
+  {
+    "model": "house_1",
+    "files": 11,
+    "bytes": 2146732
+  },
+  {
+    "model": "house_2",
+    "files": 9,
+    "bytes": 1113368
+  },
+  {
+    "model": "house_3",
+    "files": 9,
+    "bytes": 1038018
+  },
+  {
+    "model": "kenney_skyscraper_a",
+    "files": 6,
+    "bytes": 93456
+  },
+  {
+    "model": "kenney_skyscraper_b",
+    "files": 6,
+    "bytes": 110727
+  },
+  {
+    "model": "kenney_skyscraper_c",
+    "files": 6,
+    "bytes": 119950
+  },
+  {
+    "model": "kenney_skyscraper_d",
+    "files": 6,
+    "bytes": 137420
+  },
+  {
+    "model": "kenney_skyscraper_e",
+    "files": 6,
+    "bytes": 77911
+  },
+  {
+    "model": "law_office",
+    "files": 14,
+    "bytes": 2834031
+  },
+  {
+    "model": "mountain_lakes_1km",
+    "files": 17,
+    "bytes": 77141217
+  },
+  {
+    "model": "oak_tree",
+    "files": 10,
+    "bytes": 322248
+  },
+  {
+    "model": "pine_tree",
+    "files": 8,
+    "bytes": 622227
+  },
+  {
+    "model": "uav_power_corridor",
+    "files": 7,
+    "bytes": 694413
+  },
+  {
+    "model": "urban_civic_6",
+    "files": 7,
+    "bytes": 261104
+  },
+  {
+    "model": "urban_infrastructure",
+    "files": 7,
+    "bytes": 1478391
+  },
+  {
+    "model": "urban_office_20",
+    "files": 7,
+    "bytes": 733787
+  },
+  {
+    "model": "urban_office_28",
+    "files": 7,
+    "bytes": 1031150
+  },
+  {
+    "model": "urban_residence_12",
+    "files": 7,
+    "bytes": 486141
+  },
+  {
+    "model": "urban_residence_18",
+    "files": 7,
+    "bytes": 686535
+  },
+  {
+    "model": "urban_river_1km",
+    "files": 19,
+    "bytes": 69141013
+  }
+]

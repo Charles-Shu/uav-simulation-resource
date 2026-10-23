@@ -8,8 +8,30 @@ sensor_plugins/
 # 传感器模型（来自 livox_laser_simulation / realsense_ros_gazebo 第三方包）
 models/sensors/
 
-# 世界场景引用的树模型（第三方，来源待确认）
-worlds/models/
+# Only the reviewed, attributed three-scene model bundle is published.
+worlds/models/*
+!worlds/models/alpine_snow_1km/
+!worlds/models/mountain_lakes_1km/
+!worlds/models/urban_river_1km/
+!worlds/models/urban_infrastructure/
+!worlds/models/urban_civic_6/
+!worlds/models/urban_residence_12/
+!worlds/models/urban_residence_18/
+!worlds/models/urban_office_20/
+!worlds/models/urban_office_28/
+!worlds/models/kenney_skyscraper_a/
+!worlds/models/kenney_skyscraper_b/
+!worlds/models/kenney_skyscraper_c/
+!worlds/models/kenney_skyscraper_d/
+!worlds/models/kenney_skyscraper_e/
+!worlds/models/apartment/
+!worlds/models/law_office/
+!worlds/models/house_1/
+!worlds/models/house_2/
+!worlds/models/house_3/
+!worlds/models/pine_tree/
+!worlds/models/oak_tree/
+!worlds/models/uav_power_corridor/
 
 # 3D Warehouse 海鸥模型（ARGO，不随仓库分发）
 dynamic_obstacles/models/ARGO/
@@ -20,6 +42,12 @@ dynamic_obstacles/models/ARGO/
 
 # Blender 源文件（Gazebo 仅用 .dae 网格）
 *.blend
+!scene_sources/*/blender/*.blend
+*.blend1
+worlds/.scene-build/
+scene_sources/*/validation/
+scene_sources/*/previews/
+tests/output/
 
 # 已编译插件/动态库
 *.so

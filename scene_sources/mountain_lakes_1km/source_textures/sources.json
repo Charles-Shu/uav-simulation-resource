@@ -1,0 +1,434 @@
+{
+  "retrieved_utc": "2026-10-21T16:07:28.700030Z",
+  "provider": "Poly Haven",
+  "license": "CC0-1.0",
+  "license_page": "https://polyhaven.com/license",
+  "license_deed": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "no_watermarks": "Original downloadable texture maps; no previews, logos or watermarks used.",
+  "assets": [
+    {
+      "id": "aerial_rocks_04",
+      "author": "Rob Tuytel",
+      "asset_url": "https://polyhaven.com/a/aerial_rocks_04",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_scale_m": 80.0,
+      "note": "Unmodified source texture reused from alpine_snow_1km.",
+      "files": [
+        {
+          "asset": "aerial_rocks_04",
+          "kind": "diff",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/aerial_rocks_04_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_rocks_04/aerial_rocks_04_diff_1k.jpg",
+          "sha256": "5ac472016a6740bd3c62b1d719bf128e0659022fb35853f4e847737522337ffa",
+          "size_bytes": 841479,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified",
+          "reused_from": "scene_sources/alpine_snow_1km/source_textures/aerial_rocks_04_diff_1k.jpg"
+        },
+        {
+          "asset": "aerial_rocks_04",
+          "kind": "nor_gl",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/aerial_rocks_04_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_rocks_04/aerial_rocks_04_nor_gl_1k.jpg",
+          "sha256": "b4fe185783020d81b595397ef3b920475268a4873dc8b6efdd58f4312e07140b",
+          "size_bytes": 1242717,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified",
+          "reused_from": "scene_sources/alpine_snow_1km/source_textures/aerial_rocks_04_nor_gl_1k.jpg"
+        },
+        {
+          "asset": "aerial_rocks_04",
+          "kind": "rough",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/aerial_rocks_04_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_rocks_04/aerial_rocks_04_rough_1k.jpg",
+          "sha256": "1188f103fb1e1b08793cbbe2da73440cbedfdf4eefc576429990da905964a573",
+          "size_bytes": 449735,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified",
+          "reused_from": "scene_sources/alpine_snow_1km/source_textures/aerial_rocks_04_rough_1k.jpg"
+        }
+      ]
+    },
+    {
+      "id": "brown_mud_leaves_01",
+      "author": "Rob Tuytel",
+      "asset_url": "https://polyhaven.com/a/brown_mud_leaves_01",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_scale_m": 1.3,
+      "note": "Unmodified source texture reused from alpine_snow_1km.",
+      "files": [
+        {
+          "asset": "brown_mud_leaves_01",
+          "kind": "diff",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/brown_mud_leaves_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_leaves_01/brown_mud_leaves_01_diff_1k.jpg",
+          "sha256": "c598c555f13cd5328409fd5e2a45496a26e319e52299e3959042f1449c2f1b06",
+          "size_bytes": 1206953,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified",
+          "reused_from": "scene_sources/alpine_snow_1km/source_textures/brown_mud_leaves_01_diff_1k.jpg"
+        },
+        {
+          "asset": "brown_mud_leaves_01",
+          "kind": "nor_gl",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/brown_mud_leaves_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_leaves_01/brown_mud_leaves_01_nor_gl_1k.jpg",
+          "sha256": "8dd5166ddcc293cefd331d491ce6b9162bc9202ddd999ac1e4141697560d38e0",
+          "size_bytes": 1486072,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified",
+          "reused_from": "scene_sources/alpine_snow_1km/source_textures/brown_mud_leaves_01_nor_gl_1k.jpg"
+        },
+        {
+          "asset": "brown_mud_leaves_01",
+          "kind": "rough",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/brown_mud_leaves_01_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_leaves_01/brown_mud_leaves_01_rough_1k.jpg",
+          "sha256": "9f84b7e7b5fdd2ff9798645fdec243b994fced05e543692761994b793211b5d0",
+          "size_bytes": 644332,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified",
+          "reused_from": "scene_sources/alpine_snow_1km/source_textures/brown_mud_leaves_01_rough_1k.jpg"
+        }
+      ]
+    },
+    {
+      "id": "brown_mud",
+      "author": "Rob Tuytel",
+      "asset_url": "https://polyhaven.com/a/brown_mud",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_scale_m": 1.3,
+      "note": "Unmodified source texture reused from alpine_snow_1km.",
+      "files": [
+        {
+          "asset": "brown_mud",
+          "kind": "diff",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/brown_mud_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud/brown_mud_diff_1k.jpg",
+          "sha256": "df3f135c899f10a3b018738343b222cbc67d13e7c76c5d8da834a3d34c984417",
+          "size_bytes": 501955,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified",
+          "reused_from": "scene_sources/alpine_snow_1km/source_textures/brown_mud_diff_1k.jpg"
+        },
+        {
+          "asset": "brown_mud",
+          "kind": "nor_gl",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/brown_mud_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud/brown_mud_nor_gl_1k.jpg",
+          "sha256": "ac517ca39eb507ae0f27e2b3db431c60888f9b5c3c52bec49d2c0775da0920cb",
+          "size_bytes": 1011780,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified",
+          "reused_from": "scene_sources/alpine_snow_1km/source_textures/brown_mud_nor_gl_1k.jpg"
+        },
+        {
+          "asset": "brown_mud",
+          "kind": "rough",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/brown_mud_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud/brown_mud_rough_1k.jpg",
+          "sha256": "ae9fb57c1173ccb4579f40edf8321a30bdca815042ffd72015a2a707c7e2e7ba",
+          "size_bytes": 340815,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified",
+          "reused_from": "scene_sources/alpine_snow_1km/source_textures/brown_mud_rough_1k.jpg"
+        }
+      ]
+    },
+    {
+      "id": "rock_boulder_dry",
+      "author": "Dimitrios Savva (photography); Rico Cilliers (processing)",
+      "asset_url": "https://polyhaven.com/a/rock_boulder_dry",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_scale_m": 1.8,
+      "note": "Unmodified source texture reused from alpine_snow_1km.",
+      "files": [
+        {
+          "asset": "rock_boulder_dry",
+          "kind": "diff",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/rock_boulder_dry_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_diff_1k.jpg",
+          "sha256": "20f653a42fb24f42aa40641663070d578678da49af18cc1049dbdd4ed8679f3c",
+          "size_bytes": 859211,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified",
+          "reused_from": "scene_sources/alpine_snow_1km/source_textures/rock_boulder_dry_diff_1k.jpg"
+        },
+        {
+          "asset": "rock_boulder_dry",
+          "kind": "nor_gl",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/rock_boulder_dry_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_nor_gl_1k.jpg",
+          "sha256": "5915fea28a97357c78a04fb31c2516f1f7ed1b3a9cef4ae25aa93e4655e6c595",
+          "size_bytes": 802497,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified",
+          "reused_from": "scene_sources/alpine_snow_1km/source_textures/rock_boulder_dry_nor_gl_1k.jpg"
+        },
+        {
+          "asset": "rock_boulder_dry",
+          "kind": "rough",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/rock_boulder_dry_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_rough_1k.jpg",
+          "sha256": "cc5229dd6bbdc4e817cb647e60242224b8e4f0237473ac018861ea243f2e8130",
+          "size_bytes": 668127,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "copied_verified",
+          "reused_from": "scene_sources/alpine_snow_1km/source_textures/rock_boulder_dry_rough_1k.jpg"
+        }
+      ]
+    },
+    {
+      "id": "leafy_grass",
+      "author": "Charlotte Baglioni",
+      "asset_url": "https://polyhaven.com/a/leafy_grass",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_scale_m": 2,
+      "note": "Unmodified original downloadable 1K maps, no watermark.",
+      "files": [
+        {
+          "asset": "leafy_grass",
+          "kind": "diff",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/leafy_grass_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_diff_1k.jpg",
+          "sha256": "cfa40bc9d9417d1852db8753a8d5917f110c40101179f63543c382e39bc05e4a",
+          "source_md5": "0dbc071e91d6905edfcfbe8eb785a1ab",
+          "size_bytes": 1195394,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified"
+        },
+        {
+          "asset": "leafy_grass",
+          "kind": "nor_gl",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/leafy_grass_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_nor_gl_1k.jpg",
+          "sha256": "832328216adc0a7e1f70a31d5ee48c9ab7f2152d83816122736cf42ac4b2ebd6",
+          "source_md5": "8279e096e204ea326d57a318869f99df",
+          "size_bytes": 1466049,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified"
+        },
+        {
+          "asset": "leafy_grass",
+          "kind": "rough",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/leafy_grass_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_rough_1k.jpg",
+          "sha256": "0c2a1d91aacb8e54a496051b59854e51e456fe858abeade778e308359ef16463",
+          "source_md5": "05f6bb1383e12b327727d313c5899cf2",
+          "size_bytes": 511385,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified"
+        }
+      ]
+    },
+    {
+      "id": "sand_02",
+      "author": "Charlotte Baglioni",
+      "asset_url": "https://polyhaven.com/a/sand_02",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_scale_m": 2,
+      "note": "Unmodified original downloadable 1K maps, no watermark.",
+      "files": [
+        {
+          "asset": "sand_02",
+          "kind": "diff",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/sand_02_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_02/sand_02_diff_1k.jpg",
+          "sha256": "1429b1930308f623f3d9ff56315b0c894004731c239019353ff9bfefabe70ee9",
+          "source_md5": "e14de87d9427a79a5e8e6341c39d1da8",
+          "size_bytes": 981243,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified"
+        },
+        {
+          "asset": "sand_02",
+          "kind": "nor_gl",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/sand_02_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_02/sand_02_nor_gl_1k.jpg",
+          "sha256": "95d3686b83b60313892d545607cab21a2957e69c81cbf91d725dc3f20c443a8e",
+          "source_md5": "fca8d75a7fba03a673dbba8ada9f53d7",
+          "size_bytes": 1110354,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified"
+        },
+        {
+          "asset": "sand_02",
+          "kind": "rough",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/sand_02_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_02/sand_02_rough_1k.jpg",
+          "sha256": "686ed8a31d58a3227ad6c7fa42f94000abf622fce9c662d5af55b77c57340c14",
+          "source_md5": "f226f77c2c13b721212ca173fb997631",
+          "size_bytes": 396186,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified"
+        }
+      ]
+    },
+    {
+      "id": "grass_ground",
+      "author": "Charlotte Baglioni",
+      "asset_url": "https://polyhaven.com/a/grass_ground",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_scale_m": null,
+      "note": "Unmodified original texture; alternative for main grass or dry sand.",
+      "files": [
+        {
+          "asset": "grass_ground",
+          "kind": "diff",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/grass_ground_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_ground/grass_ground_diff_1k.jpg",
+          "sha256": "a79cc5ed65af0f80261b39a383b64a8c5272c5144d724deb43dbc29f0e4cd19b",
+          "source_md5": "299047258586c762735b7284d3c662c3",
+          "size_bytes": 876584,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified"
+        },
+        {
+          "asset": "grass_ground",
+          "kind": "nor_gl",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/grass_ground_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_ground/grass_ground_nor_gl_1k.jpg",
+          "sha256": "7000e2ccd479bb7b66dcdf4faef7b47554324566886314ca620cbf03e274e826",
+          "source_md5": "d518c5b2af6f2c0297bc807b351f511f",
+          "size_bytes": 1310516,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified"
+        },
+        {
+          "asset": "grass_ground",
+          "kind": "rough",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/grass_ground_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/grass_ground/grass_ground_rough_1k.jpg",
+          "sha256": "111341f948b7e073edf7ac6add8777e1bf10df8959400df3863243e89bbc8c08",
+          "source_md5": "2e6afca246cf6b80bdb53f46fe7e5ce5",
+          "size_bytes": 328190,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified"
+        }
+      ]
+    },
+    {
+      "id": "sand_01",
+      "author": "Rob Tuytel",
+      "asset_url": "https://polyhaven.com/a/sand_01",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "original_scale_m": null,
+      "note": "Unmodified original texture; alternative for main grass or dry sand.",
+      "files": [
+        {
+          "asset": "sand_01",
+          "kind": "diff",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/sand_01_diff_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_01/sand_01_diff_1k.jpg",
+          "sha256": "a73b90eaa6d675ef57e7d48a8cf23e1f412e353ab2e29cf73930b8ecd4e76875",
+          "source_md5": "c914c8edb419f040e04224081a3f79a5",
+          "size_bytes": 485088,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified"
+        },
+        {
+          "asset": "sand_01",
+          "kind": "nor_gl",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/sand_01_nor_gl_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_01/sand_01_nor_gl_1k.jpg",
+          "sha256": "73984aecdc35b1ffbc322d64b7f8d8165b06970d11f37dd47010609fcb532704",
+          "source_md5": "369b82aa417c77ec85c4c07c4c7b60a0",
+          "size_bytes": 877821,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified"
+        },
+        {
+          "asset": "sand_01",
+          "kind": "rough",
+          "path": "scene_sources/mountain_lakes_1km/source_textures/sand_01_rough_1k.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/sand_01/sand_01_rough_1k.jpg",
+          "sha256": "ccb179b12c56a9032d60e4f4e2da690b3612a58e1784eb14576372690cdcd1cb",
+          "source_md5": "663d0ddf782a427b7da4e247c939e73b",
+          "size_bytes": 189667,
+          "resolution": [
+            1024,
+            1024
+          ],
+          "status": "downloaded_verified"
+        }
+      ]
+    }
+  ]
+}
